@@ -35,6 +35,7 @@ The dashboard includes *two key interactive charts*:
 ### 6. *Recent Search History*
 - Allows users to quickly revisit past queries and insights.
 
+
 ## Tech Stack
 - *Frontend:* React 18, TypeScript, Vite, Tailwind CSS
 - *Backend:* Node.js, Express.js, MongoDB
@@ -66,4 +67,4 @@ The dashboard includes *two key interactive charts*:
 - *Voice-based assistant for enhanced user interaction.*
 
 ## Live Demo
-Check out the live demo:(sbi-life.vercel.app)
+Check out the live demo: [SBI Life Dashboard (Vercel)](https://sbi-life.vercel.app)
