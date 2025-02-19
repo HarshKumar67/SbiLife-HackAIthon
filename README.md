@@ -66,4 +66,4 @@ The dashboard includes *two key interactive charts*:
 - *Voice-based assistant for enhanced user interaction.*
 
 ## Live Demo
-Check out the live demo: [SBI Life Dashboard](sbi-life.vercel.app)
+Check out the live demo:(sbi-life.vercel.app)
