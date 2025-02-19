@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Propensity Score Calculator</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .form-group { margin-bottom: 15px; }
+        label { display: block; margin-bottom: 5px; }
+        input, select { width: 100%; padding: 8px; margin-bottom: 10px; }
+        button { background-color: #4CAF50; color: white; padding: 10px 15px; border: none; cursor: pointer; }
+        button:hover { background-color: #45a049; }
+    </style>
+</head>
+<body>
+    <h2>Customer Propensity Calculator</h2>
+    <form action="{{ url_for('predict') }}" method="post">
+        <div class="form-group">
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required min="18" max="100" value="30">
+        </div>
+        
+        <div class="form-group">
+            <label for="occupation">Occupation:</label>
+            <select id="occupation" name="occupation" required>
+                <option value="Professional">Professional</option>
+                <option value="Business owner">Business</option>
+                <option value="Student">Student</option>
+                <option value="Other">Other</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="website_visits">Website Visits (last 30 days):</label>
+            <input type="number" id="website_visits" name="website_visits" required min="0" value="5">
+        </div>
+        
+        <div class="form-group">
+            <label for="annual_income">Annual Income:</label>
+            <input type="number" id="annual_income" name="annual_income" required min="0" value="50000">
+        </div>
+        
+        <div class="form-group">
+            <label for="expenses">Monthly Expenses:</label>
+            <input type="number" id="expenses" name="expenses" required min="0" value="2000">
+        </div>
+        
+        <div class="form-group">
+            <label for="credit_score">Credit Score:</label>
+            <input type="number" id="credit_score" name="credit_score" required min="300" max="850" value="700">
+        </div>
+        
+        <button type="submit">Calculate Propensity</button>
+    </form>
+</body>
+</html>

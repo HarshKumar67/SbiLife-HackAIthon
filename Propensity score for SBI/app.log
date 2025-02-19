@@ -1,0 +1,29 @@
+2025-02-15 20:43:58,986 - ERROR - Model version incompatibility detected: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+2025-02-15 20:43:58,986 - ERROR - Current scikit-learn version: 1.5.2
+2025-02-15 20:43:58,997 - ERROR - Please retrain the model with the current scikit-learn version
+2025-02-15 20:43:58,997 - ERROR - Failed to load model at startup. Please check the model file and versions.
+2025-02-15 20:43:59,081 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-15 20:43:59,083 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-15 20:43:59,086 - INFO -  * Restarting with stat
+2025-02-15 20:44:01,886 - ERROR - Model version incompatibility detected: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+2025-02-15 20:44:01,886 - ERROR - Current scikit-learn version: 1.5.2
+2025-02-15 20:44:01,889 - ERROR - Please retrain the model with the current scikit-learn version
+2025-02-15 20:44:01,889 - ERROR - Failed to load model at startup. Please check the model file and versions.
+2025-02-15 20:44:01,913 - WARNING -  * Debugger is active!
+2025-02-15 20:44:01,930 - INFO -  * Debugger PIN: 951-739-017
+2025-02-15 20:44:10,544 - INFO - 127.0.0.1 - - [15/Feb/2025 20:44:10] "GET / HTTP/1.1" 200 -
+2025-02-15 20:44:10,705 - INFO - 127.0.0.1 - - [15/Feb/2025 20:44:10] "GET /static/style.css HTTP/1.1" 200 -
+2025-02-15 20:44:11,238 - INFO - 127.0.0.1 - - [15/Feb/2025 20:44:11] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-02-15 20:44:50,540 - ERROR - Unexpected error in predict route: error.html
+2025-02-15 20:44:50,561 - INFO - 127.0.0.1 - - [15/Feb/2025 20:44:50] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2025-02-15 20:44:50,643 - INFO - 127.0.0.1 - - [15/Feb/2025 20:44:50] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-15 20:44:50,671 - INFO - 127.0.0.1 - - [15/Feb/2025 20:44:50] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-15 20:44:50,745 - INFO - 127.0.0.1 - - [15/Feb/2025 20:44:50] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=bOkhcNUWyrNpPEQyYq70 HTTP/1.1" 200 -
+2025-02-15 20:44:50,769 - INFO - 127.0.0.1 - - [15/Feb/2025 20:44:50] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-15 20:55:34,628 - INFO -  * Detected change in 'E:\\Propensity score for SBI\\app.py', reloading
+2025-02-15 20:55:35,032 - INFO -  * Restarting with stat

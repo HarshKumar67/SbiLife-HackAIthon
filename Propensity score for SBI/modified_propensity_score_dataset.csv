@@ -1,0 +1,1001 @@
+Customer_ID,Name,Age,Gender,Marital_Status,City,State,Occupation,Annual_Income,Expenses,Credit_Score,Website_Visits,Search_History,Chatbot_Interactions,Active_Policies,Matured_Policies,Payment_History,Premium_Type,Email_Response_Rate,App_Interactions,Feedback_Score,Propensity_Score
+0,Vikram Bose,61,Female,Married,Chennai,Tamil Nadu,Civil Engineer,541941,449289,729,49,Car Insurance,7,5,0,On-time,Yearly,0.7905133738633766,84,4,0.57
+1,Pankaj Yadav,47,Male,Single,Jaipur,Rajasthan,Bank Manager,493615,740599,838,46,Car Insurance,12,0,3,On-time,Lump Sum,0.0349007596510156,70,2,0.56
+2,Suresh Bose,26,Female,Single,Chennai,Tamil Nadu,Shop Owner,1588584,1291201,635,24,Car Insurance,7,0,3,On-time,Monthly,0.3422879477828633,75,2,0.55
+3,Amit Nair,27,Male,Married,Hyderabad,Telangana,Shop Owner,707939,686906,387,38,Life Insurance,14,0,1,Late,Yearly,0.8358502974824,98,10,0.57
+4,Sneha Nair,28,Male,Married,Chennai,Tamil Nadu,Teacher,977200,1178839,838,9,Retirement Plans,1,5,2,On-time,Lump Sum,0.2921490537956971,89,10,0.54
+5,Meena Saxena,58,Male,Single,Lucknow,Uttar Pradesh,Journalist,381502,87439,394,45,Car Insurance,20,2,0,Late,Yearly,0.7917980053380653,48,6,0.59
+6,Priya Kumar,39,Male,Single,Ahmedabad,Gujarat,Bank Manager,1313145,768640,741,45,Life Insurance,2,1,2,On-time,Lump Sum,0.5183842209176961,64,2,0.6
+7,Rahul Malhotra,37,Female,Single,Patna,Bihar,Lawyer,567528,1213769,848,26,Health Insurance,2,4,3,On-time,Yearly,0.2915691012880883,67,3,0.44
+8,Neha Kumar,36,Male,Single,Hyderabad,Telangana,Journalist,1380912,1369673,503,36,Health Insurance,12,4,3,Late,Lump Sum,0.4703655347147629,17,4,0.55
+9,Arun Singh,26,Female,Married,Indore,Madhya Pradesh,Doctor,586436,1087952,785,8,Life Insurance,7,4,1,On-time,Lump Sum,0.1799286475524999,22,1,0.41
+10,Sneha Saxena,62,Male,Single,Indore,Madhya Pradesh,Mechanic,302567,962613,612,29,Investment Plans,1,3,3,Late,Yearly,0.9556609729612454,20,2,0.37
+11,Dinesh Yadav,46,Male,Married,Jaipur,Rajasthan,Software Engineer,931274,1028025,539,29,Life Insurance,8,2,3,Late,Monthly,0.8854268310936662,33,6,0.51
+12,Rajesh Verma,49,Male,Married,Chennai,Tamil Nadu,Journalist,281685,719597,764,25,Investment Plans,12,2,3,On-time,Monthly,0.0431655141615666,91,1,0.46
+13,Rajesh Kumar,34,Female,Married,Ahmedabad,Gujarat,Journalist,577424,119833,706,35,Investment Plans,12,1,2,On-time,Lump Sum,0.719020204145055,35,10,0.66
+14,Rahul Saxena,53,Male,Single,Bangalore,Karnataka,Plumber,1304440,1359493,466,10,Health Insurance,15,5,1,On-time,Monthly,0.4469989070181187,38,6,0.52
+15,Sneha Reddy,43,Female,Single,Lucknow,Uttar Pradesh,Mechanic,1973514,512562,865,46,Car Insurance,9,5,0,Late,Lump Sum,0.0582655328423783,17,5,0.82
+16,Kavita Yadav,40,Female,Single,Pune,Maharashtra,Lawyer,1728517,329035,819,34,Investment Plans,10,4,1,Late,Monthly,0.9262001533444584,100,1,0.74
+17,Arun Sharma,23,Male,Married,Mumbai,Maharashtra,Farmer,1031569,418696,600,10,Investment Plans,3,0,3,On-time,Lump Sum,0.657907173857396,7,7,0.55
+18,Meena Patel,58,Male,Single,Chennai,Tamil Nadu,Electrician,1373141,936965,529,16,Retirement Plans,5,4,1,Late,Monthly,0.6617144649794948,67,3,0.52
+19,Manish Malhotra,27,Female,Single,Pune,Maharashtra,Civil Engineer,420047,364059,404,17,Retirement Plans,7,4,2,On-time,Monthly,0.5243710872014229,3,1,0.4
+20,Manish Gupta,48,Female,Married,Lucknow,Uttar Pradesh,Businessman,650494,1293687,564,23,Retirement Plans,1,1,1,On-time,Monthly,0.0474631181258431,79,1,0.35
+21,Rohit Sharma,42,Female,Married,Ahmedabad,Gujarat,Nurse,1625642,1032405,412,8,Health Insurance,11,1,2,On-time,Lump Sum,0.3652303805379863,65,7,0.57
+22,Pooja Malhotra,59,Male,Single,Bangalore,Karnataka,Mechanic,656762,665906,676,25,Retirement Plans,10,4,0,On-time,Monthly,0.3701681636069943,83,2,0.5
+23,Rahul Agarwal,60,Male,Single,Delhi,Delhi,Nurse,1841393,171716,723,46,Retirement Plans,4,0,2,On-time,Monthly,0.8489814439327855,75,8,0.81
+24,Manish Malhotra,23,Female,Married,Ahmedabad,Gujarat,Electrician,1708756,1038086,728,30,Car Insurance,10,3,0,Late,Lump Sum,0.5728350793360119,78,1,0.63
+25,Priya Agarwal,42,Male,Single,Chennai,Tamil Nadu,Teacher,364635,784558,823,45,Health Insurance,14,2,1,On-time,Lump Sum,0.3938584442951194,69,10,0.62
+26,Pooja Nair,37,Male,Single,Delhi,Delhi,Farmer,1096295,201972,561,21,Life Insurance,5,1,2,On-time,Monthly,0.920444542518059,34,2,0.56
+27,Anjali Reddy,52,Male,Single,Pune,Maharashtra,Government Employee,624490,110964,528,48,Car Insurance,6,4,3,On-time,Monthly,0.3169815197519964,40,9,0.62
+28,Sunita Reddy,27,Male,Married,Mumbai,Maharashtra,Journalist,905213,1122168,766,36,Investment Plans,7,1,2,On-time,Monthly,0.974756999215241,94,4,0.54
+29,Neha Verma,64,Male,Single,Indore,Madhya Pradesh,Software Engineer,1187251,735652,590,43,Investment Plans,13,3,0,Late,Yearly,0.9077482020400568,91,7,0.66
+30,Divya Iyer,29,Female,Married,Bangalore,Karnataka,Lawyer,1914246,1183740,893,44,Investment Plans,13,0,0,Late,Lump Sum,0.3047317702366323,75,10,0.82
+31,Sunita Gupta,36,Male,Married,Bangalore,Karnataka,Bank Manager,1113084,1130307,831,34,Investment Plans,9,0,3,Late,Lump Sum,0.0564283435747667,60,6,0.61
+32,Suman Joshi,43,Male,Married,Patna,Bihar,Mechanic,1749711,1105061,492,18,Health Insurance,15,4,2,On-time,Yearly,0.6618784594197045,12,4,0.61
+33,Kavita Bose,22,Male,Single,Lucknow,Uttar Pradesh,Teacher,835456,588493,389,50,Retirement Plans,16,2,3,Late,Yearly,0.8022027193348759,16,1,0.54
+34,Manish Iyer,42,Male,Married,Delhi,Delhi,Nurse,1451644,210289,890,30,Retirement Plans,6,5,2,On-time,Yearly,0.7748705309901665,98,4,0.72
+35,Rajesh Patel,22,Female,Married,Bangalore,Karnataka,Journalist,712714,711172,404,17,Health Insurance,4,4,3,Late,Yearly,0.9062583359314782,52,4,0.42
+36,Divya Saxena,62,Female,Married,Bangalore,Karnataka,Government Employee,1905607,1003900,496,20,Car Insurance,7,5,1,Late,Monthly,0.5451164160107217,20,1,0.58
+37,Arun Yadav,26,Male,Married,Patna,Bihar,Plumber,934489,928184,814,13,Investment Plans,6,0,1,On-time,Lump Sum,0.2621718427048534,78,10,0.58
+38,Rahul Malhotra,42,Female,Single,Chennai,Tamil Nadu,Journalist,1239761,156501,632,27,Car Insurance,3,1,2,Late,Lump Sum,0.4901516342296907,57,5,0.63
+39,Anjali Gupta,49,Male,Married,Chennai,Tamil Nadu,Bank Manager,1117910,1429895,563,22,Health Insurance,7,2,0,Late,Yearly,0.7530628550348374,51,10,0.53
+40,Manish Chopra,35,Female,Single,Jaipur,Rajasthan,Teacher,1978292,207241,845,1,Investment Plans,11,3,3,On-time,Yearly,0.2491752502025778,92,10,0.82
+41,Sneha Joshi,28,Male,Single,Pune,Maharashtra,Shop Owner,391984,1343342,607,48,Life Insurance,20,0,0,On-time,Lump Sum,0.3023536372512871,43,4,0.5
+42,Kavita Bose,60,Female,Married,Hyderabad,Telangana,Bank Manager,1479854,614397,685,28,Car Insurance,17,3,1,On-time,Yearly,0.2904450356288339,97,9,0.74
+43,Amit Sharma,40,Male,Married,Lucknow,Uttar Pradesh,Bank Manager,279482,1473145,573,20,Retirement Plans,5,0,0,On-time,Lump Sum,0.1616209113911966,15,3,0.32
+44,Rohit Sharma,62,Male,Married,Lucknow,Uttar Pradesh,Farmer,496835,1218554,842,16,Car Insurance,12,2,0,On-time,Lump Sum,0.2782283675402626,3,9,0.52
+45,Sneha Nair,50,Male,Married,Hyderabad,Telangana,Nurse,1453179,172274,333,44,Health Insurance,10,1,0,Late,Yearly,0.7100887690199718,36,7,0.68
+46,Sunita Patel,64,Male,Married,Mumbai,Maharashtra,Teacher,1849510,366616,353,32,Car Insurance,5,3,2,Late,Monthly,0.0829942074578862,31,4,0.65
+47,Anjali Pandey,45,Male,Single,Mumbai,Maharashtra,Shop Owner,464524,1011661,835,36,Health Insurance,14,0,1,Late,Monthly,0.7454817560509852,17,1,0.51
+48,Divya Verma,53,Female,Married,Patna,Bihar,Software Engineer,1518675,1388396,667,8,Investment Plans,13,2,3,Late,Lump Sum,0.5219798479288239,68,3,0.55
+49,Suman Sharma,49,Male,Single,Ahmedabad,Gujarat,Shop Owner,1655835,481498,409,14,Car Insurance,9,3,2,Late,Monthly,0.2219605674908888,99,10,0.66
+50,Kavita Malhotra,65,Female,Married,Indore,Madhya Pradesh,Journalist,1177124,862789,443,28,Health Insurance,11,4,2,On-time,Yearly,0.4538737931649275,49,8,0.58
+51,Suman Mehta,47,Female,Married,Patna,Bihar,Businessman,673046,745181,475,35,Investment Plans,12,3,0,Late,Monthly,0.6994043929562642,62,2,0.48
+52,Rajesh Pandey,44,Male,Single,Hyderabad,Telangana,Teacher,377091,484145,624,31,Retirement Plans,19,2,3,On-time,Monthly,0.524268814936545,35,7,0.57
+53,Sneha Iyer,31,Female,Married,Kolkata,West Bengal,Government Employee,1550225,103539,807,32,Health Insurance,19,2,0,On-time,Monthly,0.9140261784130664,9,8,0.84
+54,Suresh Saxena,54,Female,Single,Jaipur,Rajasthan,Software Engineer,1583085,818337,890,45,Health Insurance,2,3,3,On-time,Yearly,0.6700493956546579,36,7,0.72
+55,Sneha Sharma,37,Female,Married,Patna,Bihar,Government Employee,1372397,1323310,409,8,Car Insurance,2,5,3,On-time,Yearly,0.7761621101307647,69,7,0.46
+56,Dinesh Agarwal,53,Female,Single,Hyderabad,Telangana,Plumber,265613,727714,485,22,Investment Plans,18,2,3,On-time,Lump Sum,0.5881401155171481,25,5,0.46
+57,Rohit Agarwal,28,Male,Single,Chennai,Tamil Nadu,Government Employee,1384527,141413,884,29,Health Insurance,13,3,0,Late,Yearly,0.2879776105623995,76,1,0.72
+58,Rohit Singh,29,Male,Married,Pune,Maharashtra,Software Engineer,462618,367449,312,3,Car Insurance,12,2,2,Late,Lump Sum,0.1047145589032688,94,6,0.43
+59,Suresh Iyer,35,Female,Single,Mumbai,Maharashtra,Businessman,1043178,271698,514,17,Health Insurance,15,0,0,Late,Lump Sum,0.6452732970235993,0,6,0.61
+60,Rahul Verma,34,Male,Single,Lucknow,Uttar Pradesh,Mechanic,1276964,182563,647,16,Retirement Plans,4,5,3,Late,Lump Sum,0.3225436100126603,45,4,0.61
+61,Priya Malhotra,57,Female,Married,Jaipur,Rajasthan,Plumber,1103516,401316,838,27,Life Insurance,10,5,3,On-time,Yearly,0.819491125192875,11,10,0.72
+62,Arun Chopra,30,Male,Married,Delhi,Delhi,Mechanic,279568,424017,335,40,Health Insurance,1,1,3,Late,Lump Sum,0.0525951119358056,91,10,0.46
+63,Arun Verma,55,Male,Married,Ahmedabad,Gujarat,Bank Manager,1299021,288837,565,45,Life Insurance,15,3,2,Late,Lump Sum,0.0953255617220184,69,9,0.75
+64,Rohit Iyer,42,Female,Married,Mumbai,Maharashtra,Plumber,1162137,1104818,732,3,Car Insurance,6,3,3,On-time,Monthly,0.38810623311319,54,8,0.54
+65,Rohit Gupta,29,Female,Single,Ahmedabad,Gujarat,Businessman,1134156,1032526,404,18,Retirement Plans,11,5,0,On-time,Lump Sum,0.229263860614349,97,7,0.52
+66,Pankaj Das,39,Male,Married,Kolkata,West Bengal,Lawyer,214349,1355803,609,37,Life Insurance,2,1,3,On-time,Lump Sum,0.8960597392573287,57,9,0.41
+67,Manish Joshi,41,Male,Married,Patna,Bihar,Shop Owner,790393,505830,521,31,Life Insurance,18,4,2,Late,Monthly,0.983788381101986,28,5,0.59
+68,Rahul Reddy,62,Female,Married,Delhi,Delhi,Mechanic,298465,1313963,894,29,Investment Plans,2,0,3,On-time,Lump Sum,0.1441857190787701,71,5,0.43
+69,Rajesh Pandey,40,Male,Single,Indore,Madhya Pradesh,Lawyer,987710,444062,573,21,Car Insurance,14,0,3,On-time,Yearly,0.2549010923438395,28,1,0.55
+70,Anjali Iyer,54,Male,Married,Jaipur,Rajasthan,Bank Manager,368274,1221786,668,18,Health Insurance,18,1,2,Late,Monthly,0.4470534173961396,63,10,0.51
+71,Pooja Sharma,57,Male,Married,Patna,Bihar,Doctor,271417,1054730,364,3,Retirement Plans,5,5,3,Late,Lump Sum,0.9150653813013728,55,2,0.27
+72,Arun Yadav,57,Female,Single,Indore,Madhya Pradesh,Doctor,1408506,1388017,657,10,Investment Plans,12,1,3,On-time,Monthly,0.3692723458155356,55,1,0.51
+73,Rohit Chopra,39,Male,Single,Mumbai,Maharashtra,Electrician,220530,212993,397,4,Car Insurance,12,2,3,Late,Yearly,0.8444665782709931,48,3,0.4
+74,Suresh Malhotra,38,Male,Single,Pune,Maharashtra,Electrician,636143,1428902,824,30,Retirement Plans,20,4,2,On-time,Monthly,0.3897949035914799,33,1,0.51
+75,Divya Joshi,40,Female,Single,Hyderabad,Telangana,Government Employee,375246,265401,625,26,Health Insurance,6,1,2,On-time,Lump Sum,0.6324207006379005,17,6,0.51
+76,Dinesh Ghosh,27,Male,Married,Indore,Madhya Pradesh,Businessman,719039,468585,756,15,Health Insurance,6,3,0,On-time,Monthly,0.9751016457010254,2,10,0.59
+77,Pankaj Joshi,28,Female,Married,Hyderabad,Telangana,Journalist,1990623,229582,640,42,Health Insurance,10,1,2,Late,Monthly,0.7674111244899506,43,10,0.85
+78,Rajesh Patel,43,Female,Married,Jaipur,Rajasthan,Journalist,1070111,827058,775,41,Retirement Plans,2,2,2,On-time,Yearly,0.4171183167713955,16,6,0.6
+79,Divya Kumar,46,Female,Married,Chennai,Tamil Nadu,Doctor,1819170,814991,439,22,Investment Plans,10,0,1,Late,Monthly,0.0912405458030692,96,10,0.68
+80,Anjali Ghosh,45,Female,Single,Bangalore,Karnataka,Plumber,712661,226926,649,22,Car Insurance,10,5,2,On-time,Monthly,0.0596453590449534,44,1,0.53
+81,Rahul Ghosh,32,Male,Single,Bangalore,Karnataka,Mechanic,1442503,1130452,388,37,Investment Plans,3,2,0,Late,Yearly,0.7340187809703335,86,4,0.52
+82,Sunita Joshi,39,Female,Married,Indore,Madhya Pradesh,Bank Manager,1750139,1330789,637,13,Investment Plans,18,4,1,On-time,Lump Sum,0.1899368739403214,56,1,0.6
+83,Suresh Pandey,65,Female,Single,Ahmedabad,Gujarat,Civil Engineer,1559886,131571,400,21,Car Insurance,18,5,2,On-time,Lump Sum,0.7188657968475036,16,1,0.65
+84,Rohit Patel,49,Female,Married,Indore,Madhya Pradesh,Lawyer,1468509,579806,634,49,Retirement Plans,4,4,3,On-time,Lump Sum,0.3320343525926089,8,3,0.65
+85,Neha Chopra,59,Male,Married,Lucknow,Uttar Pradesh,Electrician,342449,763977,533,9,Car Insurance,3,5,3,On-time,Yearly,0.6341434688868329,60,10,0.43
+86,Manish Singh,43,Female,Married,Pune,Maharashtra,Bank Manager,1864820,1236078,503,33,Life Insurance,10,1,3,Late,Lump Sum,0.844497962976971,19,5,0.63
+87,Manish Kumar,59,Female,Married,Jaipur,Rajasthan,Businessman,1945461,1149645,816,19,Life Insurance,9,0,0,Late,Lump Sum,0.3685187190961929,24,9,0.73
+88,Meena Joshi,26,Female,Single,Jaipur,Rajasthan,Software Engineer,1196238,1448470,477,42,Life Insurance,14,4,2,Late,Lump Sum,0.5207776172667106,7,7,0.56
+89,Meena Sharma,52,Male,Single,Delhi,Delhi,Shop Owner,1440093,477254,358,33,Investment Plans,8,2,3,On-time,Yearly,0.5272511378001052,53,6,0.61
+90,Sneha Ghosh,26,Female,Married,Delhi,Delhi,Farmer,1498240,614526,658,46,Life Insurance,9,0,3,Late,Yearly,0.5270224707873145,70,8,0.73
+91,Rajesh Das,38,Male,Married,Mumbai,Maharashtra,Government Employee,741019,553102,899,34,Car Insurance,3,0,0,On-time,Yearly,0.7121435759607867,73,3,0.57
+92,Anjali Gupta,47,Male,Married,Patna,Bihar,Electrician,1777510,664426,555,20,Retirement Plans,0,0,1,Late,Monthly,0.4022954698150323,0,5,0.61
+93,Suresh Sharma,52,Female,Single,Patna,Bihar,Bank Manager,464000,653012,682,46,Car Insurance,17,3,1,On-time,Yearly,0.4007665538051083,50,2,0.55
+94,Neha Mehta,35,Female,Married,Pune,Maharashtra,Civil Engineer,1407467,657798,884,27,Health Insurance,20,1,0,On-time,Yearly,0.5320884078673633,14,2,0.72
+95,Suman Bose,62,Female,Married,Ahmedabad,Gujarat,Lawyer,816032,946012,584,10,Life Insurance,12,0,3,Late,Lump Sum,0.4084791104251433,22,8,0.52
+96,Rohit Saxena,30,Male,Single,Lucknow,Uttar Pradesh,Farmer,1087946,666854,568,41,Life Insurance,0,2,0,On-time,Yearly,0.5879503961630934,28,1,0.51
+97,Rohit Sharma,46,Female,Single,Bangalore,Karnataka,Businessman,1720527,1351121,857,24,Car Insurance,11,0,1,Late,Monthly,0.0718185640066793,52,10,0.72
+98,Pooja Ghosh,26,Female,Single,Chennai,Tamil Nadu,Lawyer,234688,790671,672,31,Car Insurance,0,1,1,Late,Yearly,0.2339126247664688,87,1,0.38
+99,Pankaj Iyer,57,Male,Single,Hyderabad,Telangana,Mechanic,980459,1223742,411,38,Health Insurance,17,5,3,Late,Monthly,0.5887932409979898,70,8,0.56
+100,Kavita Saxena,25,Male,Married,Bangalore,Karnataka,Electrician,1786910,1052016,395,8,Investment Plans,20,3,0,Late,Yearly,0.8189810430282215,81,1,0.58
+101,Meena Nair,35,Male,Married,Patna,Bihar,Teacher,340199,964851,656,17,Retirement Plans,4,2,0,Late,Yearly,0.9264721576721212,68,7,0.42
+102,Pankaj Das,56,Male,Married,Mumbai,Maharashtra,Doctor,1367967,136512,466,38,Car Insurance,3,4,0,Late,Monthly,0.7835058546781993,68,6,0.65
+103,Vikram Sharma,26,Female,Single,Kolkata,West Bengal,Lawyer,1291215,1048540,863,3,Car Insurance,11,3,2,Late,Monthly,0.0921045567185826,59,2,0.56
+104,Rohit Iyer,64,Female,Married,Chennai,Tamil Nadu,Plumber,1275272,601586,427,6,Investment Plans,14,3,2,On-time,Monthly,0.7327078305747677,45,4,0.55
+105,Neha Bose,27,Female,Single,Indore,Madhya Pradesh,Doctor,1817230,1432990,827,36,Health Insurance,20,4,3,Late,Monthly,0.6751382237228538,19,2,0.71
+106,Vikram Bose,64,Female,Single,Mumbai,Maharashtra,Shop Owner,1857434,1043047,790,29,Health Insurance,0,3,1,On-time,Monthly,0.4577599308197531,90,4,0.65
+107,Arun Gupta,50,Female,Married,Mumbai,Maharashtra,Businessman,364975,599899,441,29,Health Insurance,15,0,2,On-time,Yearly,0.5725011808239264,32,7,0.5
+108,Rajesh Sharma,40,Male,Single,Kolkata,West Bengal,Plumber,1201645,1074224,432,36,Life Insurance,8,3,2,On-time,Lump Sum,0.1191641407345366,12,7,0.55
+109,Anjali Singh,52,Female,Single,Delhi,Delhi,Businessman,879987,1031371,541,13,Health Insurance,4,0,2,Late,Monthly,0.2596818158741392,71,8,0.48
+110,Arun Gupta,63,Male,Married,Delhi,Delhi,Plumber,1091374,673212,470,25,Investment Plans,17,0,3,On-time,Yearly,0.9058962507397912,83,2,0.56
+111,Pankaj Joshi,30,Female,Married,Ahmedabad,Gujarat,Government Employee,1415254,945336,821,23,Retirement Plans,6,2,0,Late,Lump Sum,0.8675169006792303,87,2,0.6
+112,Arun Patel,35,Male,Single,Indore,Madhya Pradesh,Businessman,1557718,889890,440,40,Health Insurance,3,5,2,Late,Lump Sum,0.7959220563099118,46,7,0.61
+113,Anjali Agarwal,40,Male,Single,Pune,Maharashtra,Lawyer,1065801,1487874,303,12,Health Insurance,5,4,0,Late,Monthly,0.6573076449218892,23,8,0.41
+114,Sneha Ghosh,33,Male,Single,Kolkata,West Bengal,Civil Engineer,553894,1467798,403,9,Investment Plans,12,2,1,On-time,Yearly,0.7989676546251618,49,6,0.36
+115,Rajesh Das,50,Male,Single,Kolkata,West Bengal,Software Engineer,1838311,881986,697,47,Health Insurance,3,2,1,Late,Yearly,0.2681655496694293,93,3,0.68
+116,Priya Gupta,50,Female,Married,Delhi,Delhi,Shop Owner,1301427,1110186,811,25,Investment Plans,12,5,1,On-time,Yearly,0.8737559666725259,72,8,0.65
+117,Suresh Sharma,28,Female,Single,Chennai,Tamil Nadu,Farmer,1843691,800901,338,18,Investment Plans,9,1,0,On-time,Yearly,0.7596907412328823,71,3,0.58
+118,Amit Malhotra,65,Female,Married,Ahmedabad,Gujarat,Businessman,545270,172246,479,35,Life Insurance,2,5,0,On-time,Yearly,0.8382311652853918,80,6,0.51
+119,Arun Singh,65,Male,Married,Hyderabad,Telangana,Mechanic,824213,1440604,739,36,Car Insurance,7,5,2,On-time,Yearly,0.5494726299987084,24,10,0.55
+120,Manish Pandey,62,Female,Married,Kolkata,West Bengal,Civil Engineer,1259754,1159436,760,27,Investment Plans,8,0,2,On-time,Lump Sum,0.4981114409560266,12,4,0.58
+121,Kavita Chopra,30,Male,Single,Bangalore,Karnataka,Journalist,1839397,260679,759,29,Investment Plans,1,2,3,Late,Lump Sum,0.8350214347324293,79,8,0.76
+122,Meena Chopra,48,Male,Single,Chennai,Tamil Nadu,Software Engineer,1217436,226640,540,50,Investment Plans,16,2,1,Late,Lump Sum,0.4986213031912629,10,4,0.7
+123,Suresh Sharma,23,Male,Single,Delhi,Delhi,Teacher,463885,1264032,736,36,Investment Plans,20,2,0,Late,Lump Sum,0.2978544800847024,46,5,0.53
+124,Rahul Malhotra,50,Male,Single,Chennai,Tamil Nadu,Journalist,1754772,1273324,442,45,Retirement Plans,8,1,3,On-time,Lump Sum,0.1849411577507866,2,1,0.57
+125,Divya Nair,25,Female,Married,Mumbai,Maharashtra,Nurse,278066,1098059,428,35,Health Insurance,1,1,1,Late,Yearly,0.1265786213200923,20,3,0.33
+126,Rahul Kumar,45,Female,Single,Chennai,Tamil Nadu,Businessman,1445353,813082,409,3,Car Insurance,8,1,1,On-time,Yearly,0.7600166988133922,84,10,0.57
+127,Dinesh Gupta,57,Male,Single,Ahmedabad,Gujarat,Businessman,606696,1314593,827,32,Investment Plans,18,1,3,Late,Lump Sum,0.9661359032544584,98,6,0.56
+128,Anjali Reddy,45,Male,Single,Delhi,Delhi,Journalist,1056171,536874,773,7,Life Insurance,18,4,2,On-time,Yearly,0.8577082610201611,6,9,0.67
+129,Pankaj Das,30,Male,Married,Pune,Maharashtra,Software Engineer,267099,816306,628,37,Health Insurance,16,5,3,On-time,Yearly,0.5896838750501452,69,6,0.51
+130,Sneha Malhotra,64,Female,Married,Jaipur,Rajasthan,Shop Owner,1341005,751598,503,9,Life Insurance,3,3,3,Late,Lump Sum,0.1805941460603439,47,3,0.5
+131,Rohit Bose,42,Female,Married,Pune,Maharashtra,Government Employee,1796074,654312,873,32,Health Insurance,0,2,3,Late,Lump Sum,0.5329838531022093,17,2,0.68
+132,Rohit Das,65,Male,Married,Chennai,Tamil Nadu,Journalist,519520,1084704,685,46,Car Insurance,9,2,2,On-time,Yearly,0.0491607653436986,21,7,0.53
+133,Arun Reddy,22,Male,Single,Jaipur,Rajasthan,Journalist,1751254,663538,706,26,Life Insurance,18,4,0,On-time,Monthly,0.5697962054751391,40,5,0.75
+134,Meena Chopra,38,Female,Single,Mumbai,Maharashtra,Doctor,1484176,1388963,760,35,Life Insurance,8,4,0,Late,Monthly,0.6214476231746773,37,5,0.61
+135,Sunita Sharma,62,Female,Married,Hyderabad,Telangana,Nurse,1081073,1129410,379,45,Retirement Plans,7,3,0,Late,Monthly,0.037538581782367,70,4,0.5
+136,Dinesh Singh,27,Male,Married,Indore,Madhya Pradesh,Journalist,1079034,792321,862,24,Retirement Plans,17,2,3,On-time,Monthly,0.1062649017684952,72,5,0.66
+137,Arun Yadav,26,Male,Single,Indore,Madhya Pradesh,Electrician,578487,1167940,630,38,Health Insurance,3,2,0,Late,Monthly,0.3117684807321391,0,1,0.41
+138,Pankaj Das,35,Female,Married,Hyderabad,Telangana,Businessman,1829852,541984,436,40,Health Insurance,5,1,2,On-time,Lump Sum,0.0115645088531872,63,8,0.7
+139,Meena Verma,58,Male,Married,Ahmedabad,Gujarat,Bank Manager,970466,754325,657,50,Health Insurance,19,3,1,Late,Lump Sum,0.946690321144132,44,8,0.69
+140,Dinesh Gupta,62,Female,Married,Delhi,Delhi,Electrician,635093,626313,440,44,Health Insurance,11,4,2,Late,Monthly,0.9638203193117512,14,6,0.53
+141,Dinesh Das,35,Female,Single,Indore,Madhya Pradesh,Journalist,641456,760830,335,27,Life Insurance,12,4,2,On-time,Yearly,0.6187012321061898,85,7,0.48
+142,Sneha Yadav,63,Male,Married,Delhi,Delhi,Mechanic,1576642,58362,423,15,Life Insurance,17,4,1,On-time,Yearly,0.5247103054648999,21,10,0.74
+143,Anjali Nair,30,Female,Married,Mumbai,Maharashtra,Journalist,1292678,878988,872,49,Investment Plans,14,4,1,Late,Lump Sum,0.4373690396866615,88,6,0.73
+144,Rajesh Sharma,64,Male,Married,Bangalore,Karnataka,Electrician,1624733,474189,463,14,Life Insurance,15,4,1,On-time,Lump Sum,0.3099062112665001,55,1,0.61
+145,Priya Singh,39,Female,Single,Lucknow,Uttar Pradesh,Journalist,528531,1082882,780,7,Life Insurance,20,2,2,On-time,Monthly,0.9985834021696972,13,10,0.56
+146,Rahul Nair,40,Female,Single,Kolkata,West Bengal,Nurse,1779522,968126,805,14,Retirement Plans,12,1,2,Late,Yearly,0.6557651437211767,67,1,0.65
+147,Suman Iyer,41,Male,Married,Hyderabad,Telangana,Businessman,1146607,854002,847,21,Life Insurance,6,1,0,On-time,Lump Sum,0.9210075395780856,35,6,0.61
+148,Meena Sharma,24,Male,Married,Jaipur,Rajasthan,Shop Owner,694751,1150495,379,22,Retirement Plans,17,3,3,Late,Yearly,0.7164596445946216,25,3,0.43
+149,Suman Das,49,Male,Single,Patna,Bihar,Bank Manager,364507,1192322,776,45,Life Insurance,16,5,1,Late,Monthly,0.7840703071364478,75,7,0.55
+150,Meena Sharma,35,Male,Married,Patna,Bihar,Software Engineer,711733,1451573,672,22,Life Insurance,10,2,1,Late,Yearly,0.4976877050506225,57,2,0.42
+151,Pankaj Chopra,38,Male,Married,Hyderabad,Telangana,Bank Manager,1730372,1293566,727,32,Investment Plans,1,4,2,Late,Monthly,0.6901175095555756,36,8,0.64
+152,Suresh Pandey,64,Female,Single,Lucknow,Uttar Pradesh,Bank Manager,438937,559132,816,47,Life Insurance,9,2,2,On-time,Yearly,0.033740131711738,69,7,0.6
+153,Suresh Mehta,39,Female,Single,Hyderabad,Telangana,Bank Manager,1663507,898262,882,7,Car Insurance,1,3,1,On-time,Monthly,0.600344065431119,50,8,0.65
+154,Priya Nair,61,Female,Single,Ahmedabad,Gujarat,Farmer,1598955,297666,312,9,Investment Plans,3,3,1,On-time,Monthly,0.0578552538358377,92,8,0.59
+155,Suresh Ghosh,46,Female,Married,Delhi,Delhi,Lawyer,270876,826337,327,28,Car Insurance,17,2,3,On-time,Lump Sum,0.1364308541956321,76,9,0.46
+156,Vikram Chopra,23,Male,Single,Ahmedabad,Gujarat,Bank Manager,288629,450332,456,7,Health Insurance,7,5,1,On-time,Monthly,0.1436479720892369,55,2,0.37
+157,Arun Iyer,31,Male,Married,Jaipur,Rajasthan,Mechanic,1096616,1125793,816,44,Investment Plans,16,2,3,Late,Lump Sum,0.9076480199803852,57,1,0.61
+158,Arun Sharma,35,Male,Single,Ahmedabad,Gujarat,Software Engineer,1221819,493694,759,27,Retirement Plans,20,5,3,Late,Monthly,0.6553486509860671,36,2,0.68
+159,Priya Saxena,36,Female,Single,Lucknow,Uttar Pradesh,Software Engineer,1160324,144609,816,2,Life Insurance,6,0,3,On-time,Monthly,0.1674748881395716,81,8,0.66
+160,Vikram Nair,32,Male,Single,Mumbai,Maharashtra,Electrician,1212724,1088963,403,15,Health Insurance,15,4,3,On-time,Yearly,0.7382498180905709,79,5,0.52
+161,Dinesh Sharma,53,Male,Married,Jaipur,Rajasthan,Software Engineer,1243542,1433561,470,40,Car Insurance,15,0,0,Late,Yearly,0.7136258712370951,72,9,0.59
+162,Kavita Pandey,53,Female,Married,Lucknow,Uttar Pradesh,Doctor,385306,776028,684,21,Life Insurance,11,4,3,On-time,Monthly,0.9756375173511324,82,1,0.44
+163,Pooja Pandey,47,Female,Married,Hyderabad,Telangana,Doctor,217254,852177,835,5,Life Insurance,12,0,2,On-time,Yearly,0.6061068910684686,13,9,0.49
+164,Divya Sharma,55,Female,Single,Ahmedabad,Gujarat,Government Employee,926007,444711,523,6,Health Insurance,4,4,0,On-time,Monthly,0.8424506880139636,44,5,0.49
+165,Suman Nair,29,Male,Single,Bangalore,Karnataka,Lawyer,1467920,919962,355,29,Car Insurance,11,0,2,Late,Yearly,0.4789227029088995,89,3,0.55
+166,Rahul Saxena,40,Female,Single,Mumbai,Maharashtra,Government Employee,333282,737439,634,23,Car Insurance,7,4,2,Late,Monthly,0.5544595408551091,66,8,0.48
+167,Sunita Kumar,59,Female,Single,Patna,Bihar,Government Employee,1200988,96968,335,9,Retirement Plans,0,2,1,Late,Yearly,0.1152451480796018,26,1,0.47
+168,Neha Nair,24,Male,Single,Mumbai,Maharashtra,Civil Engineer,1841052,58838,665,8,Health Insurance,18,1,3,On-time,Monthly,0.134711026110035,18,7,0.79
+169,Neha Sharma,27,Male,Single,Kolkata,West Bengal,Businessman,1373758,1451526,452,1,Investment Plans,0,2,0,On-time,Monthly,0.9819244064697694,43,5,0.41
+170,Kavita Sharma,23,Male,Married,Pune,Maharashtra,Teacher,641953,832340,711,22,Car Insurance,8,5,2,On-time,Monthly,0.1388995145816556,11,9,0.55
+171,Rahul Bose,46,Male,Single,Delhi,Delhi,Nurse,923457,105842,812,3,Car Insurance,20,3,2,Late,Monthly,0.581824719784146,97,3,0.64
+172,Divya Nair,41,Male,Married,Pune,Maharashtra,Electrician,975185,1363083,875,16,Retirement Plans,20,5,0,On-time,Monthly,0.5339712619195008,64,6,0.6
+173,Anjali Saxena,42,Female,Single,Bangalore,Karnataka,Businessman,1963551,659224,519,40,Health Insurance,16,0,2,Late,Yearly,0.3179886676979852,12,10,0.8
+174,Arun Patel,65,Female,Married,Chennai,Tamil Nadu,Journalist,468512,584476,446,5,Investment Plans,2,1,1,Late,Monthly,0.3109298250411469,56,8,0.41
+175,Neha Singh,32,Male,Single,Hyderabad,Telangana,Doctor,1083066,402972,891,14,Health Insurance,2,0,1,On-time,Lump Sum,0.651733734759526,37,3,0.59
+176,Divya Gupta,54,Female,Married,Indore,Madhya Pradesh,Teacher,568864,212849,832,8,Investment Plans,20,4,3,Late,Yearly,0.0407830194420423,28,2,0.58
+177,Suman Nair,27,Female,Married,Jaipur,Rajasthan,Mechanic,946221,1488043,789,36,Car Insurance,18,3,0,Late,Monthly,0.546318198313762,73,10,0.63
+178,Rajesh Chopra,25,Male,Single,Lucknow,Uttar Pradesh,Plumber,1212106,466766,863,3,Health Insurance,13,1,2,Late,Lump Sum,0.2541956582431068,47,1,0.61
+179,Amit Joshi,65,Male,Single,Lucknow,Uttar Pradesh,Nurse,1028520,993603,349,21,Car Insurance,14,4,1,On-time,Monthly,0.1615083295998667,81,10,0.54
+180,Neha Gupta,46,Male,Married,Indore,Madhya Pradesh,Doctor,1609095,723588,488,9,Investment Plans,17,1,2,On-time,Monthly,0.392619348063103,64,6,0.64
+181,Rajesh Reddy,36,Female,Single,Bangalore,Karnataka,Bank Manager,971541,838857,869,34,Car Insurance,1,2,0,Late,Yearly,0.8323530165563755,5,3,0.56
+182,Pooja Sharma,40,Male,Married,Hyderabad,Telangana,Mechanic,1898943,861504,492,23,Investment Plans,11,1,2,On-time,Yearly,0.0565463296455087,72,1,0.62
+183,Kavita Mehta,45,Male,Married,Delhi,Delhi,Journalist,1947602,680567,712,20,Health Insurance,15,3,1,On-time,Monthly,0.4573753091662205,22,5,0.75
+184,Pooja Chopra,27,Female,Single,Patna,Bihar,Electrician,1206956,326747,625,36,Health Insurance,7,4,0,Late,Yearly,0.4638591897816196,27,1,0.6
+185,Amit Das,37,Male,Single,Jaipur,Rajasthan,Businessman,1239401,901316,495,8,Health Insurance,2,3,1,Late,Lump Sum,0.1627014501891222,87,7,0.5
+186,Vikram Chopra,22,Female,Single,Delhi,Delhi,Mechanic,1626692,136524,816,35,Investment Plans,14,3,2,On-time,Monthly,0.2990676136766813,72,9,0.84
+187,Rahul Singh,28,Female,Married,Kolkata,West Bengal,Doctor,558543,957187,695,12,Car Insurance,4,1,0,On-time,Yearly,0.0880181558682486,47,2,0.41
+188,Suresh Nair,46,Female,Single,Ahmedabad,Gujarat,Mechanic,1134669,1392506,424,8,Car Insurance,0,5,1,On-time,Yearly,0.7757140373729957,52,3,0.37
+189,Rohit Sharma,57,Male,Married,Ahmedabad,Gujarat,Lawyer,974983,390828,671,49,Life Insurance,8,2,0,On-time,Monthly,0.1370407115622874,88,4,0.63
+190,Vikram Kumar,57,Male,Married,Patna,Bihar,Software Engineer,1654325,684760,731,50,Investment Plans,3,4,1,Late,Yearly,0.252495877720165,70,2,0.68
+191,Meena Patel,41,Male,Single,Indore,Madhya Pradesh,Businessman,1069279,462177,414,35,Health Insurance,11,4,3,On-time,Monthly,0.925006500682816,48,9,0.62
+192,Sunita Singh,58,Female,Married,Jaipur,Rajasthan,Teacher,1931855,562012,589,7,Investment Plans,12,3,0,On-time,Lump Sum,0.8370549120095097,10,1,0.65
+193,Pooja Nair,64,Female,Single,Chennai,Tamil Nadu,Teacher,1224103,1142916,304,6,Health Insurance,9,1,2,On-time,Yearly,0.96019014738334,28,8,0.47
+194,Sneha Verma,28,Female,Married,Indore,Madhya Pradesh,Mechanic,1428015,482246,545,29,Health Insurance,10,5,3,On-time,Lump Sum,0.5785010577249354,16,4,0.64
+195,Vikram Chopra,46,Male,Married,Hyderabad,Telangana,Plumber,1526586,858565,883,27,Life Insurance,14,5,0,On-time,Lump Sum,0.3408159999644417,32,7,0.73
+196,Kavita Gupta,50,Male,Single,Lucknow,Uttar Pradesh,Businessman,1225938,886498,371,23,Health Insurance,14,4,3,Late,Lump Sum,0.2976212172202441,9,4,0.53
+197,Pankaj Verma,44,Male,Married,Indore,Madhya Pradesh,Civil Engineer,823001,227004,579,10,Investment Plans,6,1,3,On-time,Lump Sum,0.963117610792624,71,7,0.55
+198,Anjali Sharma,65,Male,Single,Delhi,Delhi,Doctor,999662,481150,556,4,Car Insurance,17,5,1,On-time,Yearly,0.9307199418367788,50,3,0.55
+199,Kavita Pandey,52,Female,Married,Bangalore,Karnataka,Doctor,1476593,981413,874,27,Retirement Plans,4,0,2,Late,Yearly,0.5940504606536834,13,10,0.69
+200,Meena Patel,62,Male,Married,Kolkata,West Bengal,Businessman,1623950,1361924,718,41,Life Insurance,9,3,3,On-time,Lump Sum,0.1406944473438458,46,4,0.63
+201,Rahul Sharma,45,Female,Married,Kolkata,West Bengal,Doctor,908321,206996,791,40,Car Insurance,2,2,0,Late,Monthly,0.085401101201565,33,8,0.66
+202,Pankaj Yadav,28,Female,Married,Delhi,Delhi,Shop Owner,1723194,1139415,478,5,Life Insurance,7,4,0,Late,Lump Sum,0.1366248432116723,13,6,0.56
+203,Pankaj Das,33,Female,Single,Jaipur,Rajasthan,Doctor,1836967,474049,664,36,Car Insurance,14,5,3,On-time,Monthly,0.5276632805089965,27,1,0.73
+204,Anjali Patel,58,Female,Single,Jaipur,Rajasthan,Teacher,1367023,646647,682,7,Car Insurance,0,0,3,Late,Lump Sum,0.6657403509229829,58,8,0.59
+205,Amit Saxena,58,Female,Married,Pune,Maharashtra,Nurse,1854287,1309433,408,26,Health Insurance,12,0,3,On-time,Yearly,0.587011695791304,100,9,0.64
+206,Sunita Singh,43,Female,Single,Hyderabad,Telangana,Farmer,644741,665082,788,7,Car Insurance,17,5,2,Late,Lump Sum,0.6020187219295652,12,5,0.55
+207,Pankaj Iyer,54,Female,Single,Indore,Madhya Pradesh,Government Employee,1400425,749948,582,16,Retirement Plans,7,5,1,On-time,Lump Sum,0.1096684855416177,5,7,0.6
+208,Neha Reddy,24,Male,Married,Lucknow,Uttar Pradesh,Businessman,1959989,1032806,813,39,Investment Plans,19,5,0,On-time,Monthly,0.3909913889626147,97,4,0.78
+209,Sneha Kumar,27,Female,Married,Pune,Maharashtra,Shop Owner,274910,1233014,501,29,Car Insurance,12,3,2,Late,Monthly,0.7514515151175026,0,2,0.37
+210,Sneha Saxena,46,Female,Single,Bangalore,Karnataka,Civil Engineer,1829900,832148,614,36,Life Insurance,4,5,1,On-time,Lump Sum,0.7445667295089076,99,8,0.7
+211,Pooja Patel,28,Female,Married,Patna,Bihar,Mechanic,502463,370451,491,24,Car Insurance,11,2,1,Late,Lump Sum,0.4456912109122538,72,3,0.48
+212,Rajesh Pandey,43,Male,Married,Hyderabad,Telangana,Electrician,1585341,539730,526,10,Life Insurance,14,3,2,On-time,Lump Sum,0.9379834765889884,92,6,0.65
+213,Neha Agarwal,37,Female,Married,Patna,Bihar,Farmer,635871,59507,390,39,Investment Plans,0,1,2,Late,Lump Sum,0.5120859117083555,71,5,0.5
+214,Amit Singh,46,Female,Single,Hyderabad,Telangana,Shop Owner,1004477,390000,793,17,Car Insurance,15,0,1,On-time,Lump Sum,0.5277943257975574,73,2,0.62
+215,Dinesh Nair,44,Male,Single,Patna,Bihar,Software Engineer,1957296,1436942,695,11,Retirement Plans,1,4,3,Late,Yearly,0.1766034265633864,47,10,0.63
+216,Dinesh Bose,52,Male,Married,Bangalore,Karnataka,Electrician,453627,213312,859,30,Retirement Plans,0,0,0,Late,Yearly,0.8518594576207069,20,7,0.57
+217,Divya Nair,27,Male,Single,Ahmedabad,Gujarat,Electrician,1377051,406239,492,32,Health Insurance,16,4,0,Late,Monthly,0.8316986585231543,28,6,0.68
+218,Sunita Gupta,56,Female,Single,Bangalore,Karnataka,Businessman,1175744,520795,709,1,Life Insurance,18,5,0,On-time,Lump Sum,0.7586896516350534,15,9,0.66
+219,Pankaj Chopra,58,Male,Married,Ahmedabad,Gujarat,Nurse,1408475,326359,397,22,Car Insurance,3,1,1,Late,Lump Sum,0.2567536484297469,34,9,0.62
+220,Priya Gupta,59,Male,Single,Lucknow,Uttar Pradesh,Software Engineer,271582,1466168,550,12,Health Insurance,4,4,0,Late,Yearly,0.4672068961405671,85,7,0.33
+221,Pankaj Nair,52,Male,Single,Jaipur,Rajasthan,Businessman,1595667,291061,757,9,Health Insurance,6,0,1,Late,Monthly,0.8556463083839152,84,9,0.72
+222,Rahul Patel,65,Female,Married,Pune,Maharashtra,Journalist,1519811,1414275,820,32,Car Insurance,18,2,3,On-time,Monthly,0.0744562392867025,68,7,0.69
+223,Suresh Pandey,43,Male,Married,Bangalore,Karnataka,Mechanic,1575926,760694,731,12,Car Insurance,14,3,3,Late,Yearly,0.9798589491032982,52,2,0.64
+224,Vikram Iyer,42,Female,Single,Lucknow,Uttar Pradesh,Mechanic,346817,1300320,651,44,Car Insurance,15,2,0,Late,Yearly,0.9026886537163998,53,2,0.45
+225,Divya Saxena,32,Female,Single,Kolkata,West Bengal,Lawyer,416143,673303,745,23,Retirement Plans,12,4,3,On-time,Lump Sum,0.7534127864584045,22,10,0.57
+226,Suresh Ghosh,48,Male,Single,Lucknow,Uttar Pradesh,Bank Manager,1990377,1060066,556,14,Investment Plans,19,3,0,On-time,Monthly,0.9946316018023688,3,10,0.74
+227,Divya Saxena,28,Male,Married,Kolkata,West Bengal,Plumber,1748664,590549,814,27,Investment Plans,12,1,2,Late,Monthly,0.190326205651353,25,6,0.76
+228,Pooja Kumar,63,Female,Single,Hyderabad,Telangana,Software Engineer,1548450,592645,458,28,Health Insurance,3,5,0,On-time,Monthly,0.8844274584625178,48,6,0.61
+229,Rahul Gupta,26,Female,Married,Mumbai,Maharashtra,Doctor,1829288,694826,749,40,Retirement Plans,20,3,2,Late,Lump Sum,0.1415546509051002,93,4,0.79
+230,Arun Das,62,Female,Married,Ahmedabad,Gujarat,Journalist,998604,1443436,382,35,Car Insurance,0,3,2,Late,Monthly,0.880396818370395,94,1,0.37
+231,Amit Chopra,46,Male,Single,Ahmedabad,Gujarat,Lawyer,599513,524554,711,29,Car Insurance,7,4,3,On-time,Monthly,0.2966214033534633,87,1,0.5
+232,Pankaj Pandey,56,Female,Married,Ahmedabad,Gujarat,Plumber,1487151,906009,876,31,Car Insurance,15,1,2,On-time,Lump Sum,0.027373470883056,47,7,0.73
+233,Suman Das,34,Female,Single,Indore,Madhya Pradesh,Civil Engineer,1217066,251397,388,3,Retirement Plans,19,5,3,Late,Monthly,0.5121045877603453,92,3,0.57
+234,Suresh Reddy,31,Female,Single,Mumbai,Maharashtra,Nurse,409810,520930,870,29,Investment Plans,15,1,0,On-time,Monthly,0.1530544098503315,13,1,0.55
+235,Suman Singh,41,Male,Single,Pune,Maharashtra,Electrician,1530199,532475,567,27,Investment Plans,13,3,2,Late,Monthly,0.3440531838566406,93,6,0.68
+236,Sneha Sharma,54,Female,Single,Ahmedabad,Gujarat,Electrician,797848,579307,519,23,Retirement Plans,9,2,1,Late,Yearly,0.2709923806596267,64,10,0.57
+237,Manish Chopra,42,Male,Single,Mumbai,Maharashtra,Teacher,1055871,936912,556,18,Retirement Plans,10,4,1,Late,Monthly,0.5497732789184469,20,10,0.57
+238,Rajesh Kumar,29,Female,Single,Hyderabad,Telangana,Civil Engineer,1798762,1249929,428,25,Health Insurance,15,4,2,On-time,Lump Sum,0.9172578833811847,33,8,0.65
+239,Pooja Yadav,33,Female,Single,Mumbai,Maharashtra,Government Employee,1125459,1166704,881,12,Car Insurance,0,4,0,Late,Monthly,0.0765762970248129,39,9,0.56
+240,Suresh Saxena,43,Male,Single,Chennai,Tamil Nadu,Electrician,1789580,1122977,839,37,Investment Plans,14,0,1,On-time,Lump Sum,0.1815985791238186,59,6,0.75
+241,Rahul Pandey,38,Male,Married,Patna,Bihar,Bank Manager,627650,1279695,356,49,Retirement Plans,10,3,2,Late,Yearly,0.3709037069783092,75,1,0.4
+242,Dinesh Sharma,28,Male,Married,Jaipur,Rajasthan,Mechanic,815727,398376,560,17,Life Insurance,11,4,2,Late,Lump Sum,0.8594516646866743,22,3,0.53
+243,Rahul Sharma,54,Male,Married,Chennai,Tamil Nadu,Teacher,979509,1421122,805,21,Car Insurance,16,0,0,On-time,Yearly,0.4540908035496591,50,7,0.58
+244,Sneha Chopra,45,Female,Married,Chennai,Tamil Nadu,Electrician,411603,551637,429,38,Car Insurance,19,4,2,Late,Monthly,0.7881176265390564,19,3,0.5
+245,Rohit Chopra,34,Female,Married,Patna,Bihar,Civil Engineer,503114,125853,392,34,Life Insurance,2,5,2,On-time,Lump Sum,0.6800413009204443,61,7,0.5
+246,Divya Reddy,38,Male,Married,Lucknow,Uttar Pradesh,Nurse,1515504,1323239,894,8,Investment Plans,14,0,3,Late,Monthly,0.3840771126078717,19,5,0.63
+247,Rajesh Reddy,53,Male,Married,Indore,Madhya Pradesh,Bank Manager,1957642,694701,848,1,Car Insurance,20,5,1,On-time,Yearly,0.5905976476753553,3,5,0.76
+248,Meena Nair,56,Female,Married,Bangalore,Karnataka,Government Employee,1975307,853808,844,39,Investment Plans,7,1,1,Late,Monthly,0.4248075505931832,2,6,0.77
+249,Neha Yadav,28,Male,Married,Kolkata,West Bengal,Teacher,1589715,447987,622,35,Car Insurance,16,0,1,Late,Yearly,0.4872797774470533,80,2,0.7
+250,Rohit Agarwal,23,Female,Single,Mumbai,Maharashtra,Bank Manager,1717978,1348515,432,9,Car Insurance,2,4,2,On-time,Yearly,0.1107501462329546,39,5,0.5
+251,Neha Pandey,39,Female,Single,Patna,Bihar,Civil Engineer,993359,1349963,730,9,Retirement Plans,17,3,2,On-time,Monthly,0.4519994082511057,40,9,0.57
+252,Rahul Sharma,29,Male,Single,Lucknow,Uttar Pradesh,Bank Manager,1993719,332973,465,12,Investment Plans,2,5,0,On-time,Lump Sum,0.0443932831106935,20,1,0.61
+253,Dinesh Iyer,45,Female,Single,Delhi,Delhi,Teacher,681772,588600,546,33,Investment Plans,2,5,3,On-time,Yearly,0.6642829486685645,41,5,0.49
+254,Amit Saxena,37,Male,Married,Ahmedabad,Gujarat,Doctor,1649411,699104,670,29,Life Insurance,18,1,3,On-time,Monthly,0.6194830620862621,97,1,0.68
+255,Rohit Singh,41,Male,Married,Kolkata,West Bengal,Shop Owner,628842,771016,799,16,Investment Plans,11,3,0,Late,Yearly,0.5877335854151776,9,6,0.54
+256,Rahul Bose,41,Male,Married,Pune,Maharashtra,Mechanic,378137,530282,790,25,Retirement Plans,8,3,3,Late,Lump Sum,0.0576079453628189,55,2,0.49
+257,Divya Nair,36,Male,Married,Delhi,Delhi,Nurse,429890,294986,738,22,Health Insurance,11,5,3,Late,Monthly,0.2792097382509552,39,9,0.59
+258,Rohit Saxena,38,Male,Single,Mumbai,Maharashtra,Mechanic,836145,999280,586,10,Health Insurance,4,3,3,On-time,Monthly,0.5922932637363174,68,7,0.47
+259,Amit Gupta,35,Male,Married,Lucknow,Uttar Pradesh,Bank Manager,791431,1227775,641,22,Health Insurance,0,0,3,On-time,Monthly,0.7031729298889133,7,2,0.4
+260,Anjali Bose,27,Male,Married,Jaipur,Rajasthan,Farmer,640278,570580,496,21,Life Insurance,14,2,3,On-time,Lump Sum,0.1307339237269057,39,4,0.5
+261,Manish Yadav,31,Female,Single,Patna,Bihar,Nurse,1350573,603622,879,46,Investment Plans,20,0,0,On-time,Monthly,0.6068670475881195,94,2,0.75
+262,Rahul Patel,53,Female,Married,Kolkata,West Bengal,Civil Engineer,1471791,1357410,778,2,Car Insurance,12,1,1,Late,Yearly,0.584261457443988,16,5,0.57
+263,Dinesh Mehta,61,Male,Single,Indore,Madhya Pradesh,Electrician,1792854,939830,852,46,Car Insurance,14,2,2,Late,Lump Sum,0.8772344048409937,48,10,0.83
+264,Pankaj Singh,58,Female,Married,Kolkata,West Bengal,Nurse,655181,1009782,693,36,Retirement Plans,15,1,0,Late,Yearly,0.7222183264306302,29,3,0.53
+265,Anjali Agarwal,63,Male,Single,Chennai,Tamil Nadu,Civil Engineer,1982323,1465799,377,2,Life Insurance,8,5,3,On-time,Monthly,0.7158962391822253,98,8,0.56
+266,Suman Saxena,27,Female,Single,Mumbai,Maharashtra,Teacher,374015,178068,524,4,Investment Plans,13,1,2,On-time,Yearly,0.1683228859093447,21,8,0.51
+267,Priya Yadav,60,Female,Married,Hyderabad,Telangana,Doctor,1530078,1091271,508,42,Car Insurance,9,5,1,Late,Lump Sum,0.6375221151094428,59,3,0.59
+268,Suresh Chopra,58,Female,Single,Pune,Maharashtra,Farmer,1767571,236049,621,4,Retirement Plans,8,1,2,Late,Monthly,0.1256001397276134,73,1,0.64
+269,Meena Malhotra,47,Male,Married,Delhi,Delhi,Businessman,1866496,713735,605,1,Investment Plans,8,0,0,Late,Monthly,0.7767756841390081,54,6,0.65
+270,Dinesh Patel,57,Female,Married,Ahmedabad,Gujarat,Nurse,1991276,556518,611,12,Retirement Plans,13,5,1,Late,Yearly,0.6700472070832948,83,3,0.7
+271,Rajesh Patel,40,Female,Single,Mumbai,Maharashtra,Bank Manager,363947,767962,551,24,Health Insurance,18,2,2,Late,Monthly,0.3605014151650171,7,1,0.45
+272,Rohit Malhotra,55,Male,Single,Chennai,Tamil Nadu,Shop Owner,702871,678886,406,16,Car Insurance,18,4,0,Late,Yearly,0.6678785765755596,38,4,0.49
+273,Suman Kumar,33,Male,Married,Lucknow,Uttar Pradesh,Nurse,1604682,278852,344,31,Car Insurance,7,4,0,On-time,Yearly,0.3946530205263011,51,3,0.62
+274,Suman Iyer,27,Male,Married,Indore,Madhya Pradesh,Nurse,933666,296544,574,36,Car Insurance,10,0,3,On-time,Yearly,0.7921726266035316,20,9,0.65
+275,Dinesh Agarwal,45,Male,Single,Mumbai,Maharashtra,Bank Manager,340354,920527,868,37,Retirement Plans,2,0,1,On-time,Yearly,0.0698539127307174,31,10,0.54
+276,Rahul Reddy,27,Male,Single,Mumbai,Maharashtra,Bank Manager,546210,981389,308,40,Car Insurance,3,5,0,On-time,Lump Sum,0.1265947368666686,64,8,0.43
+277,Manish Joshi,45,Male,Single,Delhi,Delhi,Teacher,749436,81546,813,14,Investment Plans,11,0,0,Late,Monthly,0.0015159305176857,14,3,0.6
+278,Anjali Mehta,28,Female,Single,Delhi,Delhi,Shop Owner,1878552,438312,839,3,Retirement Plans,5,3,0,On-time,Yearly,0.6104577976079167,82,5,0.71
+279,Sunita Iyer,34,Male,Single,Mumbai,Maharashtra,Farmer,617717,900983,377,32,Car Insurance,0,2,3,Late,Lump Sum,0.5786431851664954,95,5,0.4
+280,Neha Mehta,44,Female,Single,Kolkata,West Bengal,Bank Manager,360197,66083,424,45,Life Insurance,19,1,0,Late,Yearly,0.3292058344628845,62,5,0.58
+281,Rohit Das,47,Female,Single,Hyderabad,Telangana,Shop Owner,1000919,886399,851,38,Life Insurance,9,1,1,Late,Yearly,0.103615292781324,42,4,0.61
+282,Suman Verma,48,Male,Married,Mumbai,Maharashtra,Mechanic,534322,975178,657,36,Retirement Plans,15,4,1,Late,Monthly,0.7084486011159834,51,7,0.55
+283,Kavita Nair,62,Male,Married,Lucknow,Uttar Pradesh,Electrician,1489283,749969,507,14,Car Insurance,18,3,1,On-time,Lump Sum,0.5366317428991683,28,1,0.59
+284,Divya Gupta,45,Female,Married,Bangalore,Karnataka,Electrician,1375455,209513,829,35,Retirement Plans,9,5,1,Late,Yearly,0.8146734632157284,73,10,0.78
+285,Neha Nair,33,Female,Single,Kolkata,West Bengal,Mechanic,1413288,876025,479,31,Life Insurance,13,4,1,On-time,Yearly,0.5350034563328498,88,2,0.58
+286,Sneha Agarwal,46,Female,Married,Ahmedabad,Gujarat,Mechanic,1709463,583733,763,5,Health Insurance,6,5,3,On-time,Monthly,0.5330726301402366,24,2,0.63
+287,Rahul Agarwal,45,Female,Single,Ahmedabad,Gujarat,Software Engineer,662589,1170045,880,17,Life Insurance,18,1,1,On-time,Lump Sum,0.2594934057494772,40,10,0.6
+288,Amit Singh,60,Female,Single,Hyderabad,Telangana,Lawyer,1982572,1206443,361,10,Investment Plans,2,4,2,On-time,Yearly,0.5155571041704474,1,6,0.55
+289,Manish Sharma,56,Male,Single,Delhi,Delhi,Plumber,1923117,1153028,859,2,Car Insurance,7,3,2,On-time,Monthly,0.5166111810393738,82,4,0.64
+290,Divya Patel,38,Male,Single,Jaipur,Rajasthan,Software Engineer,463597,103327,752,14,Health Insurance,14,4,2,Late,Lump Sum,0.1315770103096901,22,8,0.6
+291,Pooja Das,63,Male,Married,Patna,Bihar,Mechanic,1018738,899908,867,2,Investment Plans,12,5,0,Late,Yearly,0.45634279790013,25,2,0.54
+292,Anjali Pandey,62,Female,Single,Lucknow,Uttar Pradesh,Farmer,392967,881119,463,24,Life Insurance,4,0,2,On-time,Yearly,0.9826465713083954,63,7,0.41
+293,Rajesh Joshi,49,Female,Married,Kolkata,West Bengal,Software Engineer,1183669,1371406,690,4,Car Insurance,17,2,1,Late,Lump Sum,0.0247776615876237,93,9,0.58
+294,Manish Sharma,43,Male,Single,Kolkata,West Bengal,Doctor,563932,1276183,493,9,Investment Plans,20,2,3,On-time,Yearly,0.8304624696785635,31,2,0.4
+295,Pankaj Singh,52,Male,Married,Pune,Maharashtra,Bank Manager,565553,176618,851,47,Health Insurance,12,3,2,Late,Monthly,0.4536105294813449,53,2,0.63
+296,Pankaj Patel,42,Male,Married,Kolkata,West Bengal,Doctor,1130429,978584,339,48,Car Insurance,0,4,0,On-time,Yearly,0.2503372701464438,50,8,0.52
+297,Rajesh Malhotra,29,Female,Single,Indore,Madhya Pradesh,Shop Owner,447487,1357439,661,25,Retirement Plans,2,3,2,Late,Yearly,0.9926134062299798,67,1,0.35
+298,Meena Ghosh,34,Male,Single,Indore,Madhya Pradesh,Businessman,312468,460298,738,19,Retirement Plans,18,1,3,Late,Monthly,0.4546036353459139,24,7,0.56
+299,Dinesh Pandey,58,Male,Single,Delhi,Delhi,Plumber,1403551,338736,668,45,Car Insurance,7,3,2,Late,Lump Sum,0.86063112040295,97,1,0.66
+300,Sneha Saxena,25,Male,Married,Jaipur,Rajasthan,Shop Owner,563060,733503,687,33,Car Insurance,10,1,3,On-time,Lump Sum,0.917070042108564,24,4,0.52
+301,Sneha Verma,41,Female,Married,Indore,Madhya Pradesh,Teacher,655603,384089,354,2,Investment Plans,18,0,2,On-time,Monthly,0.8491920327842566,47,7,0.5
+302,Anjali Chopra,40,Male,Single,Chennai,Tamil Nadu,Nurse,1226214,379616,802,40,Retirement Plans,0,0,2,On-time,Lump Sum,0.4091191493068097,8,4,0.64
+303,Manish Agarwal,24,Female,Married,Delhi,Delhi,Nurse,951400,1421116,801,50,Investment Plans,17,3,0,On-time,Yearly,0.0853942836373969,11,6,0.62
+304,Sneha Verma,45,Female,Married,Mumbai,Maharashtra,Plumber,635646,907833,671,39,Health Insurance,1,2,2,On-time,Yearly,0.421119421517054,67,2,0.46
+305,Kavita Joshi,32,Male,Married,Indore,Madhya Pradesh,Teacher,1190609,131208,894,35,Retirement Plans,12,2,0,Late,Lump Sum,0.5631893101885015,85,7,0.76
+306,Meena Gupta,22,Female,Married,Indore,Madhya Pradesh,Teacher,1479605,486896,312,44,Life Insurance,18,4,1,On-time,Yearly,0.4947518882055559,38,8,0.7
+307,Divya Nair,36,Female,Married,Hyderabad,Telangana,Government Employee,1162215,626413,509,7,Car Insurance,17,2,0,Late,Monthly,0.1720927762804985,56,2,0.54
+308,Arun Verma,31,Female,Single,Kolkata,West Bengal,Government Employee,1174553,1246441,808,27,Retirement Plans,13,4,3,Late,Yearly,0.8541178267213069,65,5,0.6
+309,Kavita Yadav,52,Male,Single,Indore,Madhya Pradesh,Nurse,1878088,514861,586,43,Car Insurance,11,2,3,On-time,Lump Sum,0.3537765318109122,74,10,0.8
+310,Vikram Reddy,24,Male,Married,Mumbai,Maharashtra,Doctor,1720716,420861,625,10,Life Insurance,10,3,3,On-time,Lump Sum,0.2366965771288302,61,9,0.72
+311,Arun Ghosh,27,Male,Married,Pune,Maharashtra,Doctor,1771200,629793,787,42,Retirement Plans,6,4,1,On-time,Yearly,0.2994883952069809,36,8,0.77
+312,Pankaj Malhotra,42,Female,Married,Kolkata,West Bengal,Software Engineer,426614,278829,702,38,Life Insurance,3,2,1,On-time,Monthly,0.9562909000188908,5,6,0.54
+313,Suresh Agarwal,48,Male,Single,Indore,Madhya Pradesh,Lawyer,1736930,544003,846,34,Investment Plans,14,0,0,Late,Yearly,0.1231374937062017,86,7,0.8
+314,Pooja Das,61,Male,Single,Jaipur,Rajasthan,Mechanic,923550,1139556,836,26,Investment Plans,14,5,0,Late,Lump Sum,0.8899726950723257,71,10,0.63
+315,Rahul Malhotra,51,Female,Single,Chennai,Tamil Nadu,Farmer,1451820,1325811,892,19,Investment Plans,12,3,0,On-time,Yearly,0.5179085708168768,91,8,0.66
+316,Sunita Iyer,32,Male,Single,Ahmedabad,Gujarat,Plumber,1769369,1185810,856,33,Retirement Plans,8,2,3,Late,Yearly,0.860541430190207,70,7,0.71
+317,Pankaj Nair,27,Female,Married,Delhi,Delhi,Journalist,1800593,195740,449,48,Retirement Plans,0,2,2,Late,Lump Sum,0.0333194032254355,56,5,0.7
+318,Divya Joshi,60,Male,Married,Delhi,Delhi,Teacher,811623,162611,507,42,Retirement Plans,20,0,3,On-time,Lump Sum,0.8229253162656496,0,1,0.61
+319,Neha Saxena,38,Male,Single,Ahmedabad,Gujarat,Shop Owner,261285,1156837,380,14,Life Insurance,13,0,3,Late,Lump Sum,0.6411545817313614,91,7,0.37
+320,Sneha Ghosh,24,Male,Married,Indore,Madhya Pradesh,Shop Owner,1234003,1459668,630,26,Life Insurance,19,0,2,On-time,Yearly,0.2474590183787918,45,6,0.59
+321,Sunita Ghosh,43,Male,Married,Patna,Bihar,Software Engineer,1058648,999424,586,7,Retirement Plans,5,1,1,Late,Monthly,0.3520592778517502,95,7,0.5
+322,Vikram Agarwal,37,Female,Married,Jaipur,Rajasthan,Journalist,1918081,1068232,760,5,Car Insurance,17,2,2,Late,Monthly,0.0178116679648583,96,10,0.74
+323,Manish Malhotra,58,Male,Married,Bangalore,Karnataka,Plumber,1757244,708682,381,35,Retirement Plans,20,1,3,On-time,Monthly,0.8019040777698533,41,10,0.75
+324,Pooja Gupta,31,Female,Married,Patna,Bihar,Doctor,1536256,1350947,404,40,Retirement Plans,20,2,3,On-time,Lump Sum,0.1783286514393006,48,3,0.6
+325,Suman Bose,51,Female,Married,Jaipur,Rajasthan,Teacher,1613093,108093,738,40,Retirement Plans,15,0,0,Late,Lump Sum,0.7858678692503891,92,8,0.83
+326,Amit Nair,63,Male,Single,Bangalore,Karnataka,Civil Engineer,1927408,1058265,739,10,Health Insurance,14,5,3,On-time,Lump Sum,0.5502546736034798,2,2,0.66
+327,Priya Malhotra,65,Female,Married,Hyderabad,Telangana,Electrician,447339,1418787,869,20,Life Insurance,17,3,2,Late,Lump Sum,0.5261448928646819,69,8,0.52
+328,Pooja Yadav,43,Male,Married,Hyderabad,Telangana,Nurse,1645199,169747,748,7,Investment Plans,5,3,0,On-time,Yearly,0.8254597479837661,22,8,0.72
+329,Kavita Pandey,31,Male,Single,Ahmedabad,Gujarat,Plumber,1832832,125311,875,36,Retirement Plans,12,2,1,Late,Lump Sum,0.7158566761906423,55,6,0.85
+330,Rajesh Saxena,53,Female,Single,Indore,Madhya Pradesh,Farmer,1942485,506332,776,49,Life Insurance,16,2,2,Late,Yearly,0.5517246191479013,34,2,0.81
+331,Arun Sharma,30,Female,Single,Chennai,Tamil Nadu,Civil Engineer,1808576,1201548,657,15,Retirement Plans,4,5,2,Late,Monthly,0.700762138475271,22,8,0.63
+332,Vikram Iyer,51,Female,Single,Ahmedabad,Gujarat,Shop Owner,508880,138295,441,50,Car Insurance,6,1,3,On-time,Monthly,0.8627437879891565,62,3,0.52
+333,Kavita Das,64,Male,Single,Ahmedabad,Gujarat,Mechanic,1678174,176582,660,18,Car Insurance,16,2,0,Late,Monthly,0.0414850918133739,41,8,0.78
+334,Rohit Verma,29,Male,Married,Indore,Madhya Pradesh,Farmer,1581934,316311,655,21,Life Insurance,6,2,1,On-time,Lump Sum,0.5149045410637224,29,7,0.69
+335,Neha Yadav,27,Male,Single,Bangalore,Karnataka,Nurse,1081900,1346894,842,13,Life Insurance,10,0,1,On-time,Yearly,0.4958204335004812,63,6,0.55
+336,Manish Mehta,29,Female,Single,Delhi,Delhi,Software Engineer,1807255,861538,755,36,Car Insurance,10,2,2,On-time,Yearly,0.800728331444956,32,7,0.74
+337,Pooja Patel,28,Male,Married,Mumbai,Maharashtra,Doctor,1758041,644105,486,42,Car Insurance,8,1,0,On-time,Monthly,0.7276890500603559,16,7,0.7
+338,Suresh Kumar,47,Male,Married,Ahmedabad,Gujarat,Plumber,871186,249552,500,39,Life Insurance,10,0,2,On-time,Monthly,0.3320554858921978,39,8,0.62
+339,Sneha Saxena,32,Male,Married,Delhi,Delhi,Farmer,1360112,1390708,567,20,Life Insurance,4,3,2,On-time,Yearly,0.5786728549378956,76,7,0.52
+340,Priya Gupta,46,Female,Married,Kolkata,West Bengal,Civil Engineer,1406044,1397771,388,26,Car Insurance,5,1,0,Late,Monthly,0.0971463366238281,50,2,0.45
+341,Dinesh Verma,34,Male,Single,Mumbai,Maharashtra,Mechanic,703098,218638,628,18,Health Insurance,8,0,2,On-time,Lump Sum,0.897826501940315,98,4,0.54
+342,Sneha Sharma,59,Female,Married,Indore,Madhya Pradesh,Nurse,248236,648082,828,30,Investment Plans,13,0,0,On-time,Yearly,0.7473715271255549,13,10,0.58
+343,Meena Patel,42,Male,Married,Delhi,Delhi,Doctor,1259540,914570,844,18,Retirement Plans,18,1,3,On-time,Yearly,0.4055478100194762,90,7,0.68
+344,Sunita Ghosh,50,Male,Single,Patna,Bihar,Civil Engineer,344626,432683,303,25,Car Insurance,11,0,1,Late,Yearly,0.8084776171288173,5,1,0.39
+345,Rahul Verma,45,Male,Single,Bangalore,Karnataka,Mechanic,235561,628648,840,21,Health Insurance,10,0,0,Late,Monthly,0.6964338204128891,35,9,0.54
+346,Meena Bose,29,Female,Married,Bangalore,Karnataka,Journalist,375340,1209441,470,26,Investment Plans,14,5,3,Late,Lump Sum,0.5614052212551899,88,10,0.46
+347,Kavita Chopra,56,Male,Single,Hyderabad,Telangana,Shop Owner,982671,556352,668,50,Investment Plans,20,5,3,On-time,Yearly,0.8041018547782719,97,3,0.67
+348,Pankaj Iyer,23,Female,Married,Patna,Bihar,Bank Manager,905359,310932,635,50,Car Insurance,20,0,3,On-time,Monthly,0.1904911329015297,33,5,0.7
+349,Rahul Singh,36,Male,Married,Lucknow,Uttar Pradesh,Shop Owner,553261,134808,782,6,Investment Plans,3,3,0,On-time,Lump Sum,0.8919547726407849,90,4,0.51
+350,Meena Ghosh,36,Male,Married,Patna,Bihar,Journalist,795725,137164,762,8,Health Insurance,18,0,0,Late,Lump Sum,0.9630546717920392,46,2,0.6
+351,Meena Kumar,65,Male,Single,Bangalore,Karnataka,Shop Owner,897080,219971,462,1,Car Insurance,3,5,1,Late,Lump Sum,0.8090291712891527,58,1,0.44
+352,Manish Chopra,58,Male,Single,Delhi,Delhi,Teacher,1291586,695985,874,50,Life Insurance,15,0,3,Late,Yearly,0.9441964857969564,5,4,0.73
+353,Anjali Gupta,55,Female,Single,Mumbai,Maharashtra,Farmer,261751,1267743,858,43,Investment Plans,17,1,3,On-time,Lump Sum,0.6375412351444808,13,4,0.51
+354,Arun Saxena,28,Female,Married,Bangalore,Karnataka,Mechanic,771563,1324563,888,14,Health Insurance,16,5,1,Late,Yearly,0.6401391809232179,74,5,0.54
+355,Rahul Sharma,36,Female,Single,Indore,Madhya Pradesh,Farmer,1148634,1447565,667,23,Life Insurance,17,2,2,On-time,Yearly,0.1436828833945989,86,9,0.6
+356,Meena Bose,53,Male,Married,Indore,Madhya Pradesh,Shop Owner,777860,1462087,732,37,Investment Plans,17,1,0,On-time,Yearly,0.4651750021462062,59,6,0.55
+357,Arun Agarwal,63,Female,Married,Lucknow,Uttar Pradesh,Bank Manager,590828,1027589,595,44,Car Insurance,7,1,1,Late,Lump Sum,0.2198735024169309,26,4,0.48
+358,Pankaj Ghosh,22,Male,Single,Bangalore,Karnataka,Doctor,764256,1347711,652,28,Investment Plans,20,1,1,On-time,Yearly,0.6547472063990124,20,1,0.49
+359,Pooja Joshi,38,Male,Married,Lucknow,Uttar Pradesh,Mechanic,412958,146844,435,49,Car Insurance,19,4,2,On-time,Yearly,0.7992685911109739,51,5,0.59
+360,Divya Patel,43,Male,Single,Patna,Bihar,Plumber,1431986,1469439,573,50,Car Insurance,8,2,2,On-time,Lump Sum,0.805047501944627,76,1,0.55
+361,Rohit Sharma,53,Male,Single,Jaipur,Rajasthan,Lawyer,1012940,351172,626,20,Car Insurance,16,3,1,On-time,Lump Sum,0.6831859088413795,52,5,0.63
+362,Suresh Sharma,41,Male,Married,Lucknow,Uttar Pradesh,Plumber,879487,772316,487,38,Investment Plans,11,4,3,On-time,Monthly,0.5141586895709164,7,3,0.52
+363,Suresh Gupta,24,Male,Married,Kolkata,West Bengal,Lawyer,1923450,607525,446,39,Health Insurance,12,4,1,Late,Lump Sum,0.2973782947266649,47,4,0.71
+364,Pooja Agarwal,50,Female,Single,Jaipur,Rajasthan,Government Employee,914609,688541,311,46,Health Insurance,2,5,3,On-time,Monthly,0.0637040940351787,83,10,0.54
+365,Sneha Agarwal,48,Female,Single,Jaipur,Rajasthan,Electrician,1525454,795023,374,40,Health Insurance,4,2,0,On-time,Monthly,0.8839105602370503,64,2,0.55
+366,Dinesh Mehta,46,Male,Married,Hyderabad,Telangana,Electrician,1465561,451487,894,50,Investment Plans,17,3,3,Late,Monthly,0.913476433258816,72,4,0.8
+367,Arun Mehta,37,Male,Single,Lucknow,Uttar Pradesh,Doctor,1719384,554570,745,24,Life Insurance,8,1,1,Late,Lump Sum,0.0205087023823108,5,9,0.75
+368,Sneha Singh,43,Female,Single,Hyderabad,Telangana,Bank Manager,1615403,121890,532,12,Life Insurance,19,5,2,On-time,Lump Sum,0.1055763801337895,91,4,0.71
+369,Pankaj Pandey,48,Male,Married,Patna,Bihar,Doctor,544259,1490761,503,45,Health Insurance,11,1,1,Late,Yearly,0.894452304493575,23,3,0.42
+370,Neha Malhotra,59,Male,Married,Kolkata,West Bengal,Nurse,277576,918109,591,15,Investment Plans,14,3,0,Late,Monthly,0.7792025092662006,85,3,0.41
+371,Manish Patel,59,Male,Single,Hyderabad,Telangana,Doctor,1913596,675212,795,50,Retirement Plans,20,2,1,Late,Yearly,0.1242666095167625,90,10,0.9
+372,Vikram Das,29,Female,Married,Delhi,Delhi,Journalist,290085,242843,772,30,Investment Plans,11,1,1,Late,Monthly,0.9641346711856742,3,1,0.52
+373,Divya Agarwal,64,Male,Single,Lucknow,Uttar Pradesh,Lawyer,1177250,1062304,628,2,Investment Plans,10,3,1,Late,Yearly,0.7923442795099298,79,1,0.47
+374,Amit Reddy,63,Female,Single,Jaipur,Rajasthan,Plumber,385517,878259,537,9,Retirement Plans,15,1,1,Late,Monthly,0.6476281211800837,67,1,0.39
+375,Meena Agarwal,63,Female,Single,Bangalore,Karnataka,Mechanic,238524,386403,691,10,Investment Plans,11,3,0,On-time,Monthly,0.6786391171421701,45,2,0.45
+376,Rajesh Gupta,58,Female,Single,Mumbai,Maharashtra,Software Engineer,1616734,991576,654,27,Car Insurance,11,0,1,Late,Monthly,0.441149330777432,87,1,0.61
+377,Sunita Iyer,50,Female,Single,Bangalore,Karnataka,Shop Owner,885187,564805,616,10,Life Insurance,20,5,3,On-time,Monthly,0.8031338306014714,53,10,0.63
+378,Dinesh Mehta,52,Female,Single,Hyderabad,Telangana,Journalist,893247,822567,738,25,Car Insurance,9,5,2,Late,Yearly,0.7656030580623178,88,3,0.54
+379,Sunita Iyer,25,Female,Single,Ahmedabad,Gujarat,Nurse,484207,109135,580,47,Life Insurance,19,3,3,Late,Lump Sum,0.0323436275955303,53,4,0.62
+380,Divya Iyer,25,Female,Married,Mumbai,Maharashtra,Civil Engineer,835683,1465401,552,8,Investment Plans,6,5,1,Late,Monthly,0.4188799435595943,43,3,0.38
+381,Suresh Sharma,57,Female,Married,Chennai,Tamil Nadu,Electrician,346619,285046,321,15,Car Insurance,15,5,2,On-time,Lump Sum,0.5824300557603295,74,4,0.44
+382,Sunita Joshi,65,Female,Married,Kolkata,West Bengal,Bank Manager,1550943,1467849,384,7,Investment Plans,18,5,1,Late,Lump Sum,0.4612560656586071,95,4,0.52
+383,Divya Yadav,57,Male,Married,Kolkata,West Bengal,Farmer,1471456,82478,664,43,Health Insurance,4,3,1,Late,Monthly,0.1191881084107046,92,1,0.68
+384,Neha Pandey,33,Male,Married,Indore,Madhya Pradesh,Bank Manager,1985558,1367248,881,1,Car Insurance,13,0,0,On-time,Lump Sum,0.9262158312936836,56,6,0.68
+385,Neha Malhotra,43,Female,Single,Mumbai,Maharashtra,Journalist,688817,144987,786,42,Health Insurance,7,5,1,Late,Yearly,0.9018174349176497,56,3,0.61
+386,Pooja Ghosh,39,Female,Single,Lucknow,Uttar Pradesh,Businessman,1381208,441389,645,17,Retirement Plans,11,1,3,On-time,Monthly,0.868626917606217,64,7,0.67
+387,Suresh Iyer,49,Female,Single,Kolkata,West Bengal,Shop Owner,408603,830392,318,5,Car Insurance,9,2,2,On-time,Monthly,0.2669411259441372,87,9,0.39
+388,Amit Iyer,49,Female,Married,Chennai,Tamil Nadu,Journalist,940814,957046,870,13,Life Insurance,4,5,1,On-time,Lump Sum,0.1202302845092442,35,3,0.51
+389,Rajesh Iyer,33,Male,Single,Lucknow,Uttar Pradesh,Civil Engineer,397316,336252,742,3,Life Insurance,9,0,2,Late,Lump Sum,0.2624843433865439,52,5,0.49
+390,Manish Sharma,48,Female,Single,Indore,Madhya Pradesh,Software Engineer,728424,1175646,370,48,Health Insurance,19,2,0,On-time,Yearly,0.4888221129300601,50,5,0.51
+391,Kavita Verma,50,Female,Married,Hyderabad,Telangana,Farmer,687903,259454,537,36,Health Insurance,5,5,2,On-time,Lump Sum,0.2968710213738544,31,2,0.51
+392,Rajesh Saxena,51,Male,Married,Mumbai,Maharashtra,Government Employee,604826,493471,583,44,Life Insurance,1,0,2,Late,Monthly,0.4320114460738464,18,2,0.48
+393,Vikram Yadav,25,Female,Single,Ahmedabad,Gujarat,Software Engineer,1866859,762605,607,13,Health Insurance,15,3,1,On-time,Monthly,0.9048804803474448,69,4,0.68
+394,Rahul Gupta,35,Male,Single,Mumbai,Maharashtra,Teacher,1143762,1255736,640,50,Investment Plans,15,4,0,On-time,Lump Sum,0.1160030860992337,39,10,0.66
+395,Rohit Nair,22,Female,Single,Mumbai,Maharashtra,Farmer,1580364,344491,365,1,Car Insurance,5,0,3,On-time,Monthly,0.1824811663937918,74,2,0.53
+396,Anjali Saxena,62,Female,Married,Lucknow,Uttar Pradesh,Shop Owner,896210,134731,853,27,Life Insurance,12,3,3,On-time,Yearly,0.1372129173238117,18,10,0.72
+397,Neha Sharma,45,Male,Married,Mumbai,Maharashtra,Bank Manager,1701955,690873,746,37,Health Insurance,5,0,2,On-time,Yearly,0.1843062513687283,47,6,0.71
+398,Suresh Reddy,52,Male,Single,Kolkata,West Bengal,Doctor,568203,1255734,882,6,Car Insurance,3,4,3,Late,Monthly,0.1084594061565715,18,1,0.39
+399,Priya Gupta,59,Female,Married,Mumbai,Maharashtra,Government Employee,1720108,361597,376,26,Retirement Plans,7,0,1,Late,Lump Sum,0.0846646308396184,83,9,0.68
+400,Sunita Mehta,32,Male,Single,Chennai,Tamil Nadu,Doctor,1284912,991731,441,25,Car Insurance,15,0,1,Late,Lump Sum,0.6337300353313273,40,9,0.61
+401,Vikram Pandey,65,Male,Married,Indore,Madhya Pradesh,Government Employee,1166748,1272545,447,1,Car Insurance,9,5,2,On-time,Lump Sum,0.1714777592364652,25,5,0.44
+402,Rahul Bose,23,Male,Single,Hyderabad,Telangana,Civil Engineer,1115766,380008,769,32,Health Insurance,16,0,1,Late,Yearly,0.9674503158055784,16,4,0.68
+403,Pooja Chopra,31,Female,Married,Ahmedabad,Gujarat,Farmer,1554293,505296,365,25,Car Insurance,10,3,2,On-time,Monthly,0.4867863237436404,64,10,0.66
+404,Suman Reddy,26,Female,Single,Jaipur,Rajasthan,Government Employee,1684794,174785,370,26,Life Insurance,2,4,2,On-time,Yearly,0.9275309208698952,89,4,0.62
+405,Anjali Gupta,27,Male,Married,Chennai,Tamil Nadu,Nurse,1753697,1340470,336,1,Health Insurance,17,4,2,Late,Yearly,0.7680006256377363,81,10,0.59
+406,Kavita Reddy,61,Male,Single,Delhi,Delhi,Nurse,849147,624895,449,4,Retirement Plans,4,0,0,Late,Yearly,0.6888565989396072,45,10,0.49
+407,Dinesh Kumar,25,Male,Single,Kolkata,West Bengal,Journalist,789605,98149,824,38,Health Insurance,8,0,3,Late,Monthly,0.7343994281975735,34,8,0.69
+408,Anjali Bose,60,Female,Single,Ahmedabad,Gujarat,Mechanic,1831611,181934,816,33,Car Insurance,5,3,3,Late,Lump Sum,0.3944873943744811,69,1,0.74
+409,Sneha Joshi,60,Male,Married,Jaipur,Rajasthan,Businessman,1319899,1041129,461,14,Car Insurance,18,2,1,On-time,Monthly,0.4391615039339309,27,8,0.59
+410,Suman Kumar,55,Male,Married,Mumbai,Maharashtra,Civil Engineer,282544,264776,440,22,Retirement Plans,1,4,3,Late,Yearly,0.6660414863508065,90,5,0.41
+411,Rahul Ghosh,47,Male,Single,Chennai,Tamil Nadu,Shop Owner,798171,69105,797,20,Car Insurance,10,4,3,Late,Yearly,0.0182482323241836,61,5,0.63
+412,Rahul Ghosh,52,Female,Single,Bangalore,Karnataka,Mechanic,627506,797032,843,36,Life Insurance,4,5,1,Late,Monthly,0.7777097529809487,46,1,0.5
+413,Manish Mehta,23,Female,Single,Bangalore,Karnataka,Mechanic,230040,833589,403,35,Investment Plans,14,5,0,On-time,Yearly,0.545006811837894,23,8,0.46
+414,Sneha Ghosh,25,Male,Married,Mumbai,Maharashtra,Shop Owner,1181100,633300,851,2,Life Insurance,14,0,3,On-time,Monthly,0.4098598605400081,76,6,0.64
+415,Sunita Singh,24,Female,Single,Chennai,Tamil Nadu,Journalist,1722884,64028,534,46,Car Insurance,8,5,2,Late,Monthly,0.1034170258133595,83,5,0.75
+416,Meena Reddy,52,Male,Single,Indore,Madhya Pradesh,Bank Manager,1883770,665147,661,31,Health Insurance,19,4,3,On-time,Yearly,0.9041423157188148,1,8,0.8
+417,Vikram Saxena,51,Male,Single,Hyderabad,Telangana,Businessman,1646799,1270706,826,15,Retirement Plans,14,4,1,Late,Lump Sum,0.4362998059954883,66,1,0.61
+418,Manish Sharma,24,Male,Single,Delhi,Delhi,Farmer,1936630,239761,529,42,Car Insurance,15,5,1,Late,Lump Sum,0.2592661570899284,19,5,0.79
+419,Rajesh Singh,49,Male,Single,Bangalore,Karnataka,Journalist,431958,876774,892,17,Car Insurance,5,1,3,On-time,Lump Sum,0.4025696406458043,48,2,0.45
+420,Suresh Gupta,29,Male,Single,Jaipur,Rajasthan,Teacher,1375246,1466979,641,7,Retirement Plans,15,2,0,Late,Yearly,0.0817516976642428,11,4,0.53
+421,Rahul Mehta,23,Female,Single,Jaipur,Rajasthan,Civil Engineer,202597,643213,345,27,Investment Plans,17,3,3,Late,Yearly,0.4618264405128518,37,2,0.4
+422,Amit Joshi,44,Female,Married,Kolkata,West Bengal,Bank Manager,1979534,801491,349,26,Car Insurance,11,1,1,Late,Monthly,0.1825370184425261,2,2,0.62
+423,Amit Iyer,23,Male,Single,Bangalore,Karnataka,Teacher,391389,739491,371,16,Life Insurance,19,1,0,Late,Monthly,0.8307913669760548,54,7,0.46
+424,Sneha Das,30,Male,Married,Ahmedabad,Gujarat,Doctor,600587,325495,819,31,Life Insurance,4,4,0,On-time,Lump Sum,0.2601031821107875,36,1,0.53
+425,Rahul Joshi,60,Female,Married,Lucknow,Uttar Pradesh,Lawyer,1201119,699121,318,13,Investment Plans,12,1,2,Late,Yearly,0.9710001510572251,63,6,0.53
+426,Divya Patel,25,Female,Married,Jaipur,Rajasthan,Shop Owner,1344357,1355510,338,34,Life Insurance,5,3,1,Late,Monthly,0.8598310582577807,51,2,0.45
+427,Rahul Verma,45,Female,Married,Chennai,Tamil Nadu,Plumber,1221957,445046,348,33,Life Insurance,7,3,2,On-time,Monthly,0.9177761440537184,17,8,0.6
+428,Suresh Sharma,55,Male,Single,Indore,Madhya Pradesh,Businessman,955769,764436,835,19,Car Insurance,4,1,0,On-time,Monthly,0.6212955493293537,95,5,0.56
+429,Meena Nair,38,Male,Married,Jaipur,Rajasthan,Bank Manager,1982139,110941,562,14,Car Insurance,9,2,1,On-time,Monthly,0.4222448481204363,24,7,0.75
+430,Suresh Das,24,Male,Single,Indore,Madhya Pradesh,Plumber,532307,1048815,819,39,Retirement Plans,18,4,1,Late,Yearly,0.8239023902130932,54,2,0.54
+431,Sunita Das,61,Male,Married,Bangalore,Karnataka,Software Engineer,1426412,697331,631,44,Health Insurance,17,2,0,Late,Lump Sum,0.3554196806893015,62,2,0.68
+432,Dinesh Verma,33,Male,Single,Hyderabad,Telangana,Lawyer,1365594,171494,797,8,Life Insurance,20,4,2,On-time,Lump Sum,0.997754954645138,23,8,0.76
+433,Rajesh Chopra,33,Female,Single,Mumbai,Maharashtra,Shop Owner,452946,896866,313,47,Car Insurance,8,5,3,Late,Yearly,0.2168209036800287,44,9,0.47
+434,Divya Nair,34,Male,Single,Mumbai,Maharashtra,Lawyer,824170,462476,809,10,Investment Plans,5,4,1,On-time,Lump Sum,0.5802230679706408,0,3,0.53
+435,Manish Saxena,40,Female,Married,Lucknow,Uttar Pradesh,Government Employee,1580586,133706,656,15,Investment Plans,7,5,0,Late,Yearly,0.0142894754425855,0,3,0.66
+436,Dinesh Kumar,59,Female,Single,Hyderabad,Telangana,Software Engineer,714769,425827,819,43,Life Insurance,11,2,3,On-time,Yearly,0.7414709210174893,79,1,0.6
+437,Meena Malhotra,26,Male,Married,Patna,Bihar,Doctor,1902529,477322,745,28,Health Insurance,1,3,1,Late,Lump Sum,0.4014453657900368,30,9,0.75
+438,Rajesh Ghosh,29,Female,Single,Jaipur,Rajasthan,Lawyer,481657,111456,883,5,Car Insurance,14,1,3,Late,Monthly,0.2661253727983911,40,4,0.58
+439,Kavita Nair,47,Female,Married,Patna,Bihar,Electrician,234797,879879,453,44,Health Insurance,0,3,2,On-time,Monthly,0.9629466251597576,67,8,0.42
+440,Arun Kumar,24,Female,Single,Pune,Maharashtra,Bank Manager,929169,1151794,579,3,Life Insurance,0,3,1,On-time,Lump Sum,0.8703657965291272,90,2,0.38
+441,Pooja Joshi,29,Female,Married,Patna,Bihar,Lawyer,1668523,225593,861,4,Life Insurance,10,2,2,On-time,Lump Sum,0.4098412993412388,96,3,0.71
+442,Rahul Iyer,59,Female,Married,Lucknow,Uttar Pradesh,Mechanic,1697047,1313161,818,7,Investment Plans,19,3,1,On-time,Lump Sum,0.1337162949281994,62,8,0.69
+443,Kavita Yadav,51,Female,Single,Kolkata,West Bengal,Journalist,952647,494629,337,33,Investment Plans,2,4,0,Late,Yearly,0.0012264440022013,2,2,0.46
+444,Meena Gupta,64,Female,Married,Jaipur,Rajasthan,Electrician,424941,839607,385,10,Life Insurance,17,5,1,Late,Lump Sum,0.8223244123059771,42,9,0.46
+445,Amit Pandey,52,Female,Single,Chennai,Tamil Nadu,Teacher,1037461,525491,641,47,Retirement Plans,18,4,3,On-time,Monthly,0.1613872797337426,57,9,0.72
+446,Rahul Yadav,32,Female,Single,Jaipur,Rajasthan,Nurse,902685,428033,448,37,Health Insurance,11,1,0,On-time,Monthly,0.1250499230730949,16,8,0.6
+447,Pooja Chopra,29,Female,Married,Chennai,Tamil Nadu,Doctor,735533,204903,334,10,Investment Plans,4,3,1,Late,Monthly,0.5151449031495605,10,3,0.43
+448,Meena Nair,43,Female,Married,Bangalore,Karnataka,Lawyer,1820571,1255706,796,35,Life Insurance,14,4,1,Late,Lump Sum,0.2820796721208776,10,9,0.75
+449,Suman Chopra,56,Female,Single,Delhi,Delhi,Software Engineer,659664,171270,541,16,Life Insurance,6,0,3,Late,Lump Sum,0.6129021135153339,44,8,0.54
+450,Sunita Patel,50,Male,Married,Lucknow,Uttar Pradesh,Civil Engineer,271578,896604,723,39,Investment Plans,12,4,0,On-time,Lump Sum,0.501159799369257,0,6,0.51
+451,Pankaj Das,58,Female,Married,Chennai,Tamil Nadu,Teacher,927559,1188610,310,36,Retirement Plans,20,0,3,On-time,Lump Sum,0.4762079226836325,40,4,0.5
+452,Suman Sharma,59,Male,Single,Delhi,Delhi,Teacher,1007222,1057340,557,26,Life Insurance,16,0,0,On-time,Yearly,0.3226945454492016,34,1,0.51
+453,Rohit Patel,61,Male,Married,Ahmedabad,Gujarat,Journalist,1623655,827606,378,49,Health Insurance,18,0,1,Late,Yearly,0.7905295752607941,9,10,0.73
+454,Kavita Sharma,37,Female,Married,Patna,Bihar,Journalist,433780,981966,504,39,Life Insurance,8,1,2,On-time,Monthly,0.8714999998056552,44,9,0.49
+455,Divya Singh,33,Female,Single,Pune,Maharashtra,Teacher,1909497,875448,585,6,Retirement Plans,13,2,3,Late,Monthly,0.8899965470351597,56,8,0.69
+456,Vikram Patel,38,Male,Married,Hyderabad,Telangana,Plumber,891154,1321436,400,34,Retirement Plans,3,3,1,Late,Monthly,0.813460135068283,88,10,0.47
+457,Amit Chopra,46,Female,Married,Kolkata,West Bengal,Software Engineer,532796,834671,629,30,Health Insurance,15,5,1,On-time,Monthly,0.0927018585381211,56,10,0.57
+458,Amit Gupta,51,Male,Single,Delhi,Delhi,Civil Engineer,315983,864325,893,33,Health Insurance,3,5,0,On-time,Yearly,0.2566334148071371,37,10,0.54
+459,Dinesh Verma,41,Male,Single,Hyderabad,Telangana,Shop Owner,1701852,187781,335,23,Car Insurance,16,1,3,Late,Yearly,0.9402155827462292,24,8,0.72
+460,Sunita Chopra,48,Male,Single,Lucknow,Uttar Pradesh,Shop Owner,876923,1093763,829,42,Retirement Plans,16,3,1,On-time,Monthly,0.5302817200072055,8,3,0.6
+461,Pankaj Singh,64,Male,Married,Delhi,Delhi,Journalist,1383110,1375190,785,23,Retirement Plans,10,5,3,Late,Yearly,0.2255085282746939,81,6,0.6
+462,Dinesh Kumar,50,Female,Married,Mumbai,Maharashtra,Bank Manager,934762,85272,858,40,Health Insurance,15,3,0,On-time,Lump Sum,0.5265765935369918,42,8,0.76
+463,Pooja Sharma,59,Male,Single,Jaipur,Rajasthan,Teacher,667015,170984,615,49,Car Insurance,2,2,3,On-time,Lump Sum,0.5008409740817545,39,1,0.54
+464,Meena Reddy,64,Female,Married,Mumbai,Maharashtra,Bank Manager,1348282,1091272,565,2,Investment Plans,4,2,3,On-time,Yearly,0.7505401512294192,78,5,0.49
+465,Pooja Ghosh,42,Male,Married,Lucknow,Uttar Pradesh,Farmer,1515581,315648,667,47,Life Insurance,0,5,3,Late,Yearly,0.3780910921144195,29,3,0.67
+466,Arun Chopra,57,Male,Married,Kolkata,West Bengal,Government Employee,1747168,709612,361,18,Car Insurance,5,2,0,Late,Monthly,0.8955885381629252,41,5,0.58
+467,Rohit Nair,36,Male,Single,Hyderabad,Telangana,Nurse,1014157,1061380,308,15,Life Insurance,4,0,1,Late,Lump Sum,0.7222700527873768,52,2,0.38
+468,Pankaj Yadav,45,Male,Married,Delhi,Delhi,Businessman,1182365,1174689,869,48,Retirement Plans,0,0,2,Late,Monthly,0.4329254198353515,28,2,0.57
+469,Dinesh Kumar,60,Female,Single,Lucknow,Uttar Pradesh,Lawyer,1672747,344135,638,5,Health Insurance,13,3,2,On-time,Monthly,0.3326441276937077,39,1,0.64
+470,Amit Verma,33,Male,Single,Bangalore,Karnataka,Civil Engineer,850151,741608,805,49,Health Insurance,6,0,2,On-time,Monthly,0.1276632898051649,54,2,0.58
+471,Priya Bose,26,Male,Married,Jaipur,Rajasthan,Mechanic,789627,676217,645,9,Retirement Plans,14,1,3,On-time,Yearly,0.5430543920611988,0,2,0.5
+472,Manish Patel,53,Male,Single,Delhi,Delhi,Businessman,1283583,191306,728,17,Health Insurance,4,4,3,Late,Monthly,0.2438953225141139,34,9,0.68
+473,Vikram Mehta,38,Female,Single,Pune,Maharashtra,Businessman,490693,457956,646,2,Retirement Plans,6,5,0,On-time,Lump Sum,0.189191641502918,32,4,0.45
+474,Manish Ghosh,53,Female,Married,Lucknow,Uttar Pradesh,Lawyer,231729,1460998,302,11,Investment Plans,1,0,3,Late,Yearly,0.889425754013619,23,10,0.28
+475,Priya Pandey,33,Male,Single,Kolkata,West Bengal,Software Engineer,1731918,189810,821,14,Investment Plans,20,1,2,On-time,Yearly,0.7606904286181305,14,7,0.82
+476,Amit Pandey,41,Female,Single,Hyderabad,Telangana,Civil Engineer,778410,965846,519,18,Retirement Plans,6,3,0,On-time,Yearly,0.4624183310801656,42,9,0.49
+477,Suresh Kumar,47,Female,Married,Hyderabad,Telangana,Farmer,1213285,582115,392,49,Investment Plans,16,5,2,On-time,Monthly,0.0666695926367196,9,4,0.63
+478,Meena Gupta,53,Male,Married,Mumbai,Maharashtra,Software Engineer,1268436,510491,840,5,Health Insurance,2,4,1,On-time,Yearly,0.9822571099422642,23,8,0.63
+479,Suresh Singh,46,Female,Single,Jaipur,Rajasthan,Farmer,421477,152218,576,7,Life Insurance,3,0,0,Late,Lump Sum,0.7496886262420135,86,3,0.44
+480,Meena Gupta,60,Male,Single,Ahmedabad,Gujarat,Software Engineer,1754308,525552,474,26,Retirement Plans,13,5,3,Late,Monthly,0.1492505919373604,96,10,0.73
+481,Pooja Das,27,Female,Single,Indore,Madhya Pradesh,Government Employee,1335029,1270902,895,7,Investment Plans,0,0,0,Late,Yearly,0.9069284474589384,27,9,0.58
+482,Dinesh Agarwal,35,Male,Married,Patna,Bihar,Doctor,229654,234074,441,22,Health Insurance,6,4,0,On-time,Lump Sum,0.8688767052191009,55,10,0.48
+483,Manish Bose,32,Female,Single,Pune,Maharashtra,Civil Engineer,1490043,488700,631,26,Investment Plans,13,3,3,Late,Monthly,0.5976490624182875,43,2,0.65
+484,Pooja Ghosh,38,Female,Married,Pune,Maharashtra,Nurse,1559880,1193408,430,1,Life Insurance,10,5,0,On-time,Lump Sum,0.78269641456079,64,8,0.54
+485,Arun Pandey,58,Female,Married,Delhi,Delhi,Civil Engineer,742067,246015,821,35,Retirement Plans,19,2,3,On-time,Yearly,0.6412314463490695,17,2,0.65
+486,Amit Saxena,30,Female,Married,Kolkata,West Bengal,Journalist,233941,1008682,743,8,Life Insurance,17,3,2,Late,Yearly,0.9094847821549455,24,1,0.41
+487,Meena Reddy,49,Female,Married,Patna,Bihar,Nurse,1295768,1014042,805,12,Car Insurance,14,5,0,Late,Lump Sum,0.2720312732916987,44,10,0.67
+488,Divya Sharma,26,Female,Single,Delhi,Delhi,Farmer,1172973,721079,515,41,Life Insurance,0,3,2,On-time,Lump Sum,0.6777266534509763,55,7,0.57
+489,Neha Kumar,51,Female,Married,Chennai,Tamil Nadu,Lawyer,1818909,525868,546,45,Life Insurance,3,0,0,On-time,Lump Sum,0.36425250812702,95,1,0.66
+490,Pooja Nair,58,Female,Single,Kolkata,West Bengal,Electrician,1721608,1483322,796,3,Health Insurance,2,5,1,Late,Yearly,0.3396602843554757,93,7,0.57
+491,Sneha Ghosh,53,Female,Married,Mumbai,Maharashtra,Doctor,661289,887215,817,15,Health Insurance,5,4,0,Late,Lump Sum,0.7898940494443308,27,6,0.51
+492,Rohit Bose,43,Female,Married,Bangalore,Karnataka,Farmer,1578338,145184,609,40,Retirement Plans,6,0,1,On-time,Lump Sum,0.0832528955550124,19,8,0.75
+493,Neha Chopra,51,Female,Single,Chennai,Tamil Nadu,Doctor,640141,1133468,372,23,Health Insurance,6,3,2,On-time,Monthly,0.6901860840817811,72,1,0.35
+494,Sneha Singh,60,Female,Single,Pune,Maharashtra,Businessman,1449057,345622,511,10,Life Insurance,9,2,0,Late,Monthly,0.5571232043211386,11,5,0.61
+495,Pooja Pandey,51,Male,Married,Mumbai,Maharashtra,Nurse,1964317,837935,401,7,Car Insurance,20,5,3,On-time,Yearly,0.1101409762609397,29,10,0.71
+496,Suman Mehta,38,Female,Single,Chennai,Tamil Nadu,Doctor,1454093,1117143,420,18,Life Insurance,13,0,0,On-time,Lump Sum,0.6506444626077968,9,4,0.54
+497,Arun Verma,33,Female,Married,Jaipur,Rajasthan,Government Employee,1891881,206830,778,28,Retirement Plans,7,0,0,Late,Yearly,0.5696410879449642,96,4,0.77
+498,Divya Mehta,64,Male,Single,Kolkata,West Bengal,Shop Owner,834311,560283,321,23,Investment Plans,7,3,0,Late,Lump Sum,0.659868999043354,13,6,0.48
+499,Divya Malhotra,61,Female,Married,Indore,Madhya Pradesh,Lawyer,1836157,1383213,558,41,Retirement Plans,12,5,0,Late,Lump Sum,0.1478665905383033,41,7,0.67
+500,Priya Chopra,25,Male,Married,Pune,Maharashtra,Lawyer,1301962,433369,620,3,Retirement Plans,4,2,0,On-time,Lump Sum,0.3720715202867635,83,4,0.56
+501,Suresh Patel,29,Male,Married,Hyderabad,Telangana,Plumber,1369614,788114,801,45,Car Insurance,6,2,2,Late,Yearly,0.118535102424557,33,9,0.71
+502,Anjali Singh,25,Female,Married,Bangalore,Karnataka,Government Employee,1873249,1309922,853,27,Investment Plans,18,3,2,On-time,Yearly,0.5944704895659079,26,4,0.72
+503,Rahul Das,58,Male,Married,Hyderabad,Telangana,Shop Owner,1340158,1330213,873,20,Life Insurance,2,4,1,On-time,Lump Sum,0.2867354537776506,98,7,0.58
+504,Sunita Singh,36,Male,Single,Pune,Maharashtra,Nurse,568038,500291,509,24,Life Insurance,8,0,1,Late,Monthly,0.300108623139986,4,9,0.53
+505,Rahul Mehta,49,Female,Married,Bangalore,Karnataka,Doctor,243870,385553,890,41,Car Insurance,4,5,2,Late,Yearly,0.4464851891184448,74,6,0.56
+506,Dinesh Agarwal,56,Male,Married,Bangalore,Karnataka,Civil Engineer,1333266,379755,868,38,Car Insurance,17,2,1,Late,Yearly,0.1777321187756172,10,3,0.75
+507,Suresh Yadav,32,Female,Single,Mumbai,Maharashtra,Software Engineer,350731,1033002,465,36,Car Insurance,7,3,1,Late,Yearly,0.0966195941825325,32,4,0.4
+508,Arun Joshi,36,Female,Married,Bangalore,Karnataka,Bank Manager,1699765,440172,461,20,Health Insurance,5,3,2,Late,Yearly,0.1394175142797532,91,1,0.59
+509,Vikram Singh,47,Female,Married,Mumbai,Maharashtra,Teacher,1039212,1496215,852,11,Life Insurance,7,3,3,Late,Lump Sum,0.5433144500688454,85,2,0.47
+510,Meena Gupta,46,Male,Single,Ahmedabad,Gujarat,Electrician,503797,745805,440,46,Investment Plans,0,1,1,On-time,Yearly,0.7107094437559052,100,6,0.45
+511,Rohit Joshi,46,Female,Single,Mumbai,Maharashtra,Doctor,1310956,831079,629,47,Retirement Plans,3,2,3,Late,Lump Sum,0.2829155228236985,98,10,0.66
+512,Vikram Malhotra,64,Male,Single,Indore,Madhya Pradesh,Journalist,1048809,912461,586,29,Life Insurance,6,1,0,On-time,Monthly,0.8968904306227675,76,3,0.51
+513,Divya Reddy,44,Female,Single,Hyderabad,Telangana,Software Engineer,606293,421538,339,42,Life Insurance,18,2,1,On-time,Yearly,0.2055469752709867,31,4,0.54
+514,Arun Mehta,49,Female,Single,Ahmedabad,Gujarat,Teacher,1565933,196074,573,18,Car Insurance,3,2,2,Late,Lump Sum,0.950399708526844,7,2,0.61
+515,Rajesh Iyer,29,Female,Single,Ahmedabad,Gujarat,Lawyer,613361,861677,625,4,Health Insurance,12,2,3,Late,Lump Sum,0.1358651168556754,92,8,0.49
+516,Pooja Saxena,65,Male,Single,Delhi,Delhi,Shop Owner,1782318,931191,322,27,Car Insurance,18,4,2,On-time,Yearly,0.15255686686691,71,2,0.61
+517,Manish Kumar,23,Male,Married,Bangalore,Karnataka,Plumber,1813953,534465,310,15,Investment Plans,8,3,2,Late,Lump Sum,0.863227602835603,46,3,0.59
+518,Neha Ghosh,22,Male,Married,Jaipur,Rajasthan,Bank Manager,665174,1188801,729,13,Health Insurance,20,1,1,Late,Monthly,0.9790097902344518,82,7,0.54
+519,Neha Agarwal,55,Female,Married,Hyderabad,Telangana,Businessman,767936,1395205,693,48,Life Insurance,4,1,3,Late,Lump Sum,0.3722046895203685,93,2,0.47
+520,Kavita Reddy,55,Female,Single,Lucknow,Uttar Pradesh,Nurse,813660,982317,597,35,Health Insurance,19,1,0,Late,Yearly,0.210393810799052,26,2,0.54
+521,Kavita Singh,52,Male,Married,Indore,Madhya Pradesh,Bank Manager,1653504,1212467,578,23,Investment Plans,1,0,3,Late,Yearly,0.5717022476348744,76,7,0.58
+522,Kavita Malhotra,53,Male,Single,Ahmedabad,Gujarat,Lawyer,1993187,131423,752,4,Car Insurance,15,0,1,On-time,Monthly,0.1133853457733543,34,3,0.77
+523,Priya Yadav,35,Male,Single,Chennai,Tamil Nadu,Doctor,1308296,1491253,812,34,Life Insurance,5,2,3,On-time,Yearly,0.9680197817926492,32,2,0.54
+524,Meena Bose,31,Male,Single,Kolkata,West Bengal,Teacher,324614,951197,568,23,Life Insurance,20,3,3,Late,Lump Sum,0.5057951227466829,37,6,0.49
+525,Meena Sharma,58,Male,Married,Indore,Madhya Pradesh,Electrician,560294,53593,796,42,Car Insurance,17,0,1,On-time,Lump Sum,0.4233034389070492,68,5,0.67
+526,Divya Gupta,28,Female,Married,Hyderabad,Telangana,Mechanic,1437169,794753,865,22,Life Insurance,10,0,1,Late,Lump Sum,0.9344142022468996,86,6,0.68
+527,Arun Yadav,50,Male,Single,Jaipur,Rajasthan,Doctor,1673539,886424,850,16,Investment Plans,19,4,0,Late,Lump Sum,0.6575509836916554,67,1,0.69
+528,Manish Nair,45,Female,Married,Delhi,Delhi,Doctor,831091,284702,806,45,Car Insurance,0,5,3,Late,Lump Sum,0.5573460225622292,22,3,0.6
+529,Anjali Bose,63,Female,Single,Hyderabad,Telangana,Teacher,261435,687754,516,39,Car Insurance,1,1,3,Late,Lump Sum,0.0203159302555419,38,2,0.39
+530,Rajesh Gupta,24,Female,Single,Lucknow,Uttar Pradesh,Shop Owner,222371,780518,472,23,Retirement Plans,3,1,3,Late,Monthly,0.7559065936630376,44,5,0.37
+531,Amit Chopra,46,Female,Single,Mumbai,Maharashtra,Businessman,386395,1293441,739,34,Health Insurance,0,2,1,Late,Monthly,0.9179973965982816,97,6,0.42
+532,Neha Singh,48,Male,Single,Mumbai,Maharashtra,Nurse,666694,1291578,622,48,Health Insurance,20,1,3,On-time,Monthly,0.1065862171237918,87,6,0.57
+533,Sunita Gupta,47,Female,Married,Hyderabad,Telangana,Electrician,482644,311012,417,32,Life Insurance,19,2,1,Late,Yearly,0.6995401834883416,91,2,0.51
+534,Suresh Nair,65,Female,Married,Bangalore,Karnataka,Journalist,393330,278392,354,25,Retirement Plans,0,5,2,On-time,Monthly,0.8143707316797658,2,6,0.42
+535,Neha Singh,29,Female,Single,Delhi,Delhi,Government Employee,897888,1299113,805,15,Health Insurance,12,3,3,Late,Lump Sum,0.1741661161945829,26,10,0.57
+536,Vikram Nair,30,Female,Married,Chennai,Tamil Nadu,Doctor,1711235,318993,830,18,Car Insurance,6,5,3,Late,Lump Sum,0.8780360672865999,60,6,0.74
+537,Rohit Chopra,35,Female,Married,Ahmedabad,Gujarat,Lawyer,1939520,1191052,434,20,Retirement Plans,14,3,0,On-time,Lump Sum,0.4830664791804432,75,2,0.6
+538,Neha Yadav,43,Male,Married,Delhi,Delhi,Shop Owner,1294908,1361308,886,40,Retirement Plans,10,1,0,On-time,Yearly,0.1199467165912527,44,10,0.69
+539,Pankaj Ghosh,41,Female,Married,Indore,Madhya Pradesh,Nurse,1745665,571007,372,23,Life Insurance,18,4,3,Late,Yearly,0.7604328171221286,12,6,0.68
+540,Dinesh Malhotra,34,Female,Single,Delhi,Delhi,Plumber,460262,367907,423,19,Car Insurance,19,4,0,Late,Monthly,0.8822430703147774,66,5,0.51
+541,Vikram Verma,28,Male,Married,Delhi,Delhi,Electrician,1144183,1460788,645,13,Retirement Plans,17,3,2,Late,Lump Sum,0.8797410888658582,20,3,0.51
+542,Suman Sharma,45,Male,Single,Delhi,Delhi,Farmer,1745458,54251,377,35,Life Insurance,5,5,1,Late,Yearly,0.1607466865159247,87,1,0.65
+543,Sneha Saxena,38,Male,Single,Lucknow,Uttar Pradesh,Civil Engineer,472418,619975,812,1,Life Insurance,13,4,0,On-time,Monthly,0.467753293470176,86,5,0.51
+544,Vikram Pandey,40,Female,Single,Chennai,Tamil Nadu,Mechanic,1201307,866712,841,8,Investment Plans,5,3,1,On-time,Monthly,0.6836247099951928,64,8,0.6
+545,Rajesh Patel,30,Female,Single,Kolkata,West Bengal,Government Employee,301526,941996,334,30,Car Insurance,14,2,1,Late,Yearly,0.8941593146840492,52,8,0.44
+546,Priya Patel,63,Female,Married,Bangalore,Karnataka,Nurse,1736836,950718,448,46,Health Insurance,20,0,3,Late,Lump Sum,0.3042457685534623,97,8,0.74
+547,Suresh Joshi,56,Female,Single,Mumbai,Maharashtra,Government Employee,439091,1066819,811,21,Life Insurance,6,5,0,Late,Lump Sum,0.9839572267734732,35,9,0.5
+548,Suresh Saxena,33,Male,Married,Lucknow,Uttar Pradesh,Lawyer,902838,294598,640,10,Retirement Plans,19,4,3,On-time,Lump Sum,0.3939705264097686,59,2,0.58
+549,Vikram Yadav,43,Female,Married,Hyderabad,Telangana,Software Engineer,416487,259499,524,29,Retirement Plans,8,2,2,Late,Lump Sum,0.4529213009958253,54,2,0.47
+550,Pankaj Verma,52,Male,Married,Kolkata,West Bengal,Businessman,1840459,1083486,423,20,Investment Plans,13,2,2,Late,Lump Sum,0.744208013732334,37,6,0.63
+551,Pooja Das,51,Male,Married,Lucknow,Uttar Pradesh,Bank Manager,1540824,544282,796,20,Investment Plans,5,5,2,On-time,Monthly,0.0223099966174933,27,1,0.63
+552,Vikram Patel,59,Female,Single,Indore,Madhya Pradesh,Farmer,1946348,1147887,359,30,Life Insurance,3,1,1,Late,Monthly,0.9274633720042832,13,8,0.61
+553,Kavita Bose,29,Female,Married,Delhi,Delhi,Farmer,1164889,657453,799,11,Car Insurance,7,2,1,Late,Monthly,0.1144709549206085,26,4,0.58
+554,Rohit Patel,32,Male,Single,Chennai,Tamil Nadu,Doctor,290006,260572,462,33,Car Insurance,15,2,1,Late,Yearly,0.0399945784748766,29,2,0.48
+555,Meena Singh,48,Male,Married,Kolkata,West Bengal,Mechanic,679609,184554,561,32,Health Insurance,1,1,3,Late,Lump Sum,0.8770980603361602,66,10,0.58
+556,Rahul Mehta,27,Female,Single,Mumbai,Maharashtra,Shop Owner,1793814,335886,675,3,Investment Plans,9,4,2,Late,Yearly,0.3599305877269738,52,7,0.71
+557,Suman Malhotra,30,Female,Single,Jaipur,Rajasthan,Bank Manager,444709,1236487,405,9,Life Insurance,19,2,2,On-time,Lump Sum,0.8607221625015276,45,4,0.39
+558,Suresh Mehta,57,Female,Single,Delhi,Delhi,Civil Engineer,585443,584741,663,44,Retirement Plans,7,3,2,Late,Monthly,0.8628886538263573,84,8,0.58
+559,Divya Verma,46,Female,Married,Ahmedabad,Gujarat,Government Employee,1527165,1214268,873,4,Health Insurance,12,3,1,On-time,Lump Sum,0.2344857769694333,65,10,0.67
+560,Kavita Das,57,Female,Married,Ahmedabad,Gujarat,Lawyer,416886,979968,356,44,Car Insurance,1,3,1,Late,Yearly,0.3095585664907667,99,5,0.39
+561,Vikram Singh,28,Female,Married,Delhi,Delhi,Businessman,266495,512386,890,31,Investment Plans,16,3,0,Late,Monthly,0.9594322359363214,32,1,0.54
+562,Divya Sharma,61,Male,Married,Patna,Bihar,Bank Manager,695841,223339,550,41,Life Insurance,20,0,1,On-time,Monthly,0.8420796176736611,53,3,0.62
+563,Arun Bose,48,Male,Married,Ahmedabad,Gujarat,Plumber,1368460,367915,692,9,Car Insurance,6,5,1,Late,Yearly,0.3546712028656661,93,3,0.6
+564,Amit Chopra,22,Male,Married,Lucknow,Uttar Pradesh,Government Employee,1844805,953500,548,20,Car Insurance,6,3,0,On-time,Lump Sum,0.5469301428915749,88,1,0.58
+565,Amit Verma,49,Female,Single,Lucknow,Uttar Pradesh,Civil Engineer,1223542,364451,565,11,Life Insurance,18,1,0,Late,Yearly,0.6851641435288867,82,9,0.67
+566,Meena Yadav,44,Female,Married,Jaipur,Rajasthan,Bank Manager,1237496,633778,897,7,Retirement Plans,0,0,3,On-time,Monthly,0.8182278897299904,17,3,0.57
+567,Pooja Yadav,60,Male,Married,Kolkata,West Bengal,Electrician,1860094,131656,842,31,Car Insurance,6,1,3,Late,Monthly,0.965030883922252,89,10,0.85
+568,Rohit Reddy,49,Male,Married,Kolkata,West Bengal,Doctor,1032149,1019282,414,43,Life Insurance,8,3,1,Late,Yearly,0.5441273282185825,75,1,0.48
+569,Sunita Das,34,Male,Married,Patna,Bihar,Businessman,1113626,629770,359,10,Investment Plans,5,5,3,Late,Monthly,0.4355932062663248,6,4,0.47
+570,Neha Reddy,33,Female,Single,Chennai,Tamil Nadu,Teacher,672483,389623,368,4,Car Insurance,19,5,3,On-time,Lump Sum,0.5165781059253927,20,1,0.46
+571,Rahul Bose,31,Female,Single,Ahmedabad,Gujarat,Shop Owner,1601809,1090210,527,48,Retirement Plans,10,1,3,On-time,Lump Sum,0.68737471910538,95,8,0.67
+572,Suman Gupta,26,Female,Married,Chennai,Tamil Nadu,Nurse,728761,1428348,323,42,Life Insurance,12,0,1,Late,Lump Sum,0.0124977269706838,4,5,0.43
+573,Sunita Nair,29,Female,Married,Bangalore,Karnataka,Mechanic,351028,1328817,471,38,Retirement Plans,2,3,1,On-time,Lump Sum,0.1249685675159517,59,5,0.36
+574,Rajesh Verma,22,Male,Married,Indore,Madhya Pradesh,Civil Engineer,1222391,888753,370,35,Health Insurance,18,3,2,Late,Lump Sum,0.6157475337365598,21,5,0.59
+575,Divya Bose,36,Female,Married,Patna,Bihar,Electrician,1200970,979021,544,48,Retirement Plans,5,4,0,Late,Yearly,0.9966504345119024,28,9,0.61
+576,Rohit Verma,64,Male,Married,Chennai,Tamil Nadu,Doctor,1306883,402023,840,39,Life Insurance,19,4,0,Late,Monthly,0.2589859388646008,67,10,0.82
+577,Neha Bose,25,Female,Married,Patna,Bihar,Mechanic,707361,1144066,864,35,Car Insurance,15,4,3,Late,Yearly,0.1223678788081777,84,5,0.58
+578,Pankaj Iyer,59,Female,Single,Ahmedabad,Gujarat,Electrician,1892287,686563,422,3,Retirement Plans,6,5,2,On-time,Monthly,0.4786359046780277,2,3,0.58
+579,Arun Nair,55,Female,Married,Mumbai,Maharashtra,Journalist,1591833,1016145,370,2,Investment Plans,20,5,2,On-time,Monthly,0.1022410983253556,92,7,0.59
+580,Pooja Pandey,63,Female,Single,Pune,Maharashtra,Software Engineer,1682581,918455,835,20,Investment Plans,12,5,1,On-time,Lump Sum,0.3941773776729544,96,1,0.66
+581,Manish Malhotra,57,Male,Single,Hyderabad,Telangana,Lawyer,1825186,776723,622,12,Car Insurance,15,3,1,Late,Monthly,0.352139097071106,93,7,0.7
+582,Sneha Bose,65,Male,Single,Lucknow,Uttar Pradesh,Government Employee,1303122,1356288,528,38,Retirement Plans,13,2,0,On-time,Lump Sum,0.93025824650075,33,3,0.55
+583,Arun Yadav,38,Female,Married,Indore,Madhya Pradesh,Government Employee,1566566,884909,702,48,Life Insurance,5,1,2,Late,Yearly,0.7515691144977764,95,7,0.69
+584,Arun Malhotra,52,Male,Married,Delhi,Delhi,Government Employee,1356519,1308248,471,32,Life Insurance,0,5,0,On-time,Lump Sum,0.8281289480592118,56,3,0.47
+585,Kavita Verma,24,Male,Single,Bangalore,Karnataka,Doctor,755246,241986,446,3,Retirement Plans,5,5,0,On-time,Lump Sum,0.1509344635661225,72,4,0.46
+586,Kavita Agarwal,48,Female,Single,Lucknow,Uttar Pradesh,Journalist,1236135,285418,636,43,Retirement Plans,18,2,3,On-time,Lump Sum,0.1883572762878985,82,9,0.76
+587,Pankaj Chopra,22,Male,Married,Kolkata,West Bengal,Doctor,382643,1314605,341,47,Car Insurance,15,4,1,On-time,Yearly,0.0701526684625102,55,9,0.46
+588,Sneha Joshi,22,Female,Married,Hyderabad,Telangana,Shop Owner,660580,1021528,705,44,Health Insurance,11,4,1,On-time,Monthly,0.6615579056399642,83,2,0.52
+589,Arun Kumar,62,Male,Single,Bangalore,Karnataka,Journalist,579148,340374,621,45,Health Insurance,20,0,1,Late,Yearly,0.2702796036845352,30,6,0.64
+590,Rohit Ghosh,39,Male,Single,Hyderabad,Telangana,Civil Engineer,1959489,1397373,315,40,Health Insurance,10,3,2,On-time,Monthly,0.2629870893649051,31,6,0.61
+591,Suresh Singh,52,Male,Single,Hyderabad,Telangana,Government Employee,1410138,896760,886,7,Life Insurance,9,4,2,Late,Lump Sum,0.1803184060467532,38,2,0.6
+592,Meena Das,54,Male,Single,Lucknow,Uttar Pradesh,Software Engineer,307267,616535,478,43,Retirement Plans,12,2,3,On-time,Lump Sum,0.5044284417387087,43,7,0.51
+593,Amit Verma,53,Male,Married,Pune,Maharashtra,Software Engineer,1476535,642514,614,29,Investment Plans,7,4,3,On-time,Yearly,0.9419736179430352,0,9,0.68
+594,Vikram Bose,31,Female,Married,Indore,Madhya Pradesh,Bank Manager,1478575,1460366,776,12,Car Insurance,6,1,1,Late,Monthly,0.8336048325772036,53,10,0.6
+595,Vikram Yadav,59,Male,Single,Kolkata,West Bengal,Government Employee,1785740,568854,572,27,Health Insurance,11,1,2,Late,Lump Sum,0.2953592437334018,89,1,0.66
+596,Priya Pandey,65,Female,Single,Bangalore,Karnataka,Farmer,1378389,99559,866,33,Retirement Plans,1,2,3,On-time,Yearly,0.9250082079197952,79,4,0.7
+597,Pankaj Verma,61,Male,Married,Mumbai,Maharashtra,Teacher,848623,1344693,505,18,Retirement Plans,7,2,0,Late,Monthly,0.262237234031495,14,6,0.44
+598,Rajesh Reddy,23,Male,Single,Mumbai,Maharashtra,Mechanic,440003,1079936,753,4,Retirement Plans,14,2,0,On-time,Lump Sum,0.3746644431328977,64,10,0.5
+599,Rohit Mehta,36,Female,Married,Indore,Madhya Pradesh,Businessman,201013,1328958,879,31,Retirement Plans,1,1,2,On-time,Monthly,0.9880674135460852,7,4,0.4
+600,Manish Bose,26,Female,Married,Bangalore,Karnataka,Journalist,1603718,397043,543,30,Life Insurance,10,5,1,On-time,Monthly,0.6151678829382992,29,4,0.67
+601,Suman Bose,29,Male,Married,Lucknow,Uttar Pradesh,Bank Manager,1632671,190836,723,29,Investment Plans,18,1,1,Late,Yearly,0.9062569519504492,20,1,0.74
+602,Meena Reddy,31,Male,Single,Pune,Maharashtra,Plumber,857631,899746,724,11,Car Insurance,10,5,0,Late,Yearly,0.239318445317424,48,8,0.55
+603,Sneha Pandey,60,Male,Single,Indore,Madhya Pradesh,Nurse,409153,310574,391,10,Investment Plans,9,3,3,Late,Monthly,0.2156840244369792,1,4,0.42
+604,Suresh Yadav,57,Male,Single,Pune,Maharashtra,Electrician,1338762,551329,611,42,Investment Plans,10,5,2,On-time,Monthly,0.8883688742961476,74,6,0.68
+605,Divya Verma,57,Male,Single,Patna,Bihar,Farmer,685511,1232641,706,31,Life Insurance,11,3,0,On-time,Yearly,0.2691859671052632,41,7,0.52
+606,Sneha Kumar,51,Male,Single,Mumbai,Maharashtra,Journalist,236616,768417,891,11,Health Insurance,7,3,0,On-time,Monthly,0.1772818410845619,36,6,0.47
+607,Rajesh Malhotra,37,Female,Married,Patna,Bihar,Bank Manager,1428310,1333438,849,39,Life Insurance,12,3,3,On-time,Lump Sum,0.7512041463311037,55,7,0.68
+608,Divya Nair,47,Female,Married,Hyderabad,Telangana,Government Employee,1329855,198854,835,47,Retirement Plans,11,4,0,On-time,Lump Sum,0.6733619080605497,8,8,0.79
+609,Sneha Iyer,47,Female,Married,Pune,Maharashtra,Civil Engineer,1678349,1198744,444,30,Car Insurance,18,4,0,On-time,Lump Sum,0.8536357853381661,68,4,0.62
+610,Sneha Das,51,Female,Single,Patna,Bihar,Electrician,1976271,264455,799,22,Life Insurance,16,2,1,Late,Lump Sum,0.7878149977463763,5,6,0.83
+611,Amit Sharma,34,Female,Single,Pune,Maharashtra,Electrician,976636,117800,335,12,Car Insurance,8,0,0,On-time,Lump Sum,0.1387759156636713,73,9,0.56
+612,Rohit Kumar,58,Male,Married,Patna,Bihar,Electrician,1517919,489271,364,26,Investment Plans,19,2,3,Late,Lump Sum,0.8527281004727556,73,3,0.64
+613,Priya Das,47,Female,Single,Indore,Madhya Pradesh,Plumber,1964584,162957,551,20,Car Insurance,6,1,0,On-time,Yearly,0.4105707337769245,80,8,0.75
+614,Pooja Sharma,56,Female,Married,Kolkata,West Bengal,Lawyer,1081515,552970,577,40,Investment Plans,15,4,0,Late,Monthly,0.0541936859036545,1,6,0.65
+615,Suresh Singh,64,Female,Married,Pune,Maharashtra,Electrician,918235,105770,545,35,Investment Plans,15,0,1,On-time,Monthly,0.5234695824193312,72,9,0.68
+616,Sneha Pandey,28,Male,Married,Ahmedabad,Gujarat,Civil Engineer,1906874,251545,466,42,Investment Plans,3,5,1,Late,Yearly,0.7689000581624948,30,4,0.7
+617,Rohit Bose,24,Female,Single,Chennai,Tamil Nadu,Farmer,1442159,1419060,448,45,Life Insurance,12,2,0,Late,Lump Sum,0.1845801581403494,94,1,0.53
+618,Sneha Verma,35,Male,Single,Patna,Bihar,Teacher,620131,825666,598,7,Investment Plans,19,0,3,On-time,Lump Sum,0.1507616167318477,15,4,0.49
+619,Dinesh Bose,58,Female,Married,Patna,Bihar,Farmer,1849277,1102916,685,2,Car Insurance,17,2,1,On-time,Monthly,0.4302330048671132,33,5,0.66
+620,Priya Saxena,43,Male,Single,Hyderabad,Telangana,Software Engineer,1515661,249848,363,17,Life Insurance,18,1,1,Late,Lump Sum,0.2974372092114464,24,2,0.63
+621,Vikram Singh,41,Male,Single,Hyderabad,Telangana,Teacher,1549174,300282,324,23,Life Insurance,2,5,3,Late,Monthly,0.7800097759858159,6,4,0.57
+622,Rohit Singh,32,Female,Married,Jaipur,Rajasthan,Teacher,235263,876697,869,22,Car Insurance,12,4,0,On-time,Monthly,0.9218414520539294,59,7,0.51
+623,Sunita Saxena,37,Female,Single,Delhi,Delhi,Government Employee,1526577,401063,789,5,Life Insurance,19,2,2,On-time,Yearly,0.191898528619696,72,5,0.72
+624,Divya Reddy,44,Male,Married,Indore,Madhya Pradesh,Mechanic,995435,808337,546,14,Health Insurance,14,2,2,On-time,Lump Sum,0.50252033332467,94,9,0.58
+625,Suman Mehta,54,Female,Married,Hyderabad,Telangana,Electrician,1337839,612712,554,20,Investment Plans,4,4,2,Late,Lump Sum,0.1224751348182293,54,6,0.58
+626,Rahul Nair,41,Male,Single,Hyderabad,Telangana,Government Employee,509615,1405238,721,44,Health Insurance,6,3,0,Late,Monthly,0.454450260244762,17,3,0.44
+627,Suman Joshi,33,Male,Single,Indore,Madhya Pradesh,Mechanic,432594,77269,653,14,Life Insurance,17,1,1,Late,Monthly,0.2952148878838847,51,6,0.58
+628,Amit Nair,23,Male,Single,Patna,Bihar,Teacher,1756518,1428422,309,13,Life Insurance,15,3,2,On-time,Yearly,0.8840472048254162,75,10,0.59
+629,Arun Bose,55,Female,Single,Mumbai,Maharashtra,Electrician,1953940,1160436,693,19,Health Insurance,13,4,3,Late,Yearly,0.3107619320494628,41,1,0.64
+630,Meena Kumar,48,Female,Single,Bangalore,Karnataka,Software Engineer,1902080,1161476,307,16,Car Insurance,19,1,1,Late,Monthly,0.3205995528664207,87,1,0.57
+631,Neha Singh,65,Female,Married,Bangalore,Karnataka,Lawyer,1216869,117082,516,10,Retirement Plans,3,4,3,Late,Monthly,0.3753709160893159,46,2,0.54
+632,Neha Nair,26,Female,Single,Chennai,Tamil Nadu,Nurse,313069,105514,723,31,Retirement Plans,2,2,3,Late,Yearly,0.9101398969074992,48,3,0.5
+633,Sneha Nair,37,Female,Single,Delhi,Delhi,Mechanic,1038102,1478486,411,11,Car Insurance,18,3,1,On-time,Yearly,0.8328519995497985,40,3,0.44
+634,Divya Reddy,64,Female,Married,Ahmedabad,Gujarat,Mechanic,1516882,1026655,707,16,Life Insurance,18,1,2,Late,Lump Sum,0.4890700762445921,35,3,0.63
+635,Rajesh Nair,39,Male,Single,Ahmedabad,Gujarat,Mechanic,730142,1014387,756,20,Car Insurance,15,2,1,On-time,Monthly,0.8853840467028857,56,4,0.53
+636,Sunita Malhotra,64,Male,Married,Bangalore,Karnataka,Doctor,1986324,597668,412,30,Retirement Plans,7,1,0,On-time,Monthly,0.7615354973106634,94,5,0.67
+637,Suman Gupta,45,Female,Single,Delhi,Delhi,Lawyer,583946,419886,640,44,Life Insurance,16,2,0,Late,Monthly,0.1509778618443932,49,8,0.64
+638,Neha Gupta,39,Female,Married,Lucknow,Uttar Pradesh,Mechanic,1587882,448190,563,19,Car Insurance,1,5,2,On-time,Lump Sum,0.7809880879838073,50,5,0.61
+639,Sunita Sharma,45,Male,Married,Mumbai,Maharashtra,Government Employee,1006779,315394,564,29,Retirement Plans,9,3,1,Late,Yearly,0.9319009244679424,14,3,0.58
+640,Priya Singh,22,Female,Married,Indore,Madhya Pradesh,Teacher,867291,556002,439,13,Investment Plans,19,4,3,On-time,Yearly,0.560774942963126,8,9,0.58
+641,Pankaj Iyer,50,Male,Single,Pune,Maharashtra,Government Employee,1040742,932222,804,11,Life Insurance,11,1,1,On-time,Lump Sum,0.101698594460753,86,8,0.6
+642,Sunita Das,23,Male,Single,Hyderabad,Telangana,Lawyer,1342246,1400742,370,41,Life Insurance,19,3,3,Late,Lump Sum,0.9107502130452544,10,10,0.62
+643,Meena Bose,48,Female,Married,Ahmedabad,Gujarat,Mechanic,778160,60117,831,25,Investment Plans,14,4,3,Late,Monthly,0.9682932418525418,78,10,0.72
+644,Neha Pandey,46,Female,Single,Delhi,Delhi,Software Engineer,1715302,388910,528,25,Car Insurance,5,2,0,On-time,Yearly,0.338298271923367,23,9,0.7
+645,Vikram Verma,40,Male,Single,Ahmedabad,Gujarat,Businessman,554554,782207,791,43,Health Insurance,6,2,3,Late,Monthly,0.5266379853477761,92,10,0.6
+646,Divya Joshi,64,Male,Married,Pune,Maharashtra,Software Engineer,1379589,110358,691,39,Retirement Plans,17,3,1,On-time,Lump Sum,0.4301332426107762,74,2,0.73
+647,Dinesh Patel,34,Female,Single,Bangalore,Karnataka,Teacher,692124,527298,405,5,Investment Plans,10,2,2,Late,Monthly,0.8477069012886045,56,2,0.42
+648,Rohit Kumar,65,Male,Married,Patna,Bihar,Teacher,866830,404794,331,10,Life Insurance,12,4,0,On-time,Lump Sum,0.7245400536560013,97,5,0.49
+649,Kavita Ghosh,30,Female,Married,Chennai,Tamil Nadu,Lawyer,1360301,1040493,425,49,Life Insurance,11,2,1,Late,Yearly,0.5760405201279656,11,8,0.63
+650,Divya Yadav,44,Male,Married,Kolkata,West Bengal,Lawyer,1281839,522172,570,12,Health Insurance,18,1,0,Late,Monthly,0.6518113912824135,53,9,0.67
+651,Suman Sharma,35,Male,Single,Jaipur,Rajasthan,Teacher,1413257,724537,493,16,Health Insurance,12,1,0,Late,Monthly,0.8370171283176692,16,2,0.56
+652,Amit Iyer,52,Male,Single,Lucknow,Uttar Pradesh,Doctor,1569005,1067547,695,34,Retirement Plans,4,0,0,Late,Monthly,0.6605261352473848,5,9,0.66
+653,Meena Mehta,65,Female,Single,Patna,Bihar,Electrician,1829203,1068070,307,21,Investment Plans,7,0,3,On-time,Monthly,0.1259771755965181,43,10,0.61
+654,Dinesh Nair,35,Male,Married,Indore,Madhya Pradesh,Government Employee,1846707,771198,779,8,Investment Plans,9,1,0,On-time,Monthly,0.2724596529002459,5,2,0.65
+655,Sneha Das,59,Female,Single,Pune,Maharashtra,Journalist,1811853,1414269,563,43,Retirement Plans,13,1,1,Late,Lump Sum,0.798398097210744,4,7,0.68
+656,Sunita Ghosh,53,Male,Married,Ahmedabad,Gujarat,Bank Manager,806567,52296,494,8,Life Insurance,2,3,3,Late,Monthly,0.3360480509388228,80,2,0.47
+657,Meena Patel,47,Male,Married,Bangalore,Karnataka,Bank Manager,1438717,398013,535,45,Investment Plans,16,2,0,On-time,Lump Sum,0.8601232144341351,13,7,0.74
+658,Arun Gupta,23,Male,Single,Mumbai,Maharashtra,Electrician,1583432,484068,546,31,Retirement Plans,20,1,3,On-time,Monthly,0.2745203890380335,88,4,0.71
+659,Divya Chopra,48,Female,Single,Bangalore,Karnataka,Shop Owner,1934442,511141,731,16,Investment Plans,7,5,0,Late,Yearly,0.1132449826675315,8,4,0.71
+660,Suman Nair,53,Male,Married,Lucknow,Uttar Pradesh,Farmer,440534,1035402,413,30,Car Insurance,12,0,0,On-time,Lump Sum,0.5474109782584209,84,8,0.45
+661,Pankaj Reddy,41,Male,Married,Patna,Bihar,Shop Owner,724447,1346645,754,2,Health Insurance,3,2,0,On-time,Lump Sum,0.1853740880054643,37,6,0.42
+662,Rahul Ghosh,39,Female,Single,Mumbai,Maharashtra,Mechanic,1353156,930313,852,29,Retirement Plans,14,1,2,Late,Yearly,0.6478194391119637,38,7,0.7
+663,Pooja Malhotra,28,Female,Married,Kolkata,West Bengal,Teacher,451396,1047913,718,32,Life Insurance,1,1,2,Late,Monthly,0.2482976912580229,89,10,0.49
+664,Anjali Das,37,Male,Single,Ahmedabad,Gujarat,Teacher,327637,399500,703,12,Life Insurance,0,0,1,Late,Yearly,0.3549571040872288,83,7,0.46
+665,Suresh Verma,63,Female,Married,Indore,Madhya Pradesh,Plumber,329212,970255,667,39,Life Insurance,19,4,3,Late,Monthly,0.0939935419600808,94,2,0.49
+666,Arun Das,39,Male,Married,Bangalore,Karnataka,Civil Engineer,1086587,798802,711,39,Life Insurance,7,5,0,On-time,Lump Sum,0.479923687960895,82,6,0.61
+667,Meena Yadav,59,Male,Single,Bangalore,Karnataka,Bank Manager,986386,248869,473,37,Retirement Plans,7,5,0,On-time,Yearly,0.4607031747751875,51,1,0.55
+668,Suman Gupta,25,Female,Married,Patna,Bihar,Mechanic,1755290,542014,788,38,Health Insurance,10,3,1,Late,Lump Sum,0.6812664205096148,91,8,0.79
+669,Amit Gupta,24,Female,Single,Lucknow,Uttar Pradesh,Shop Owner,1274620,1023116,776,2,Car Insurance,12,3,1,Late,Yearly,0.6101403368634843,84,3,0.56
+670,Vikram Ghosh,51,Female,Single,Kolkata,West Bengal,Plumber,1982422,573417,552,8,Retirement Plans,10,1,3,Late,Lump Sum,0.3800042020012512,55,2,0.65
+671,Suman Malhotra,46,Male,Single,Kolkata,West Bengal,Businessman,697349,1158555,456,11,Investment Plans,6,4,0,Late,Lump Sum,0.2113978503594729,23,7,0.41
+672,Divya Patel,26,Female,Married,Jaipur,Rajasthan,Journalist,1503193,221985,768,43,Investment Plans,17,5,1,Late,Monthly,0.6402525142755701,78,4,0.79
+673,Pankaj Bose,43,Female,Married,Kolkata,West Bengal,Software Engineer,1000880,672358,854,17,Car Insurance,5,3,3,Late,Yearly,0.9276699655787348,85,4,0.57
+674,Kavita Iyer,48,Female,Married,Patna,Bihar,Journalist,757376,1329679,744,14,Health Insurance,5,0,0,Late,Yearly,0.3059013214315709,98,6,0.46
+675,Meena Iyer,28,Male,Single,Bangalore,Karnataka,Journalist,1994401,633455,310,17,Health Insurance,17,0,1,Late,Monthly,0.7159836900079797,50,4,0.66
+676,Arun Ghosh,55,Male,Married,Patna,Bihar,Lawyer,1873518,1374968,449,33,Health Insurance,0,0,1,On-time,Lump Sum,0.0595686238305415,88,2,0.53
+677,Rohit Das,51,Female,Single,Indore,Madhya Pradesh,Civil Engineer,1550984,418543,876,44,Life Insurance,3,0,0,On-time,Monthly,0.731169903126291,43,6,0.75
+678,Sunita Mehta,59,Female,Single,Patna,Bihar,Plumber,1118841,203311,573,34,Retirement Plans,13,3,3,Late,Yearly,0.6118693908710217,50,9,0.7
+679,Manish Bose,51,Female,Married,Indore,Madhya Pradesh,Businessman,1462403,687128,771,10,Investment Plans,9,5,1,On-time,Lump Sum,0.1621072367232493,50,10,0.69
+680,Suman Das,65,Male,Single,Bangalore,Karnataka,Doctor,1173176,256763,679,7,Life Insurance,9,0,2,Late,Lump Sum,0.8328253501415938,91,9,0.65
+681,Rahul Singh,54,Male,Single,Jaipur,Rajasthan,Businessman,216123,874220,694,27,Investment Plans,6,3,1,On-time,Yearly,0.534351140919356,57,7,0.45
+682,Divya Das,63,Female,Single,Patna,Bihar,Lawyer,353348,121821,894,31,Car Insurance,0,3,2,Late,Monthly,0.964950371769986,75,4,0.54
+683,Amit Ghosh,33,Female,Married,Patna,Bihar,Teacher,1052053,1022743,572,11,Health Insurance,4,0,1,On-time,Lump Sum,0.8588856269750339,42,2,0.44
+684,Sunita Nair,60,Male,Married,Delhi,Delhi,Nurse,1257773,973348,613,10,Retirement Plans,3,0,2,On-time,Yearly,0.0649827236634063,86,9,0.55
+685,Rajesh Patel,62,Male,Married,Delhi,Delhi,Farmer,1581943,815299,510,15,Car Insurance,0,1,0,Late,Yearly,0.5469307726515473,89,2,0.52
+686,Dinesh Yadav,24,Male,Married,Hyderabad,Telangana,Teacher,235832,1234014,784,32,Retirement Plans,8,1,2,On-time,Yearly,0.4362735629576003,42,2,0.41
+687,Rahul Singh,38,Female,Single,Indore,Madhya Pradesh,Farmer,1742824,399375,816,43,Investment Plans,12,1,2,On-time,Lump Sum,0.1333414460010484,46,5,0.8
+688,Arun Das,62,Female,Married,Bangalore,Karnataka,Journalist,1937904,1128352,332,47,Life Insurance,2,5,3,On-time,Monthly,0.8842827083607748,24,7,0.63
+689,Meena Chopra,64,Male,Married,Jaipur,Rajasthan,Mechanic,678843,916888,346,12,Investment Plans,0,1,2,On-time,Lump Sum,0.3971558763001486,9,8,0.39
+690,Divya Saxena,48,Female,Married,Kolkata,West Bengal,Shop Owner,528522,451541,621,46,Investment Plans,17,5,3,On-time,Lump Sum,0.0727535456675451,6,2,0.57
+691,Suman Sharma,65,Male,Married,Ahmedabad,Gujarat,Lawyer,1031033,1237165,309,30,Health Insurance,6,5,3,On-time,Monthly,0.2999895055251177,40,1,0.4
+692,Sneha Mehta,34,Male,Single,Delhi,Delhi,Civil Engineer,1458411,640861,833,32,Retirement Plans,2,5,1,Late,Monthly,0.9505244439271376,76,1,0.62
+693,Kavita Malhotra,64,Male,Single,Bangalore,Karnataka,Software Engineer,922150,1055439,503,47,Car Insurance,6,0,0,On-time,Monthly,0.8626200887949992,98,7,0.54
+694,Suman Verma,48,Male,Married,Bangalore,Karnataka,Shop Owner,1000622,127504,825,50,Retirement Plans,2,0,0,On-time,Monthly,0.8095429297732832,86,5,0.68
+695,Rohit Saxena,55,Female,Single,Lucknow,Uttar Pradesh,Bank Manager,951765,770828,326,50,Health Insurance,6,0,1,On-time,Yearly,0.7997104728240982,14,4,0.51
+696,Rohit Singh,58,Female,Married,Delhi,Delhi,Government Employee,755373,785512,622,49,Health Insurance,5,2,2,Late,Monthly,0.5868612731309762,5,5,0.55
+697,Arun Sharma,44,Female,Single,Indore,Madhya Pradesh,Shop Owner,843664,89387,796,40,Retirement Plans,8,2,0,Late,Lump Sum,0.1902696032780386,88,7,0.68
+698,Sneha Reddy,48,Female,Married,Kolkata,West Bengal,Electrician,1215958,1235170,783,39,Life Insurance,2,3,0,Late,Yearly,0.5361693809459473,12,5,0.57
+699,Rohit Kumar,40,Male,Married,Delhi,Delhi,Teacher,1291797,1011968,362,31,Life Insurance,5,5,0,On-time,Lump Sum,0.5503330221993826,64,8,0.54
+700,Rahul Sharma,38,Male,Married,Kolkata,West Bengal,Electrician,1326166,717018,833,25,Health Insurance,14,5,1,Late,Yearly,0.6119983727108704,90,2,0.65
+701,Dinesh Nair,65,Male,Single,Bangalore,Karnataka,Bank Manager,1214781,885925,825,31,Life Insurance,15,4,2,Late,Monthly,0.0251900661800628,52,1,0.62
+702,Vikram Mehta,32,Female,Single,Patna,Bihar,Businessman,1025121,247669,671,8,Health Insurance,15,0,2,Late,Yearly,0.9535199797138256,33,4,0.61
+703,Meena Chopra,28,Female,Single,Pune,Maharashtra,Businessman,712192,420257,871,8,Life Insurance,8,4,2,On-time,Lump Sum,0.4449616275512785,66,6,0.57
+704,Pankaj Pandey,32,Male,Single,Chennai,Tamil Nadu,Nurse,1147267,1093521,668,5,Life Insurance,17,2,0,On-time,Monthly,0.947689451263972,44,6,0.57
+705,Suresh Kumar,42,Male,Single,Lucknow,Uttar Pradesh,Nurse,1944176,899976,660,35,Car Insurance,6,3,0,Late,Monthly,0.6904705564524171,75,6,0.71
+706,Rahul Chopra,22,Male,Single,Chennai,Tamil Nadu,Lawyer,447297,1047085,503,45,Investment Plans,6,0,1,Late,Monthly,0.7971267268889773,34,5,0.44
+707,Kavita Agarwal,36,Male,Single,Lucknow,Uttar Pradesh,Mechanic,576865,708966,450,34,Life Insurance,8,2,3,On-time,Monthly,0.9411216774839336,44,1,0.43
+708,Vikram Verma,23,Male,Married,Ahmedabad,Gujarat,Journalist,648587,897943,408,25,Retirement Plans,20,5,0,Late,Yearly,0.9402124800387932,98,8,0.53
+709,Priya Nair,41,Male,Single,Lucknow,Uttar Pradesh,Plumber,1426300,412638,464,2,Life Insurance,15,2,2,On-time,Yearly,0.0551524441342172,21,7,0.62
+710,Arun Iyer,34,Male,Married,Kolkata,West Bengal,Doctor,1998499,525668,636,48,Car Insurance,11,2,2,On-time,Monthly,0.8787749609820855,48,2,0.76
+711,Pooja Sharma,53,Female,Single,Mumbai,Maharashtra,Doctor,1534160,1463658,499,50,Health Insurance,4,2,1,On-time,Yearly,0.631430398876124,6,7,0.58
+712,Arun Verma,53,Male,Married,Lucknow,Uttar Pradesh,Shop Owner,1992667,1033395,325,46,Retirement Plans,14,5,2,On-time,Lump Sum,0.7933072611200439,33,7,0.7
+713,Suresh Nair,59,Female,Single,Delhi,Delhi,Nurse,921381,477775,615,12,Health Insurance,15,2,3,On-time,Yearly,0.2775156076695351,8,1,0.54
+714,Arun Agarwal,46,Female,Single,Hyderabad,Telangana,Civil Engineer,1658340,144502,359,11,Investment Plans,13,1,1,On-time,Monthly,0.7947102566795959,23,10,0.7
+715,Amit Pandey,49,Male,Single,Bangalore,Karnataka,Lawyer,891033,1098770,771,30,Life Insurance,15,5,1,On-time,Monthly,0.5318336316543475,47,8,0.61
+716,Rohit Chopra,33,Female,Married,Kolkata,West Bengal,Bank Manager,880469,1239356,338,43,Investment Plans,6,2,0,Late,Lump Sum,0.0102990137202912,68,2,0.42
+717,Rohit Nair,42,Male,Married,Mumbai,Maharashtra,Journalist,1215610,1315700,800,17,Health Insurance,4,4,1,On-time,Monthly,0.9375667879116456,98,6,0.54
+718,Dinesh Bose,46,Male,Married,Bangalore,Karnataka,Plumber,1790592,759614,433,2,Car Insurance,3,0,3,On-time,Monthly,0.1795569441943371,89,9,0.6
+719,Rohit Malhotra,33,Female,Single,Pune,Maharashtra,Civil Engineer,347956,968999,666,8,Health Insurance,3,4,2,On-time,Yearly,0.0937835877787742,6,8,0.41
+720,Anjali Ghosh,36,Male,Single,Indore,Madhya Pradesh,Journalist,711020,179550,777,8,Health Insurance,14,5,0,On-time,Yearly,0.6046017779185717,29,1,0.56
+721,Priya Sharma,25,Male,Single,Patna,Bihar,Businessman,1864218,1002819,826,6,Retirement Plans,7,5,2,On-time,Lump Sum,0.3991159801639941,12,2,0.63
+722,Sunita Mehta,43,Male,Married,Bangalore,Karnataka,Teacher,261521,1161965,608,21,Investment Plans,13,4,0,Late,Yearly,0.2192270358955975,33,5,0.42
+723,Rahul Agarwal,50,Male,Married,Mumbai,Maharashtra,Doctor,470076,1415919,892,2,Health Insurance,4,3,3,Late,Monthly,0.6792412186228848,53,1,0.36
+724,Suman Joshi,29,Female,Single,Kolkata,West Bengal,Software Engineer,1695372,493117,820,38,Retirement Plans,12,4,1,On-time,Lump Sum,0.233745445473159,58,2,0.74
+725,Divya Reddy,48,Female,Single,Bangalore,Karnataka,Teacher,510592,972229,621,17,Investment Plans,5,1,2,On-time,Yearly,0.5875013133460203,28,10,0.48
+726,Rajesh Chopra,46,Female,Single,Mumbai,Maharashtra,Nurse,248885,1466514,369,27,Retirement Plans,13,4,2,On-time,Monthly,0.9123930038647632,85,5,0.34
+727,Suresh Verma,49,Female,Single,Jaipur,Rajasthan,Government Employee,1572830,237735,581,12,Life Insurance,6,2,1,On-time,Yearly,0.7165019122024946,58,3,0.63
+728,Divya Bose,64,Male,Single,Kolkata,West Bengal,Civil Engineer,1908594,286693,446,19,Retirement Plans,8,2,2,On-time,Monthly,0.8480909287103741,42,7,0.7
+729,Suresh Malhotra,42,Female,Married,Patna,Bihar,Farmer,1672939,109323,886,18,Retirement Plans,1,3,3,Late,Lump Sum,0.3520488943635945,32,5,0.73
+730,Kavita Iyer,64,Male,Married,Mumbai,Maharashtra,Shop Owner,797309,773802,424,17,Retirement Plans,8,1,3,On-time,Yearly,0.1736738876676463,77,5,0.46
+731,Suman Iyer,28,Female,Single,Kolkata,West Bengal,Doctor,1475378,1274446,696,10,Retirement Plans,6,4,1,Late,Lump Sum,0.5877466019447123,58,5,0.55
+732,Rohit Nair,59,Female,Single,Pune,Maharashtra,Software Engineer,862998,1371451,533,28,Car Insurance,9,3,2,On-time,Yearly,0.9251628639777528,34,3,0.44
+733,Neha Chopra,65,Male,Single,Indore,Madhya Pradesh,Bank Manager,1444951,1261459,579,24,Investment Plans,13,4,0,Late,Yearly,0.5106788296060711,23,2,0.55
+734,Amit Reddy,62,Female,Married,Bangalore,Karnataka,Software Engineer,474827,781715,492,41,Retirement Plans,14,4,3,Late,Monthly,0.5454231488919825,22,6,0.51
+735,Pooja Sharma,24,Male,Single,Pune,Maharashtra,Electrician,1108384,746938,802,24,Retirement Plans,9,1,0,On-time,Lump Sum,0.1554645199424977,82,10,0.66
+736,Sneha Malhotra,52,Male,Single,Delhi,Delhi,Software Engineer,858872,1436922,699,30,Investment Plans,16,4,0,Late,Monthly,0.1906409481384419,48,3,0.51
+737,Neha Bose,59,Female,Married,Patna,Bihar,Plumber,1511919,1176912,641,17,Life Insurance,7,3,1,On-time,Yearly,0.3083291213808462,8,6,0.58
+738,Suman Das,45,Female,Single,Hyderabad,Telangana,Doctor,706270,1281231,358,27,Health Insurance,16,1,1,Late,Monthly,0.0569720675394117,50,6,0.45
+739,Rajesh Iyer,62,Male,Married,Kolkata,West Bengal,Shop Owner,378522,1074893,706,20,Life Insurance,9,0,1,Late,Lump Sum,0.9423578366709242,32,9,0.48
+740,Anjali Nair,46,Male,Married,Kolkata,West Bengal,Mechanic,965396,523550,563,20,Car Insurance,19,4,1,On-time,Monthly,0.6724229518896526,57,4,0.59
+741,Pankaj Patel,63,Male,Single,Lucknow,Uttar Pradesh,Businessman,527970,490251,559,44,Life Insurance,16,4,0,On-time,Lump Sum,0.0510019307845173,35,10,0.62
+742,Vikram Singh,45,Female,Single,Ahmedabad,Gujarat,Lawyer,358789,1393840,729,20,Investment Plans,3,0,3,Late,Yearly,0.8738900855782942,8,3,0.36
+743,Priya Verma,29,Female,Single,Bangalore,Karnataka,Teacher,1714431,1361806,608,29,Car Insurance,7,1,0,Late,Lump Sum,0.9955746567227476,73,6,0.61
+744,Anjali Sharma,57,Female,Single,Ahmedabad,Gujarat,Lawyer,1309998,1378048,798,39,Car Insurance,1,3,2,Late,Lump Sum,0.524576345478331,22,1,0.53
+745,Pooja Bose,25,Female,Married,Patna,Bihar,Civil Engineer,1495365,409319,607,2,Investment Plans,12,5,3,On-time,Yearly,0.6925832699231339,64,6,0.64
+746,Pooja Sharma,48,Male,Single,Patna,Bihar,Journalist,1242556,1193134,467,35,Car Insurance,10,2,3,On-time,Lump Sum,0.9062022592176858,37,1,0.5
+747,Sneha Pandey,24,Male,Married,Pune,Maharashtra,Civil Engineer,1601808,717763,731,38,Health Insurance,19,1,2,On-time,Yearly,0.27574455248258,58,9,0.79
+748,Meena Mehta,64,Male,Married,Chennai,Tamil Nadu,Journalist,323190,709962,795,25,Car Insurance,15,2,3,Late,Yearly,0.8365232550144389,4,4,0.52
+749,Kavita Chopra,24,Female,Married,Patna,Bihar,Bank Manager,1992251,289330,700,6,Health Insurance,18,0,3,On-time,Lump Sum,0.457768070250615,37,3,0.76
+750,Priya Ghosh,46,Female,Single,Chennai,Tamil Nadu,Farmer,1164864,1363132,501,45,Health Insurance,12,2,0,Late,Monthly,0.2863108177189847,12,7,0.57
+751,Rohit Sharma,46,Female,Single,Indore,Madhya Pradesh,Electrician,1297191,833189,853,42,Health Insurance,15,3,0,On-time,Lump Sum,0.1088237285438924,90,6,0.72
+752,Manish Reddy,54,Male,Single,Ahmedabad,Gujarat,Shop Owner,1641839,1324326,685,4,Car Insurance,20,1,0,On-time,Monthly,0.5926378873280115,72,10,0.67
+753,Meena Pandey,35,Female,Married,Kolkata,West Bengal,Bank Manager,397797,1239891,881,42,Retirement Plans,12,4,1,On-time,Lump Sum,0.6916970848674311,59,1,0.49
+754,Pooja Reddy,37,Male,Single,Kolkata,West Bengal,Lawyer,717217,50386,526,42,Life Insurance,0,4,1,On-time,Yearly,0.2280430939912764,97,5,0.55
+755,Amit Sharma,30,Male,Married,Bangalore,Karnataka,Businessman,1600425,395196,775,12,Car Insurance,5,0,2,On-time,Yearly,0.470900643191655,41,3,0.65
+756,Rohit Singh,38,Female,Single,Indore,Madhya Pradesh,Journalist,541476,883336,765,46,Retirement Plans,13,0,2,Late,Yearly,0.7850649013775407,40,3,0.55
+757,Suresh Iyer,30,Male,Married,Kolkata,West Bengal,Teacher,1607160,75013,864,9,Life Insurance,12,3,3,On-time,Yearly,0.5969513152500014,27,7,0.77
+758,Priya Mehta,28,Male,Married,Pune,Maharashtra,Lawyer,1763996,1374423,334,15,Retirement Plans,18,5,0,On-time,Lump Sum,0.3017674938140563,77,9,0.61
+759,Dinesh Das,36,Male,Single,Kolkata,West Bengal,Lawyer,1039848,644132,316,17,Health Insurance,18,0,1,On-time,Lump Sum,0.5674674519676295,76,7,0.56
+760,Neha Sharma,32,Female,Married,Lucknow,Uttar Pradesh,Government Employee,328529,839777,735,13,Health Insurance,9,1,2,On-time,Monthly,0.1450333734900888,2,10,0.5
+761,Rahul Reddy,32,Male,Single,Kolkata,West Bengal,Plumber,1430894,658139,531,49,Car Insurance,20,0,2,On-time,Yearly,0.2389242348563983,92,3,0.69
+762,Vikram Das,22,Female,Married,Lucknow,Uttar Pradesh,Mechanic,1766937,360004,559,42,Life Insurance,1,3,3,Late,Yearly,0.1281178591483757,44,10,0.74
+763,Pankaj Singh,39,Male,Single,Pune,Maharashtra,Government Employee,1574948,578157,643,5,Investment Plans,13,1,3,Late,Lump Sum,0.3687141357713672,80,1,0.61
+764,Neha Malhotra,53,Female,Single,Delhi,Delhi,Lawyer,623521,1080911,384,40,Car Insurance,5,3,2,On-time,Lump Sum,0.0661432331540988,19,7,0.45
+765,Sneha Gupta,37,Female,Single,Hyderabad,Telangana,Software Engineer,1129306,1304578,733,40,Life Insurance,14,2,2,Late,Monthly,0.2589871926802144,51,2,0.57
+766,Vikram Nair,35,Male,Married,Hyderabad,Telangana,Electrician,723253,349444,448,12,Investment Plans,15,4,1,Late,Lump Sum,0.130181234704361,70,8,0.55
+767,Pooja Singh,37,Female,Married,Hyderabad,Telangana,Mechanic,354162,827738,896,5,Investment Plans,19,3,0,On-time,Yearly,0.6614480558806969,25,8,0.55
+768,Priya Sharma,51,Male,Married,Bangalore,Karnataka,Plumber,1901191,233876,407,6,Car Insurance,3,3,2,On-time,Lump Sum,0.7481581407637675,33,3,0.61
+769,Meena Bose,55,Male,Single,Kolkata,West Bengal,Software Engineer,224345,928867,769,32,Life Insurance,17,2,2,On-time,Yearly,0.2251968209179708,43,1,0.47
+770,Neha Pandey,25,Male,Married,Patna,Bihar,Electrician,969869,118713,468,7,Life Insurance,16,3,1,Late,Monthly,0.915595657976392,51,9,0.62
+771,Anjali Singh,45,Female,Single,Jaipur,Rajasthan,Civil Engineer,1889534,1091367,313,17,Retirement Plans,9,5,3,On-time,Yearly,0.3540675317299173,43,10,0.62
+772,Manish Agarwal,37,Female,Single,Hyderabad,Telangana,Electrician,981388,941815,599,6,Retirement Plans,15,1,3,On-time,Yearly,0.581931237730812,2,5,0.52
+773,Arun Malhotra,51,Male,Single,Jaipur,Rajasthan,Plumber,1463214,249077,702,38,Health Insurance,20,2,2,Late,Monthly,0.9766279872009004,12,9,0.82
+774,Pooja Joshi,55,Male,Married,Bangalore,Karnataka,Shop Owner,1718132,785232,590,8,Health Insurance,17,4,1,On-time,Monthly,0.4352818786922294,25,2,0.63
+775,Vikram Bose,39,Male,Single,Bangalore,Karnataka,Lawyer,1592837,421118,331,4,Car Insurance,17,0,2,Late,Monthly,0.6179416318865222,0,6,0.62
+776,Sunita Das,24,Male,Single,Kolkata,West Bengal,Software Engineer,1253919,278508,420,18,Retirement Plans,17,2,3,On-time,Yearly,0.8711110614605568,47,6,0.63
+777,Divya Saxena,57,Female,Single,Chennai,Tamil Nadu,Shop Owner,1076591,1225033,420,6,Retirement Plans,18,5,3,On-time,Lump Sum,0.3035807950276612,64,6,0.49
+778,Pankaj Gupta,61,Female,Married,Lucknow,Uttar Pradesh,Farmer,1216226,1079193,594,45,Retirement Plans,14,5,3,Late,Monthly,0.8078003342534842,81,7,0.64
+779,Divya Yadav,62,Female,Single,Bangalore,Karnataka,Nurse,981203,1386952,894,11,Health Insurance,11,3,0,Late,Monthly,0.0127553700325818,36,10,0.58
+780,Neha Sharma,32,Female,Married,Kolkata,West Bengal,Nurse,258615,604187,869,11,Life Insurance,19,3,0,On-time,Monthly,0.1167939567801145,10,4,0.53
+781,Pooja Joshi,54,Female,Single,Ahmedabad,Gujarat,Mechanic,905021,260911,353,19,Car Insurance,3,2,1,Late,Monthly,0.1747421585357342,35,7,0.51
+782,Divya Singh,45,Female,Single,Mumbai,Maharashtra,Bank Manager,659664,1079104,551,16,Health Insurance,2,4,1,Late,Yearly,0.6163060606367374,5,6,0.42
+783,Amit Malhotra,33,Female,Married,Pune,Maharashtra,Bank Manager,1111900,686977,424,44,Retirement Plans,10,5,2,On-time,Lump Sum,0.6142625687183272,85,8,0.61
+784,Dinesh Agarwal,24,Female,Married,Bangalore,Karnataka,Bank Manager,822922,754079,686,8,Health Insurance,19,4,1,Late,Yearly,0.6048993776918333,72,4,0.55
+785,Sneha Agarwal,51,Female,Single,Jaipur,Rajasthan,Government Employee,956359,1214401,652,37,Health Insurance,19,0,2,On-time,Yearly,0.1163877953000367,83,5,0.59
+786,Meena Saxena,49,Female,Single,Lucknow,Uttar Pradesh,Doctor,559926,78622,521,43,Life Insurance,5,1,3,On-time,Lump Sum,0.997900320248226,98,10,0.6
+787,Rahul Kumar,44,Male,Single,Patna,Bihar,Civil Engineer,1291999,606113,509,42,Life Insurance,0,1,2,On-time,Yearly,0.9314089383331468,54,1,0.54
+788,Kavita Sharma,34,Female,Single,Bangalore,Karnataka,Businessman,618189,760361,454,37,Investment Plans,4,5,1,Late,Yearly,0.3234487377346489,11,2,0.43
+789,Pooja Das,29,Male,Single,Ahmedabad,Gujarat,Nurse,212991,117534,356,24,Retirement Plans,9,1,1,Late,Yearly,0.9479508734631944,51,5,0.44
+790,Arun Iyer,41,Male,Married,Indore,Madhya Pradesh,Businessman,652009,150002,891,18,Investment Plans,13,1,2,Late,Yearly,0.9959818683403786,97,8,0.66
+791,Divya Verma,44,Female,Married,Jaipur,Rajasthan,Lawyer,1555686,513231,769,40,Health Insurance,7,4,2,On-time,Monthly,0.6437265725251934,99,10,0.77
+792,Suresh Gupta,30,Female,Single,Hyderabad,Telangana,Software Engineer,1427232,1125464,806,48,Car Insurance,20,3,2,On-time,Yearly,0.7050482365065089,82,8,0.76
+793,Suresh Reddy,31,Male,Married,Ahmedabad,Gujarat,Electrician,344352,1203289,363,18,Car Insurance,1,2,0,On-time,Yearly,0.1797162365716035,52,1,0.26
+794,Suresh Nair,51,Male,Single,Lucknow,Uttar Pradesh,Government Employee,1851254,237033,869,6,Investment Plans,0,2,0,Late,Lump Sum,0.8698762593579098,29,1,0.67
+795,Priya Saxena,40,Male,Single,Chennai,Tamil Nadu,Teacher,654981,1436992,764,9,Car Insurance,4,3,0,On-time,Lump Sum,0.9343074402952708,81,6,0.42
+796,Sneha Gupta,58,Female,Married,Patna,Bihar,Software Engineer,613718,1403814,705,12,Retirement Plans,11,3,3,On-time,Lump Sum,0.7696313070081704,61,1,0.4
+797,Divya Malhotra,63,Male,Married,Mumbai,Maharashtra,Bank Manager,1982226,1454154,627,13,Life Insurance,13,4,0,On-time,Yearly,0.0428068849106855,98,5,0.63
+798,Vikram Bose,35,Female,Single,Ahmedabad,Gujarat,Businessman,1812513,871948,898,44,Car Insurance,6,1,2,Late,Monthly,0.9994524447281712,14,7,0.77
+799,Priya Saxena,32,Female,Single,Indore,Madhya Pradesh,Nurse,528625,952369,386,25,Investment Plans,18,5,2,On-time,Yearly,0.5114468415146328,77,8,0.49
+800,Rohit Chopra,49,Male,Married,Ahmedabad,Gujarat,Plumber,1135474,271490,417,3,Car Insurance,9,5,1,On-time,Monthly,0.2594707118173127,26,9,0.58
+801,Pankaj Yadav,24,Male,Married,Kolkata,West Bengal,Software Engineer,1216951,248868,563,33,Car Insurance,2,4,2,Late,Lump Sum,0.8678831510942405,0,5,0.61
+802,Vikram Chopra,51,Male,Single,Bangalore,Karnataka,Software Engineer,973495,338834,567,22,Car Insurance,16,4,0,On-time,Yearly,0.7014175818747777,94,5,0.61
+803,Rajesh Iyer,42,Male,Single,Chennai,Tamil Nadu,Mechanic,1615899,212743,808,37,Investment Plans,8,5,1,Late,Monthly,0.6315570750471744,78,4,0.75
+804,Sunita Pandey,59,Male,Married,Mumbai,Maharashtra,Nurse,867898,646311,333,10,Life Insurance,4,2,3,On-time,Monthly,0.5787505494231442,35,4,0.42
+805,Manish Nair,42,Male,Married,Lucknow,Uttar Pradesh,Lawyer,966655,865735,710,14,Life Insurance,10,0,1,On-time,Monthly,0.5024862392962655,56,3,0.52
+806,Suresh Bose,63,Female,Single,Pune,Maharashtra,Nurse,313665,1224450,576,15,Health Insurance,18,1,0,Late,Monthly,0.5739682042082409,12,3,0.4
+807,Vikram Reddy,39,Male,Married,Jaipur,Rajasthan,Journalist,1458368,285060,504,36,Car Insurance,2,2,3,Late,Lump Sum,0.6407026471136492,74,6,0.64
+808,Divya Chopra,25,Female,Married,Jaipur,Rajasthan,Doctor,1077290,620796,523,50,Health Insurance,10,1,1,Late,Yearly,0.1718035131512366,78,9,0.66
+809,Neha Bose,27,Female,Married,Jaipur,Rajasthan,Plumber,904947,1070556,756,39,Retirement Plans,9,3,0,Late,Monthly,0.8992287037689997,29,6,0.58
+810,Dinesh Saxena,30,Female,Single,Pune,Maharashtra,Journalist,479385,636562,536,40,Retirement Plans,8,4,1,Late,Yearly,0.6147404132299688,70,9,0.54
+811,Sunita Gupta,22,Male,Single,Patna,Bihar,Nurse,1778049,1201236,442,12,Car Insurance,4,1,3,On-time,Lump Sum,0.2618938926735273,23,2,0.51
+812,Neha Saxena,23,Male,Single,Lucknow,Uttar Pradesh,Lawyer,1291331,600321,838,25,Life Insurance,14,3,3,Late,Monthly,0.4088965424599518,47,9,0.73
+813,Rajesh Kumar,35,Male,Single,Indore,Madhya Pradesh,Shop Owner,945323,571609,861,15,Car Insurance,1,5,1,On-time,Yearly,0.5787380445849656,65,1,0.52
+814,Kavita Iyer,65,Female,Married,Chennai,Tamil Nadu,Journalist,405041,1125689,613,43,Retirement Plans,14,3,3,On-time,Yearly,0.4372169690046101,61,5,0.49
+815,Pooja Nair,48,Male,Single,Delhi,Delhi,Bank Manager,215941,1064543,451,18,Retirement Plans,1,5,2,On-time,Yearly,0.1742579991531777,0,4,0.31
+816,Kavita Malhotra,51,Female,Married,Patna,Bihar,Farmer,485292,674122,501,23,Car Insurance,4,1,0,On-time,Yearly,0.5955296134472576,5,6,0.44
+817,Vikram Malhotra,40,Female,Single,Patna,Bihar,Software Engineer,962415,288782,570,31,Life Insurance,1,3,3,Late,Lump Sum,0.3231147862109979,30,3,0.54
+818,Suman Yadav,63,Female,Single,Jaipur,Rajasthan,Bank Manager,1879125,1257274,543,27,Health Insurance,1,3,1,Late,Monthly,0.3052483888773142,98,9,0.63
+819,Amit Ghosh,25,Female,Single,Patna,Bihar,Software Engineer,633546,936018,360,46,Car Insurance,11,2,0,Late,Lump Sum,0.9355465259088304,60,10,0.53
+820,Arun Mehta,36,Female,Married,Lucknow,Uttar Pradesh,Plumber,903193,1403703,702,5,Car Insurance,5,4,2,On-time,Yearly,0.2741723814157876,35,10,0.49
+821,Manish Pandey,39,Female,Married,Ahmedabad,Gujarat,Doctor,1133475,1368954,730,25,Retirement Plans,9,1,1,Late,Lump Sum,0.2766745736905452,24,5,0.54
+822,Suresh Singh,27,Female,Single,Lucknow,Uttar Pradesh,Software Engineer,1508724,1368072,416,33,Investment Plans,4,0,0,On-time,Yearly,0.3979904043173856,61,7,0.54
+823,Pankaj Saxena,55,Female,Single,Pune,Maharashtra,Government Employee,732745,909783,574,20,Investment Plans,20,2,2,On-time,Yearly,0.328039771780463,54,10,0.59
+824,Arun Iyer,57,Male,Married,Bangalore,Karnataka,Software Engineer,1326342,997928,778,35,Health Insurance,16,2,2,On-time,Lump Sum,0.6325046240062242,27,1,0.63
+825,Suman Verma,35,Male,Single,Kolkata,West Bengal,Businessman,1060273,1345991,446,24,Investment Plans,5,3,2,On-time,Yearly,0.6949405187074618,58,8,0.48
+826,Vikram Mehta,64,Female,Single,Indore,Madhya Pradesh,Farmer,233047,1212536,602,19,Retirement Plans,14,4,1,Late,Monthly,0.7268781303388169,4,5,0.41
+827,Kavita Iyer,26,Female,Married,Jaipur,Rajasthan,Businessman,1917011,1461341,769,23,Health Insurance,14,1,3,Late,Lump Sum,0.2919081880278463,54,1,0.64
+828,Meena Saxena,59,Female,Married,Pune,Maharashtra,Nurse,1808481,1224623,606,21,Investment Plans,2,1,3,Late,Lump Sum,0.429306382960734,39,10,0.64
+829,Priya Verma,46,Male,Single,Lucknow,Uttar Pradesh,Farmer,1171733,1090637,633,38,Retirement Plans,17,2,1,Late,Monthly,0.3961176230491782,78,2,0.59
+830,Rohit Singh,29,Male,Single,Delhi,Delhi,Nurse,953191,1459853,772,31,Retirement Plans,16,4,1,Late,Monthly,0.9226222386276656,1,1,0.52
+831,Vikram Mehta,56,Female,Married,Ahmedabad,Gujarat,Plumber,1063239,1409808,900,21,Retirement Plans,14,2,0,Late,Yearly,0.9181365120860276,34,2,0.55
+832,Sunita Das,65,Male,Single,Lucknow,Uttar Pradesh,Civil Engineer,1808954,160037,639,32,Retirement Plans,6,2,0,On-time,Yearly,0.7801070229142326,55,2,0.71
+833,Suman Saxena,47,Female,Single,Hyderabad,Telangana,Teacher,951954,955429,620,49,Investment Plans,6,1,3,Late,Monthly,0.4684382883554704,96,10,0.61
+834,Sneha Reddy,30,Female,Single,Patna,Bihar,Software Engineer,1024808,1084183,343,29,Life Insurance,2,2,3,Late,Yearly,0.2864116941295005,41,4,0.43
+835,Pooja Iyer,31,Female,Single,Kolkata,West Bengal,Businessman,1168172,1246176,787,45,Health Insurance,2,2,3,On-time,Monthly,0.3805967027484703,100,8,0.61
+836,Vikram Nair,65,Female,Married,Delhi,Delhi,Electrician,607251,1294158,390,45,Car Insurance,4,0,3,On-time,Yearly,0.6091431984682373,5,3,0.39
+837,Neha Sharma,61,Female,Single,Kolkata,West Bengal,Teacher,1793678,1119683,318,24,Health Insurance,0,2,1,On-time,Lump Sum,0.1627382179570832,72,3,0.51
+838,Meena Reddy,35,Female,Single,Kolkata,West Bengal,Journalist,552559,743882,776,37,Car Insurance,2,1,2,Late,Lump Sum,0.4390049269674869,2,7,0.53
+839,Kavita Patel,25,Male,Married,Lucknow,Uttar Pradesh,Nurse,837819,716547,350,26,Health Insurance,2,4,3,On-time,Lump Sum,0.5188782355600343,81,3,0.42
+840,Rajesh Singh,51,Male,Married,Delhi,Delhi,Journalist,1366903,372131,512,14,Car Insurance,4,2,0,Late,Lump Sum,0.3344227295760901,18,10,0.63
+841,Suresh Reddy,32,Male,Single,Bangalore,Karnataka,Lawyer,685138,133731,725,44,Retirement Plans,4,1,2,Late,Monthly,0.7185363687079162,33,4,0.6
+842,Meena Singh,63,Female,Married,Lucknow,Uttar Pradesh,Teacher,1698862,1188130,462,48,Health Insurance,11,4,3,On-time,Monthly,0.3487983008336198,98,5,0.64
+843,Dinesh Ghosh,25,Female,Married,Kolkata,West Bengal,Lawyer,1394013,1426037,641,8,Health Insurance,14,4,0,Late,Monthly,0.8241400349685399,16,10,0.59
+844,Suresh Bose,29,Male,Single,Jaipur,Rajasthan,Civil Engineer,1875592,421444,845,2,Investment Plans,1,3,3,On-time,Monthly,0.778787678713839,39,6,0.7
+845,Manish Joshi,49,Male,Married,Patna,Bihar,Doctor,1862474,693703,753,20,Investment Plans,15,2,1,Late,Yearly,0.4991741292067423,10,9,0.78
+846,Neha Agarwal,32,Male,Single,Chennai,Tamil Nadu,Plumber,1920415,995715,454,50,Investment Plans,19,1,3,On-time,Monthly,0.0210444236343914,84,3,0.71
+847,Vikram Singh,56,Female,Single,Chennai,Tamil Nadu,Mechanic,1199460,1079468,716,6,Investment Plans,5,5,0,Late,Lump Sum,0.7622590789635492,52,6,0.53
+848,Pankaj Chopra,40,Female,Married,Mumbai,Maharashtra,Electrician,450076,533760,775,37,Investment Plans,10,2,3,On-time,Monthly,0.8533402020967273,38,9,0.6
+849,Suresh Iyer,56,Female,Single,Chennai,Tamil Nadu,Shop Owner,1444583,1479786,707,1,Retirement Plans,3,4,1,On-time,Yearly,0.9101297377996312,90,4,0.48
+850,Meena Das,33,Male,Single,Bangalore,Karnataka,Bank Manager,1053743,922729,510,18,Retirement Plans,20,5,1,On-time,Yearly,0.797491191558972,52,10,0.62
+851,Manish Iyer,53,Male,Single,Lucknow,Uttar Pradesh,Plumber,1595279,925960,807,5,Car Insurance,4,3,3,Late,Monthly,0.397491238296602,70,3,0.59
+852,Anjali Reddy,24,Male,Single,Bangalore,Karnataka,Plumber,807968,1012224,747,31,Car Insurance,6,2,1,On-time,Yearly,0.776498830823657,79,9,0.57
+853,Pooja Bose,65,Female,Married,Lucknow,Uttar Pradesh,Shop Owner,390456,606945,786,17,Retirement Plans,1,2,3,On-time,Monthly,0.4695438116491931,84,3,0.44
+854,Pankaj Agarwal,41,Male,Single,Ahmedabad,Gujarat,Farmer,853199,813548,610,29,Investment Plans,0,2,2,Late,Monthly,0.7951821854923405,13,9,0.53
+855,Sneha Reddy,57,Male,Married,Pune,Maharashtra,Government Employee,413499,567653,750,12,Investment Plans,18,4,1,On-time,Yearly,0.3249063009953243,16,6,0.55
+856,Rohit Singh,47,Female,Single,Ahmedabad,Gujarat,Farmer,1487014,110442,528,36,Car Insurance,13,4,0,Late,Lump Sum,0.85726360255798,6,9,0.76
+857,Rajesh Joshi,24,Male,Married,Lucknow,Uttar Pradesh,Software Engineer,1989684,348113,555,14,Retirement Plans,15,5,1,On-time,Lump Sum,0.8333377297512725,24,3,0.72
+858,Rahul Joshi,36,Male,Married,Delhi,Delhi,Shop Owner,1254098,851213,673,20,Health Insurance,17,2,2,Late,Yearly,0.0334630178246218,72,5,0.63
+859,Neha Das,35,Female,Married,Delhi,Delhi,Farmer,695855,301493,493,37,Health Insurance,2,0,2,Late,Lump Sum,0.9546335568111598,64,6,0.53
+860,Anjali Mehta,30,Male,Married,Patna,Bihar,Mechanic,352595,690133,726,43,Investment Plans,10,1,3,On-time,Yearly,0.2751091723216263,48,3,0.51
+861,Dinesh Agarwal,58,Female,Single,Hyderabad,Telangana,Businessman,1060375,831363,682,22,Retirement Plans,2,1,3,On-time,Yearly,0.392806428170648,4,7,0.55
+862,Rajesh Joshi,40,Male,Married,Lucknow,Uttar Pradesh,Lawyer,1183168,1205518,893,35,Life Insurance,12,0,3,Late,Yearly,0.949980251382286,45,2,0.61
+863,Manish Joshi,39,Male,Married,Delhi,Delhi,Civil Engineer,516658,843299,806,35,Life Insurance,1,5,2,On-time,Monthly,0.3786570328503831,84,5,0.5
+864,Sneha Bose,31,Male,Married,Mumbai,Maharashtra,Electrician,1661443,930507,633,29,Life Insurance,14,3,3,Late,Yearly,0.4279658887242892,83,1,0.63
+865,Manish Patel,42,Female,Married,Bangalore,Karnataka,Lawyer,427613,1419437,422,29,Life Insurance,20,1,2,On-time,Lump Sum,0.2496597838311706,63,7,0.44
+866,Manish Saxena,53,Male,Married,Chennai,Tamil Nadu,Software Engineer,1565853,1339598,542,12,Investment Plans,4,4,3,Late,Yearly,0.6468275480590591,42,6,0.53
+867,Anjali Joshi,43,Female,Married,Patna,Bihar,Teacher,346527,198362,650,29,Retirement Plans,7,5,1,On-time,Monthly,0.4775332078610014,77,10,0.57
+868,Divya Sharma,32,Female,Married,Ahmedabad,Gujarat,Lawyer,1575731,1441406,301,5,Investment Plans,19,2,2,Late,Lump Sum,0.9766139833639408,77,6,0.52
+869,Divya Chopra,41,Male,Married,Mumbai,Maharashtra,Journalist,688888,1282392,845,22,Health Insurance,2,1,2,On-time,Monthly,0.7886665728093809,83,5,0.47
+870,Rahul Das,59,Male,Married,Mumbai,Maharashtra,Mechanic,1171494,1464331,388,25,Car Insurance,4,2,0,On-time,Yearly,0.598382560060274,59,9,0.48
+871,Meena Patel,62,Female,Single,Mumbai,Maharashtra,Doctor,703657,715363,748,45,Life Insurance,0,2,3,Late,Monthly,0.5466789258815169,20,6,0.55
+872,Amit Iyer,52,Male,Single,Delhi,Delhi,Civil Engineer,323521,591716,357,25,Retirement Plans,8,2,1,Late,Lump Sum,0.3569358172874011,9,1,0.37
+873,Manish Bose,44,Female,Single,Kolkata,West Bengal,Mechanic,1132982,561095,725,21,Retirement Plans,7,2,1,Late,Lump Sum,0.9852035056597848,71,2,0.57
+874,Vikram Iyer,63,Female,Married,Jaipur,Rajasthan,Journalist,835441,693760,402,14,Car Insurance,12,4,2,Late,Yearly,0.0254064230138916,95,8,0.51
+875,Dinesh Verma,35,Male,Single,Kolkata,West Bengal,Journalist,997103,1374856,436,24,Health Insurance,18,0,1,On-time,Lump Sum,0.7899353842910264,22,1,0.46
+876,Anjali Singh,46,Male,Married,Delhi,Delhi,Bank Manager,654926,868664,781,20,Health Insurance,0,0,0,On-time,Yearly,0.6693519281242889,94,10,0.52
+877,Anjali Yadav,47,Female,Single,Jaipur,Rajasthan,Bank Manager,1186896,990193,581,11,Life Insurance,0,5,1,Late,Monthly,0.2763808095026104,27,8,0.51
+878,Pankaj Das,48,Female,Single,Indore,Madhya Pradesh,Nurse,249347,349269,411,28,Retirement Plans,1,1,0,On-time,Lump Sum,0.2522111208612223,20,8,0.43
+879,Priya Chopra,61,Male,Married,Hyderabad,Telangana,Mechanic,1751464,1301199,656,14,Life Insurance,7,4,3,On-time,Yearly,0.8041212303287266,84,6,0.6
+880,Anjali Saxena,62,Female,Married,Patna,Bihar,Civil Engineer,1462428,890350,445,3,Investment Plans,10,1,1,Late,Lump Sum,0.5080880494062417,69,8,0.57
+881,Arun Nair,65,Female,Single,Chennai,Tamil Nadu,Government Employee,375572,557233,643,16,Car Insurance,7,5,0,Late,Lump Sum,0.9875746600978672,49,2,0.43
+882,Neha Agarwal,41,Male,Married,Hyderabad,Telangana,Nurse,1732852,1254625,707,47,Life Insurance,2,5,3,On-time,Yearly,0.1666186992560748,21,8,0.68
+883,Priya Pandey,65,Female,Married,Jaipur,Rajasthan,Electrician,489021,58640,549,30,Investment Plans,13,5,1,On-time,Yearly,0.211449177367638,86,5,0.56
+884,Rahul Patel,51,Male,Single,Delhi,Delhi,Teacher,1916766,672945,466,34,Car Insurance,16,5,2,On-time,Lump Sum,0.7388162859605054,50,5,0.72
+885,Anjali Singh,44,Male,Married,Pune,Maharashtra,Government Employee,1825984,1441171,413,41,Health Insurance,15,1,3,On-time,Lump Sum,0.3518248991834114,85,4,0.62
+886,Amit Sharma,38,Male,Single,Indore,Madhya Pradesh,Civil Engineer,885731,1274168,674,7,Health Insurance,6,1,2,Late,Monthly,0.4896310617168787,22,1,0.41
+887,Arun Chopra,24,Female,Single,Hyderabad,Telangana,Farmer,1861768,413309,455,26,Investment Plans,20,0,3,On-time,Yearly,0.0211785218256114,2,7,0.76
+888,Sneha Chopra,52,Female,Married,Pune,Maharashtra,Teacher,368237,213655,370,43,Investment Plans,2,0,1,Late,Lump Sum,0.9244637724539054,35,8,0.49
+889,Kavita Iyer,35,Female,Married,Patna,Bihar,Teacher,1964648,1499639,369,32,Life Insurance,0,0,3,Late,Lump Sum,0.0744251184201585,94,9,0.58
+890,Manish Yadav,52,Female,Married,Kolkata,West Bengal,Lawyer,1414235,164721,889,18,Car Insurance,2,2,2,On-time,Monthly,0.0274278184050593,4,1,0.65
+891,Sunita Sharma,60,Female,Married,Pune,Maharashtra,Bank Manager,1826758,915387,572,20,Health Insurance,0,4,1,On-time,Monthly,0.612182828596404,10,9,0.64
+892,Manish Saxena,51,Male,Single,Jaipur,Rajasthan,Farmer,840383,1130523,775,25,Retirement Plans,16,1,3,On-time,Monthly,0.4484033858679727,50,4,0.56
+893,Arun Nair,40,Male,Single,Hyderabad,Telangana,Journalist,1551765,775177,345,40,Investment Plans,12,3,3,On-time,Monthly,0.969811336552958,15,9,0.66
+894,Sneha Gupta,45,Female,Single,Mumbai,Maharashtra,Software Engineer,1644591,152863,752,41,Investment Plans,15,2,3,On-time,Monthly,0.3568904728629373,75,4,0.8
+895,Rohit Sharma,61,Female,Single,Delhi,Delhi,Plumber,1784304,413213,783,20,Retirement Plans,13,1,0,Late,Monthly,0.4998906716732078,22,5,0.76
+896,Dinesh Kumar,23,Female,Single,Chennai,Tamil Nadu,Doctor,855851,386126,479,21,Investment Plans,11,2,3,On-time,Monthly,0.9174479507493668,7,10,0.59
+897,Pooja Pandey,65,Female,Married,Indore,Madhya Pradesh,Farmer,1334252,324836,488,43,Health Insurance,10,3,3,Late,Monthly,0.5691185563005889,57,9,0.7
+898,Rajesh Yadav,63,Male,Married,Jaipur,Rajasthan,Civil Engineer,477602,418746,869,11,Retirement Plans,18,4,1,On-time,Monthly,0.0603699748500325,17,10,0.63
+899,Sunita Malhotra,51,Female,Single,Bangalore,Karnataka,Software Engineer,299705,1480378,676,33,Health Insurance,6,4,1,Late,Lump Sum,0.6158879507102015,51,6,0.4
+900,Rohit Iyer,28,Male,Single,Chennai,Tamil Nadu,Mechanic,665237,1000214,491,34,Car Insurance,6,4,2,On-time,Yearly,0.517601468523031,10,3,0.44
+901,Pooja Malhotra,50,Female,Single,Hyderabad,Telangana,Civil Engineer,1087876,866311,695,30,Car Insurance,4,5,1,Late,Yearly,0.975418445973944,9,10,0.61
+902,Rahul Ghosh,54,Male,Single,Pune,Maharashtra,Businessman,1792554,705204,351,42,Health Insurance,8,5,3,On-time,Monthly,0.1008604773740792,36,9,0.69
+903,Pankaj Iyer,57,Female,Single,Kolkata,West Bengal,Journalist,1826877,760503,409,2,Investment Plans,7,4,3,Late,Monthly,0.6377361161571505,87,9,0.62
+904,Suresh Agarwal,47,Female,Married,Indore,Madhya Pradesh,Bank Manager,1150811,1397666,667,40,Life Insurance,13,3,3,Late,Monthly,0.8048775938688253,13,5,0.58
+905,Suman Saxena,36,Male,Married,Ahmedabad,Gujarat,Nurse,572182,99215,793,3,Life Insurance,18,5,2,On-time,Lump Sum,0.4578591385390768,68,6,0.61
+906,Meena Yadav,53,Female,Married,Hyderabad,Telangana,Teacher,846064,710083,778,38,Health Insurance,20,3,3,On-time,Lump Sum,0.1226238426377613,87,2,0.62
+907,Rahul Kumar,65,Male,Single,Jaipur,Rajasthan,Electrician,1606414,971071,309,43,Health Insurance,4,3,2,Late,Monthly,0.743809112200068,44,7,0.59
+908,Priya Chopra,42,Male,Married,Delhi,Delhi,Nurse,1482517,149667,780,47,Retirement Plans,1,5,3,On-time,Yearly,0.1311191934215123,45,10,0.78
+909,Pankaj Reddy,55,Female,Single,Jaipur,Rajasthan,Bank Manager,1572298,626700,862,16,Life Insurance,16,0,3,Late,Yearly,0.7896361345554552,42,7,0.75
+910,Sneha Mehta,49,Male,Single,Indore,Madhya Pradesh,Software Engineer,1864190,1174419,863,10,Health Insurance,6,2,3,Late,Yearly,0.404763701895363,70,8,0.68
+911,Dinesh Mehta,35,Female,Married,Patna,Bihar,Bank Manager,884116,984340,893,44,Investment Plans,19,3,2,Late,Monthly,1.82925608315232e-05,51,5,0.67
+912,Pankaj Iyer,42,Female,Single,Jaipur,Rajasthan,Lawyer,1604578,1471134,839,4,Retirement Plans,3,5,3,Late,Yearly,0.6926278331142111,93,9,0.59
+913,Suman Yadav,37,Female,Single,Kolkata,West Bengal,Shop Owner,489877,344598,325,28,Life Insurance,1,2,2,On-time,Monthly,0.4717132243411228,14,10,0.47
+914,Rahul Yadav,37,Male,Single,Pune,Maharashtra,Shop Owner,1884077,1135028,843,24,Investment Plans,15,1,2,On-time,Yearly,0.0743993415815128,95,3,0.71
+915,Rajesh Malhotra,29,Male,Single,Bangalore,Karnataka,Mechanic,1769930,259090,313,28,Retirement Plans,12,1,3,On-time,Lump Sum,0.3131188572723355,51,9,0.72
+916,Neha Iyer,38,Male,Single,Chennai,Tamil Nadu,Doctor,681218,892742,890,3,Life Insurance,8,1,3,On-time,Yearly,0.2795444024076601,7,10,0.56
+917,Meena Iyer,55,Female,Single,Delhi,Delhi,Electrician,436018,1421714,420,26,Investment Plans,9,0,1,Late,Lump Sum,0.5747643180347155,22,7,0.38
+918,Neha Reddy,25,Male,Single,Bangalore,Karnataka,Plumber,1392880,1251351,677,37,Investment Plans,0,3,1,Late,Lump Sum,0.8844984875268161,92,1,0.52
+919,Suman Ghosh,45,Male,Married,Jaipur,Rajasthan,Electrician,1804384,1254343,431,38,Investment Plans,14,2,0,Late,Lump Sum,0.7671675772085172,65,1,0.6
+920,Dinesh Singh,51,Female,Single,Kolkata,West Bengal,Electrician,940984,762186,815,48,Car Insurance,8,3,3,Late,Yearly,0.8862045002424002,26,5,0.63
+921,Rohit Saxena,43,Female,Single,Bangalore,Karnataka,Nurse,721273,1091349,393,13,Life Insurance,19,5,2,On-time,Yearly,0.971523380813864,0,4,0.45
+922,Suresh Ghosh,28,Male,Single,Kolkata,West Bengal,Nurse,1172762,1080182,344,27,Investment Plans,16,3,3,Late,Yearly,0.5563012197674962,46,5,0.53
+923,Sneha Pandey,40,Male,Single,Patna,Bihar,Bank Manager,730040,941625,377,23,Retirement Plans,12,3,3,On-time,Monthly,0.1663580434872343,21,7,0.48
+924,Vikram Iyer,62,Female,Married,Indore,Madhya Pradesh,Government Employee,1853648,1095110,549,49,Investment Plans,0,3,2,On-time,Monthly,0.3692733765005499,12,6,0.65
+925,Anjali Patel,23,Male,Married,Lucknow,Uttar Pradesh,Electrician,1910624,540329,546,41,Investment Plans,10,2,3,On-time,Lump Sum,0.4126691360799069,24,4,0.73
+926,Dinesh Singh,28,Male,Married,Delhi,Delhi,Civil Engineer,1832935,1373184,370,35,Investment Plans,17,4,2,Late,Lump Sum,0.5948686717794047,60,7,0.64
+927,Rahul Singh,62,Female,Single,Mumbai,Maharashtra,Shop Owner,1251322,298491,603,21,Investment Plans,16,0,0,On-time,Monthly,0.2045728549876964,82,6,0.67
+928,Amit Bose,60,Male,Married,Pune,Maharashtra,Journalist,803335,1332475,455,4,Investment Plans,14,4,2,Late,Monthly,0.5471228688171098,35,3,0.4
+929,Sunita Das,56,Female,Married,Bangalore,Karnataka,Farmer,1375700,260668,360,11,Investment Plans,9,5,2,Late,Monthly,0.2909459061910808,48,10,0.63
+930,Sneha Singh,23,Female,Married,Jaipur,Rajasthan,Plumber,1448501,636294,862,15,Investment Plans,5,0,0,On-time,Yearly,0.3855572175463388,15,5,0.65
+931,Pooja Yadav,65,Male,Single,Kolkata,West Bengal,Teacher,588994,296171,788,27,Car Insurance,0,2,3,Late,Lump Sum,0.2449903690960566,71,6,0.55
+932,Amit Singh,39,Female,Married,Kolkata,West Bengal,Electrician,489563,1240910,633,46,Life Insurance,0,3,2,On-time,Monthly,0.1104911039884606,21,2,0.4
+933,Pooja Sharma,38,Male,Married,Patna,Bihar,Plumber,762075,1265084,458,48,Investment Plans,20,0,1,Late,Monthly,0.3334109026111564,55,7,0.56
+934,Pooja Das,35,Female,Single,Ahmedabad,Gujarat,Plumber,1379257,249184,767,50,Health Insurance,20,3,2,On-time,Lump Sum,0.3348205384084334,34,10,0.85
+935,Suresh Kumar,56,Female,Married,Pune,Maharashtra,Mechanic,290104,831368,785,6,Retirement Plans,2,2,2,On-time,Lump Sum,0.0077465466859906,66,8,0.44
+936,Sunita Malhotra,62,Female,Married,Indore,Madhya Pradesh,Businessman,1449314,553596,319,15,Life Insurance,9,2,2,On-time,Monthly,0.3206382764753075,9,8,0.59
+937,Amit Iyer,62,Male,Married,Patna,Bihar,Nurse,1748916,1186010,627,6,Car Insurance,18,5,1,On-time,Yearly,0.6391127749833111,14,6,0.65
+938,Anjali Reddy,34,Female,Married,Jaipur,Rajasthan,Farmer,305368,173471,760,47,Retirement Plans,1,2,2,Late,Yearly,0.9724638279860974,62,5,0.55
+939,Priya Das,63,Female,Married,Jaipur,Rajasthan,Electrician,1495470,1471273,866,13,Retirement Plans,17,5,1,On-time,Yearly,0.2450593504163775,76,6,0.64
+940,Amit Chopra,42,Female,Married,Delhi,Delhi,Doctor,213080,758006,516,18,Investment Plans,13,0,3,On-time,Yearly,0.8140256702511459,78,10,0.47
+941,Manish Ghosh,46,Female,Single,Lucknow,Uttar Pradesh,Lawyer,874930,861124,395,27,Car Insurance,15,5,2,On-time,Lump Sum,0.6865590105694251,82,8,0.54
+942,Pooja Saxena,33,Female,Married,Jaipur,Rajasthan,Journalist,1531908,1442086,353,16,Retirement Plans,12,5,2,Late,Yearly,0.7340323817205197,76,6,0.52
+943,Sunita Gupta,49,Female,Single,Lucknow,Uttar Pradesh,Shop Owner,1175102,410069,350,28,Car Insurance,6,5,2,On-time,Lump Sum,0.3369966346223635,0,4,0.54
+944,Pooja Singh,29,Male,Married,Pune,Maharashtra,Shop Owner,1762139,1402577,635,40,Investment Plans,19,4,2,Late,Yearly,0.305143862984671,39,6,0.7
+945,Amit Yadav,63,Male,Single,Indore,Madhya Pradesh,Government Employee,1263481,1156232,774,14,Health Insurance,5,4,1,On-time,Yearly,0.1516235921739827,27,8,0.58
+946,Pankaj Agarwal,50,Male,Married,Ahmedabad,Gujarat,Farmer,271399,1182923,482,22,Investment Plans,12,5,0,On-time,Monthly,0.9210257176544488,22,10,0.43
+947,Suresh Sharma,58,Male,Married,Lucknow,Uttar Pradesh,Plumber,1483674,150018,659,8,Retirement Plans,4,4,2,On-time,Yearly,0.0864411490838487,59,5,0.64
+948,Kavita Reddy,33,Female,Single,Hyderabad,Telangana,Bank Manager,1211380,206764,884,25,Investment Plans,3,3,0,On-time,Yearly,0.0610258669840274,59,2,0.64
+949,Meena Reddy,56,Male,Married,Ahmedabad,Gujarat,Nurse,1383794,756521,352,32,Car Insurance,10,5,3,On-time,Yearly,0.0554430960846434,42,1,0.53
+950,Pankaj Pandey,39,Male,Married,Indore,Madhya Pradesh,Software Engineer,652466,517192,415,48,Retirement Plans,15,3,1,On-time,Yearly,0.1360489975141681,57,5,0.56
+951,Vikram Verma,46,Male,Married,Kolkata,West Bengal,Shop Owner,319240,264322,507,20,Retirement Plans,17,2,1,On-time,Yearly,0.7910139034949035,42,7,0.53
+952,Vikram Agarwal,27,Male,Married,Ahmedabad,Gujarat,Businessman,422995,489264,478,1,Car Insurance,0,3,3,On-time,Monthly,0.4600737484765859,23,7,0.39
+953,Rahul Singh,64,Male,Single,Delhi,Delhi,Journalist,445948,760107,613,11,Car Insurance,3,5,1,Late,Monthly,0.42657529583838,44,8,0.44
+954,Priya Mehta,50,Female,Single,Delhi,Delhi,Journalist,974212,472752,384,9,Investment Plans,11,4,3,Late,Lump Sum,0.0356364072714825,60,6,0.52
+955,Meena Agarwal,40,Female,Married,Ahmedabad,Gujarat,Farmer,247207,1411141,705,37,Retirement Plans,16,2,0,On-time,Lump Sum,0.3382150815331848,3,10,0.51
+956,Suman Bose,63,Female,Single,Patna,Bihar,Civil Engineer,912298,1409397,460,5,Retirement Plans,18,4,1,Late,Lump Sum,0.7989595126076465,31,2,0.42
+957,Sunita Reddy,25,Male,Single,Bangalore,Karnataka,Farmer,1604451,506191,755,32,Health Insurance,1,0,3,On-time,Lump Sum,0.0613505164111835,33,1,0.64
+958,Anjali Yadav,60,Male,Married,Patna,Bihar,Lawyer,1036348,276846,422,45,Health Insurance,19,1,1,On-time,Lump Sum,0.3310033730812282,81,2,0.63
+959,Sunita Mehta,49,Female,Married,Pune,Maharashtra,Businessman,1713184,656964,651,44,Health Insurance,17,4,1,Late,Yearly,0.6483452041288498,97,4,0.75
+960,Sunita Saxena,35,Male,Single,Pune,Maharashtra,Businessman,1162888,1432010,414,5,Health Insurance,17,5,0,On-time,Lump Sum,0.3812231711370513,89,10,0.52
+961,Arun Sharma,49,Male,Married,Pune,Maharashtra,Electrician,354330,513663,380,23,Investment Plans,2,0,2,Late,Lump Sum,0.0680751396682817,42,7,0.41
+962,Pooja Patel,62,Female,Single,Chennai,Tamil Nadu,Plumber,1658545,478612,601,27,Health Insurance,1,0,0,On-time,Monthly,0.2645299387833665,48,2,0.61
+963,Pankaj Nair,35,Male,Married,Hyderabad,Telangana,Government Employee,301825,519528,764,15,Life Insurance,7,1,1,On-time,Monthly,0.5440678226400106,47,3,0.46
+964,Meena Patel,43,Male,Single,Delhi,Delhi,Plumber,970262,127084,656,40,Health Insurance,12,1,3,Late,Lump Sum,0.5859692321178711,16,2,0.64
+965,Sunita Iyer,46,Female,Married,Indore,Madhya Pradesh,Government Employee,1932391,704930,373,35,Retirement Plans,13,1,2,Late,Yearly,0.9262689709225796,79,8,0.72
+966,Priya Agarwal,59,Female,Single,Hyderabad,Telangana,Electrician,444674,205861,641,26,Retirement Plans,19,2,2,Late,Monthly,0.5381207539352706,93,6,0.6
+967,Amit Pandey,54,Female,Single,Ahmedabad,Gujarat,Civil Engineer,643133,252545,513,10,Health Insurance,10,2,2,Late,Yearly,0.5688756217051217,54,2,0.48
+968,Arun Sharma,60,Female,Married,Hyderabad,Telangana,Doctor,1144164,1490548,713,26,Life Insurance,15,4,0,Late,Lump Sum,0.8093923694777769,62,3,0.54
+969,Rohit Reddy,46,Male,Single,Jaipur,Rajasthan,Government Employee,1479292,1308177,391,21,Retirement Plans,8,0,0,Late,Yearly,0.9022972117456528,71,1,0.47
+970,Vikram Malhotra,52,Female,Single,Chennai,Tamil Nadu,Civil Engineer,579223,1151104,654,28,Car Insurance,8,3,0,On-time,Monthly,0.0580494214154627,18,3,0.44
+971,Manish Gupta,24,Female,Married,Chennai,Tamil Nadu,Shop Owner,1368119,904059,573,30,Life Insurance,6,2,1,Late,Yearly,0.7895771051919289,8,4,0.57
+972,Amit Chopra,40,Female,Married,Jaipur,Rajasthan,Nurse,365239,839392,459,36,Retirement Plans,18,3,3,Late,Yearly,0.3696041873289967,61,9,0.52
+973,Meena Joshi,36,Female,Married,Indore,Madhya Pradesh,Lawyer,1105441,106757,807,33,Investment Plans,15,3,0,On-time,Monthly,0.2052011455069401,35,5,0.73
+974,Kavita Das,62,Male,Single,Hyderabad,Telangana,Businessman,1004098,1198047,773,18,Car Insurance,20,0,0,On-time,Lump Sum,0.9540915101623874,64,3,0.57
+975,Priya Sharma,60,Male,Married,Pune,Maharashtra,Lawyer,1467546,1327576,886,31,Retirement Plans,13,0,1,On-time,Lump Sum,0.3630547742111365,28,2,0.63
+976,Rajesh Bose,49,Male,Single,Kolkata,West Bengal,Businessman,410318,1081510,701,38,Investment Plans,4,4,1,Late,Lump Sum,0.6844785215051745,49,6,0.47
+977,Rajesh Kumar,32,Male,Single,Patna,Bihar,Teacher,1347455,601017,538,12,Retirement Plans,14,0,0,Late,Lump Sum,0.250967827456068,5,10,0.66
+978,Pooja Verma,48,Male,Married,Pune,Maharashtra,Plumber,1061701,1280723,803,5,Retirement Plans,9,3,2,On-time,Lump Sum,0.2728405697724381,73,7,0.53
+979,Priya Ghosh,48,Male,Married,Ahmedabad,Gujarat,Lawyer,1556150,1065632,813,38,Car Insurance,11,1,0,Late,Yearly,0.7147637648387863,68,4,0.68
+980,Dinesh Kumar,32,Male,Married,Lucknow,Uttar Pradesh,Plumber,1382761,603843,494,49,Investment Plans,13,0,1,On-time,Monthly,0.4990888325840691,92,1,0.63
+981,Rahul Sharma,44,Male,Single,Chennai,Tamil Nadu,Businessman,1975162,300395,475,47,Retirement Plans,2,2,0,Late,Yearly,0.4147651279531256,50,2,0.7
+982,Suman Gupta,47,Male,Married,Hyderabad,Telangana,Doctor,341418,249432,330,40,Investment Plans,20,0,2,On-time,Lump Sum,0.3396392096935535,39,7,0.55
+983,Rohit Yadav,31,Male,Married,Chennai,Tamil Nadu,Nurse,1194662,119616,612,13,Car Insurance,10,5,3,On-time,Lump Sum,0.9371292377028742,56,1,0.59
+984,Pankaj Joshi,37,Female,Single,Delhi,Delhi,Lawyer,1148763,1145873,300,35,Life Insurance,20,2,3,Late,Yearly,0.7033738817328077,3,6,0.55
+985,Divya Saxena,40,Female,Single,Kolkata,West Bengal,Journalist,331176,1264301,853,15,Car Insurance,7,0,3,On-time,Monthly,0.6671847855330642,4,9,0.47
+986,Sunita Reddy,24,Male,Single,Chennai,Tamil Nadu,Lawyer,881486,902813,620,29,Health Insurance,12,3,1,On-time,Lump Sum,0.4863090141272516,97,1,0.51
+987,Meena Saxena,27,Male,Single,Jaipur,Rajasthan,Businessman,963352,1484559,895,32,Investment Plans,13,2,3,Late,Monthly,0.9984529957282252,39,1,0.53
+988,Meena Singh,35,Male,Married,Patna,Bihar,Electrician,1887278,845450,696,9,Retirement Plans,2,1,3,Late,Lump Sum,0.1006336452141432,30,10,0.68
+989,Dinesh Singh,46,Female,Married,Delhi,Delhi,Plumber,1672755,395423,889,4,Investment Plans,0,4,2,Late,Monthly,0.4626043594601354,13,10,0.72
+990,Anjali Ghosh,30,Male,Married,Chennai,Tamil Nadu,Software Engineer,632382,462979,666,37,Car Insurance,11,0,0,Late,Monthly,0.5863641337810638,44,9,0.62
+991,Suresh Reddy,31,Female,Married,Kolkata,West Bengal,Journalist,594336,54273,699,31,Life Insurance,14,2,3,On-time,Monthly,0.2349256600260801,88,3,0.6
+992,Suresh Bose,61,Male,Married,Jaipur,Rajasthan,Shop Owner,1282521,1138876,686,49,Retirement Plans,17,4,0,Late,Yearly,0.790313182091051,88,4,0.65
+993,Sneha Das,48,Female,Single,Hyderabad,Telangana,Journalist,629351,1302939,549,4,Health Insurance,11,0,1,On-time,Monthly,0.5559818347732386,53,8,0.43
+994,Rohit Sharma,53,Male,Married,Chennai,Tamil Nadu,Government Employee,1394324,1441651,312,24,Life Insurance,5,5,2,On-time,Monthly,0.485650664449229,68,7,0.48
+995,Pooja Saxena,29,Male,Single,Lucknow,Uttar Pradesh,Doctor,250560,1285300,551,31,Life Insurance,15,5,0,On-time,Monthly,0.3665203444273932,0,7,0.44
+996,Anjali Saxena,50,Male,Married,Hyderabad,Telangana,Businessman,588398,308959,868,28,Investment Plans,17,4,3,On-time,Yearly,0.8087241518022655,73,5,0.64
+997,Meena Iyer,29,Female,Single,Indore,Madhya Pradesh,Businessman,400248,1247004,306,11,Life Insurance,11,4,2,On-time,Yearly,0.8192842769600011,61,1,0.29
+998,Rohit Ghosh,45,Female,Single,Hyderabad,Telangana,Doctor,659072,634653,314,25,Health Insurance,15,1,1,On-time,Lump Sum,0.6159787488712549,6,9,0.52
+999,Rajesh Bose,58,Male,Married,Indore,Madhya Pradesh,Farmer,1810973,767758,772,3,Retirement Plans,5,3,3,On-time,Lump Sum,0.2964156549209612,68,4,0.64

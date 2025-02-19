@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Propensity Score Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .score-card { 
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .score-value {
+            font-size: 48px;
+            color: #4CAF50;
+            margin: 10px 0;
+        }
+        .metric-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .metric-card {
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+        }
+        .metric-value {
+            font-size: 24px;
+            color: #2196F3;
+            margin: 10px 0;
+        }
+        .back-button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Propensity Score Analysis</h2>
+    
+    <div class="score-card">
+        <h3>Overall Propensity Score</h3>
+        <div class="score-value">{{ propensity_score }}%</div>
+        <p>Likelihood of customer conversion</p>
+    </div>
+    
+    <div class="metric-container">
+        <div class="metric-card">
+            <h3>Expense Ratio</h3>
+            <div class="metric-value">{{ "%.1f"|format(metrics.expense_ratio) }}%</div>
+            <p>Annual expenses to income</p>
+        </div>
+        
+        <div class="metric-card">
+            <h3>Credit Health</h3>
+            <div class="metric-value">{{ "%.1f"|format(metrics.credit_health) }}%</div>
+            <p>Credit score performance</p>
+        </div>
+        
+        <div class="metric-card">
+            <h3>Engagement Score</h3>
+            <div class="metric-value">{{ "%.1f"|format(metrics.engagement_score) }}%</div>
+            <p>Based on website visits</p>
+        </div>
+    </div>
+    
+    <a href="{{ url_for('index') }}" class="back-button">Calculate Another Score</a>
+</body>
+</html>

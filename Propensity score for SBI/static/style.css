@@ -1,0 +1,53 @@
+/* static/style.css */
+.form-input {
+     @apply mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500;
+     padding: 0.5rem;
+     border: 1px solid #e2e8f0;
+     transition: all 0.3s ease;
+ }
+ 
+ .form-input:hover {
+     @apply border-indigo-400;
+ }
+ 
+ .form-group {
+     @apply relative;
+ }
+ 
+ .btn-primary {
+     @apply bg-indigo-600 text-white px-6 py-3 rounded-lg font-medium shadow-md hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2;
+     transition: all 0.3s ease;
+ }
+ 
+ .btn-secondary {
+     @apply bg-gray-600 text-white px-6 py-3 rounded-lg font-medium shadow-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2;
+     transition: all 0.3s ease;
+ }
+ 
+ /* Add smooth transitions */
+ .rounded-lg {
+     transition: transform 0.3s ease;
+ }
+ 
+ .rounded-lg:hover {
+     transform: translateY(-2px);
+ }
+ 
+ /* Custom scrollbar */
+ ::-webkit-scrollbar {
+     width: 8px;
+ }
+ 
+ ::-webkit-scrollbar-track {
+     background: #f1f1f1;
+     border-radius: 4px;
+ }
+ 
+ ::-webkit-scrollbar-thumb {
+     background: #888;
+     border-radius: 4px;
+ }
+ 
+ ::-webkit-scrollbar-thumb:hover {
+     background: #555;
+ }
