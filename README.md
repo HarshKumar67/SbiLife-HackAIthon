@@ -35,10 +35,6 @@ The dashboard includes *two key interactive charts*:
 ### 6. *Recent Search History*
 - Allows users to quickly revisit past queries and insights.
 
-### 7. *Automated Email Notifications*
-- Users receive *personalized notifications* about market updates, investment alerts, and policy recommendations.
-- *Leverages NLP-based user intent analysis* to enhance message relevance and engagement.
-
 ## Tech Stack
 - *Frontend:* React 18, TypeScript, Vite, Tailwind CSS
 - *Backend:* Node.js, Express.js, MongoDB
@@ -70,4 +66,4 @@ The dashboard includes *two key interactive charts*:
 - *Voice-based assistant for enhanced user interaction.*
 
 ## Live Demo
-Check out the live demo: [SBI Life Dashboard](sbi-life.vercel.app)
+Check out the live demo:sbi-life.vercel.app
