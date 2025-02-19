@@ -44,7 +44,7 @@ The dashboard includes *two key interactive charts*:
 ## Setup Instructions
 1. *Clone the repository:*
    sh
-   git clone https://github.com/your-repository/sbi-life-dashboard.git
+   git clone https://github.com/HarshKumar67/SbiLife-HackAIthon.git
    cd sbi-life-dashboard
    
 2. *Install dependencies:*
@@ -66,4 +66,4 @@ The dashboard includes *two key interactive charts*:
 - *Voice-based assistant for enhanced user interaction.*
 
 ## Live Demo
-Check out the live demo:sbi-life.vercel.app
+Check out the live demo:(sbi-life.vercel.app)
