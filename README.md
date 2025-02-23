@@ -2,7 +2,6 @@
 
 ### 🔹 **Revolutionizing AI-Driven Financial Insights for SBI Life Insurance**  
 
-![SBI Life Banner](https://via.placeholder.com/1000x300?text=SBI+Life+Dashboard)  # 🚀 SBI Life Personalized Dashboard  
 
 ## 🏆 Overview  
 The **SBI Life Personalized Dashboard** is an advanced **financial analytics platform** designed to **enhance customer engagement, improve decision-making, and optimize business growth** for **SBI Life Insurance**.  
@@ -72,9 +71,13 @@ Includes **interactive charts** for financial insights:
 ---
 
 ## 📸 Screenshots 
- ![Screenshot 2025-02-23 154![Screenshot 2025-02-10 132829](https://github.com/user-attachments/assets/73a29e12-1a76-49a9-9488-1c7ed14f6920)
-234](https://github.com/user-attachments/assets/b9094031-5d8e-4adb-b153-3aa76b05679b)
-![Screenshot 2025-02-23 161116](https://github.com/user-attachments/assets/96504cec-dfd9-4b89-adce-1ff78ff9f910)
+
+![Screenshot 2025-02-10 132829](https://github.com/user-attachments/assets/213029c7-9932-4298-a392-855f30f29b15)
+
+![Screenshot 2025-02-23 154234](https://github.com/user-attachments/assets/ab0de20f-f68d-4888-b6eb-64142c009e32)
+
+![Screenshot 2025-02-23 161116](https://github.com/user-attachments/assets/9c338887-a6c4-45f5-81de-cf2acaa072fb)
+
 
 
 ---
