@@ -79,6 +79,12 @@ Includes **interactive charts** for financial insights:
 
 ---
 
+## 📹 🎥 Video Demo  
+Check out the **video demo** of the project:  
+[![Watch the video](https://img.youtube.com/vi/QIHxTBY_nVE/0.jpg)](https://youtu.be/QIHxTBY_nVE)  
+
+---
+
 🚀 Live Demo
 🔗 Check out the live demo: [SBI Life Dashboard (Vercel)](https://sbi-life.vercel.app)
 
