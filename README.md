@@ -80,7 +80,7 @@ Includes **interactive charts** for financial insights:
 ---
 
 🚀 Live Demo
-🔗 Check out the live demo: SBI Life Dashboard (Vercel)
+🔗 Check out the live demo: [SBI Life Dashboard (Vercel)](https://sbi-life.vercel.app)
 
 ---
 
