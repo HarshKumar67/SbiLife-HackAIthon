@@ -2,79 +2,80 @@
 
 ### 🔹 **Revolutionizing AI-Driven Financial Insights for SBI Life Insurance**  
 
-![SBI Life Banner](https://via.placeholder.com/1000x300?text=SBI+Life+Dashboard)  
+![SBI Life Banner](https://via.placeholder.com/1000x300?text=SBI+Life+Dashboard)  # 🚀 SBI Life Personalized Dashboard  
 
-## 📌 Overview  
-The **SBI Life Personalized Dashboard** is a cutting-edge **financial analytics platform** designed to **enhance customer engagement, improve decision-making, and optimize business growth** for **SBI Life Insurance**.  
+## 🏆 Overview  
+The **SBI Life Personalized Dashboard** is an advanced **financial analytics platform** designed to **enhance customer engagement, improve decision-making, and optimize business growth** for **SBI Life Insurance**.  
 
-🚀 **Built With:**  
-- **Frontend:** React 18 ⚛️, TypeScript 🟦, Vite ⚡, Tailwind CSS 🎨  
-- **Backend:** Node.js 🟢, Express.js 🚀, MongoDB 🍃  
-- **AI & Analytics:** Logistic Regression 🤖, Collaborative Filtering 📊, NLP 🧠  
-- **Security:** Multi-Factor Authentication 🔒, AES-256 Encryption 🔑  
+### 🔧 Built With:  
+- **Frontend:** React 18, TypeScript, Vite, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **AI & Analytics:** Logistic Regression, Collaborative Filtering, NLP  
+- **Security:** Multi-Factor Authentication, AES-256 Encryption  
 
-✨ With **real-time insights**, **AI-powered propensity score analysis**, and **interactive data visualization**, this dashboard provides a **seamless, intelligent, and secure** user experience.  
-
----
-
-## ✨ Features & Impact  
-
-### 🎯 1. Propensity Score Analysis  
-📊 *AI-driven scoring model* predicts the likelihood of a **user purchasing additional policies**.  
-✅ **High-score users** get exclusive **rewards & offers**.  
-⚡ **Medium-score users** receive **personalized incentives** to boost engagement.  
-📈 **Business Impact:** Drives **upselling & cross-selling**, leading to **higher revenue & customer retention**.  
+With **real-time insights**, **AI-powered propensity score analysis**, and **interactive data visualization**, this dashboard delivers a **smart, efficient, and secure** user experience.  
 
 ---
 
-### 📊 2. Data Analytics & Visualization  
-🖥️ The dashboard includes **interactive charts** for **data-driven insights**:  
-- 📌 **ROI Projection Chart:** Predicts expected returns over different market conditions.  
-- 📌 **Market Trend Analysis Chart:** Compares **SBI Life’s policy growth** with industry trends.  
+## ✨ Features  
 
-📈 **Impact:** Empowers customers to make **smarter financial decisions**.  
-
----
-
-### 🎯 3. Personalized Recommendation System *(Upcoming Feature 🚀)*  
-🧠 **AI-powered** personalized policy recommendations based on:  
-✔️ **User purchase history**  
-✔️ **Financial goals**  
-✔️ **Policy preferences**  
-
-✨ **Impact:** Increases **conversion rates** & **customer satisfaction** by offering the **right policy at the right time**.  
+### 📊 Propensity Score Analysis  
+- AI-driven scoring model predicts the likelihood of a **user purchasing additional policies**.  
+- **High-score users** receive exclusive **rewards & offers**.  
+- **Medium-score users** get tailored **incentives** to boost engagement.  
+- **Impact:** Enhances **upselling & cross-selling** opportunities, leading to **higher customer retention and revenue**.  
 
 ---
 
-### 🔒 4. Enhanced Security Measures  
-- 🔹 **Multi-Factor Authentication (MFA) 🔑** – Ensures secure login.  
-- 🔹 **AES-256 Encryption 🔐** – Protects user data during storage & transmission.  
-- 🔹 **Impact:** Ensures **data privacy compliance** & builds **user trust**.  
+### 📈 Data Analytics & Visualization  
+Includes **interactive charts** for financial insights:  
+- **ROI Projection Chart** – Predicts expected returns over different market conditions.  
+- **Market Trend Analysis Chart** – Compares **SBI Life’s policy growth** with industry trends.  
+
+**Impact:** Empowers customers to make **data-driven financial decisions**.  
 
 ---
 
-### 🤖 5. SBI Life Assistant – AI Chatbot  
-💡 AI-powered chatbot assists users with:  
-✅ **Financial queries & market trends**  
-✅ **Policy selection guidance**  
-✅ **Investment planning support**  
-
-⚡ **Impact:** Enhances **customer engagement** and **reduces query resolution time**.  
+### 🎯 Personalized Recommendation System 
+- AI-powered recommendations based on **user purchase history, financial goals, and policy preferences**.  
+- **Impact:** Helps customers make **better investment decisions**, improving **conversion rates and satisfaction**.  
 
 ---
 
-### 📌 6. Recent Search History  
-📌 Allows users to **revisit past searches & insights** without starting from scratch.  
-
-🚀 **Impact:** Saves time & enhances **user convenience**.  
+### 🔒 Enhanced Security Measures  
+- **Multi-Factor Authentication (MFA)** ensures secure login.  
+- **AES-256 Encryption** protects data storage and transmission.  
+- **Impact:** Ensures **data privacy compliance** and **builds trust among users**.  
 
 ---
 
-## 🛠️ Tech Stack  
-- **Frontend:** React 18 ⚛️, TypeScript 🟦, Vite ⚡, Tailwind CSS 🎨  
-- **Backend:** Node.js 🟢, Express.js 🚀, MongoDB 🍃  
-- **AI & Analytics:** Logistic Regression 🤖, Collaborative Filtering 📊, NLP 🧠  
-- **Security:** Multi-Factor Authentication 🔒, AES-256 Encryption 🔑  
+### 🤖 SBI Life Assistant – AI Chatbot  
+- Assists users with **financial queries, policy selection, and market trends**.  
+- **Impact:** Provides **instant support** and improves **user engagement**.  
+
+---
+
+### 🕵️ Recent Search History  
+- Allows users to **quickly revisit past queries and insights**.  
+- **Impact:** Saves time and enhances user convenience.  
+
+---
+
+## 🛠 Tech Stack  
+- **Frontend:** React 18, TypeScript, Vite, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **AI & Analytics:** Logistic Regression, Collaborative Filtering, NLP  
+- **Security:** Multi-Factor Authentication, AES-256 Encryption  
+
+---
+
+---
+
+## 📸 Screenshots 
+ ![Screenshot 2025-02-23 154![Screenshot 2025-02-10 132829](https://github.com/user-attachments/assets/73a29e12-1a76-49a9-9488-1c7ed14f6920)
+234](https://github.com/user-attachments/assets/b9094031-5d8e-4adb-b153-3aa76b05679b)
+![Screenshot 2025-02-23 161116](https://github.com/user-attachments/assets/96504cec-dfd9-4b89-adce-1ff78ff9f910)
+
 
 ---
 
@@ -84,3 +85,4 @@ The **SBI Life Personalized Dashboard** is a cutting-edge **financial analytics 
 ```sh
 git clone https://github.com/HarshKumar67/SbiLife-HackAIthon.git
 cd sbi-life-dashboard
+
